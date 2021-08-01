@@ -1,0 +1,2637 @@
+<!DOCTYPE html>
+<html class="desktop
+">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# good_reads: http://ogp.me/ns/fb/good_reads#">
+  <title>Online by Seth Blackburn</title>
+
+<meta content="Online book. Read 6 reviews from the world's largest community for readers. Brendan Lowes is a wanted man.The Sarasins want him in prison.His friends and..." name='description'>
+<meta content='telephone=no' name='format-detection'>
+<link href='https://www.goodreads.com/book/show/12964018-online' rel='canonical'>
+    <meta content='2415071772' property='fb:app_id'>
+<meta content='books.book' property='og:type'>
+<meta content='Online' property='og:title'>
+<meta content='Brendan Lowes is a wanted man.The Sarasins want him in prison.His friends and family want to save him.And Alexa Vallencourt wants nothing...' property='og:description'>
+<meta content='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327948827i/12964018._UY630_SR1200,630_.jpg' property='og:image'>
+<meta content='https://www.goodreads.com/work/best_book/18121823-online' property='og:url'>
+<meta content='https://www.goodreads.com/author/show/5298576.Seth_Blackburn' property='books:author'>
+<meta content='null' property='books:isbn'>
+<meta content='348' property='books:page_count'>
+<meta content='Goodreads' property='al:ios:app_name'>
+<meta content='355833469' property='al:ios:app_store_id'>
+<meta content='com.goodreads.https://book/show/12964018' property='al:ios:url'>
+
+        <link rel="alternate" href="https://www.goodreads.com/en/book/show/12964018" hreflang="en"/>
+
+
+    <link rel="alternate" href="android-app://com.goodreads/https/www.goodreads.com/book/show/12964018-online">
+
+          <link rel="next" href="https://www.goodreads.com/book/show/12964018-online?page=2">
+
+
+
+    <script type="text/javascript"> var ue_t0=window.ue_t0||+new Date();
+ </script>
+  <script type="text/javascript">
+    var ue_mid = "A1PQBFHBHS6YH1";
+    var ue_sn = "www.goodreads.com";
+    var ue_furl = "fls-na.amazon.com";
+    var ue_sid = "519-1722880-8040331";
+    var ue_id = "C9JHGDZ4P2VYJXRXCDH8";
+
+    (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+
+    if (window.ue && window.ue.tag) { window.ue.tag('book:show:signed_out', ue.main_scope);window.ue.tag('book:show:signed_out:desktop', ue.main_scope); }
+  </script>
+
+  <!-- * Copied from https://info.analytics.a2z.com/#/docs/data_collection/csa/onboard */ -->
+<script>
+  //<![CDATA[
+    !function(){function n(n,t){var r=i(n);return t&&(r=r("instance",t)),r}var r=[],c=0,i=function(t){return function(){var n=c++;return r.push([t,[].slice.call(arguments,0),n,{time:Date.now()}]),i(n)}};n._s=r,this.csa=n}();
+    
+    if (window.csa) {
+      window.csa("Config", {
+        "Application": "GoodreadsMonolith",
+        "Events.SushiEndpoint": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod",
+        "Events.Namespace": "csa",
+        "CacheDetection.RequestID": "C9JHGDZ4P2VYJXRXCDH8",
+        "ObfuscatedMarketplaceId": "A1PQBFHBHS6YH1"
+      });
+    
+      window.csa("Events")("setEntity", {
+        session: { id: "519-1722880-8040331" },
+        page: {requestId: "C9JHGDZ4P2VYJXRXCDH8", meaningful: "interactive"}
+      });
+    }
+    
+    var e = document.createElement("script"); e.src = "https://m.media-amazon.com/images/I/41mrkPcyPwL.js"; document.head.appendChild(e);
+  //]]>
+</script>
+
+
+          <script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  
+<script src="https://s.gr-assets.com/assets/webfontloader-f5925439393a000d48096973793890d8.js"></script>
+<script>
+//<![CDATA[
+
+  WebFont.load({
+    classes: false,
+    custom: {
+      families: ["Lato:n4,n7,i4", "Merriweather:n4,n7,i4"],
+      urls: ["https://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css"]
+    }
+  });
+
+//]]>
+</script>
+
+  <link rel="stylesheet" media="all" href="https://s.gr-assets.com/assets/goodreads-c1d23a956f58196567af89728e4673d6.css" />
+
+  
+
+  <link rel="stylesheet" media="screen" href="https://s.gr-assets.com/assets/common_images-670d97636259cafc355c94fc43e871d7.css" />
+
+  <script src="https://s.gr-assets.com/assets/desktop/libraries-41a429a5834e6352d597e2cf0b06486f.js"></script>
+  <script src="https://s.gr-assets.com/assets/application-7e56485d561ff0443ad20add2c20e31f.js"></script>
+
+    <script>
+  //<![CDATA[
+    var gptAdSlots = gptAdSlots || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//securepubads.g.doubleclick.net/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "osid.ee5700f8945aa268611109d1b69f7ed8");
+    googletag.pubads().setTargeting("grsession", "osid.ee5700f8945aa268611109d1b69f7ed8");
+    googletag.pubads().setTargeting("surface", "desktop");
+    googletag.pubads().setTargeting("signedin", "false");
+    googletag.pubads().setTargeting("gr_author", "false");
+    googletag.pubads().setTargeting("author", [5298576]);
+    googletag.pubads().setTargeting("shelf", ["horror"]);
+    googletag.pubads().setTargeting("tags", ["352"]);
+    googletag.pubads().setTargeting("gtargeting", "13ydj5");
+    googletag.pubads().setTargeting("resource", "Work_18121823");
+      googletag.pubads().enableAsyncRendering();
+      googletag.pubads().enableSingleRequest();
+      googletag.pubads().collapseEmptyDivs(true);
+      googletag.pubads().disableInitialLoad();
+      googletag.enableServices();
+    });
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    ! function(a9, a, p, s, t, A, g) {
+      if (a[a9]) return;
+    
+      function q(c, r) {
+        a[a9]._Q.push([c, r])
+      }
+      a[a9] = {
+      init: function() {
+        q("i", arguments)
+      },
+      fetchBids: function() {
+        q("f", arguments)
+      },
+      setDisplayBids: function() {},
+        _Q: []
+      };
+      A = p.createElement(s);
+      A.async = !0;
+      A.src = t;
+      g = p.getElementsByTagName(s)[0];
+      g.parentNode.insertBefore(A, g)
+    }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+    
+    apstag.init({
+      pubID: '3211', adServer: 'googletag', bidTimeout: 4e3, params: { aps_privacy: '1YN' }
+    });
+  //]]>
+</script>
+
+
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="9bKrXyKZoT/k0DVcJaiEQoGbXFchymFAv/ChzrofVzZcXRE3Rvp4bgGxmZmuzle9gTUTaKpz0Aqxes1vj3SKcg==" />
+
+  <meta name="request-id" content="C9JHGDZ4P2VYJXRXCDH8" />
+
+    <script src="https://s.gr-assets.com/assets/react_client_side/external_dependencies-2e2b90fafc.js" defer="defer"></script>
+<script src="https://s.gr-assets.com/assets/react_client_side/site_header-9ed6a78144.js" defer="defer"></script>
+<script src="https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js" defer="defer"></script>
+
+
+      <script src="https://s.gr-assets.com/assets/book/show-a22931d02749837069b3b4a4ebf40236.js"></script>
+    <script>
+    //<![CDATA[
+      !function(d,s,id)
+        {var js, fjs = d.getElementsByTagName(s)[0];
+          if(!d.getElementById(id))
+            {js=d.createElement(s);
+            js.id=id;
+            js.src='https://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);
+          }}(document,'script','twitter-wjs');
+    //]]>
+    </script>
+
+
+  
+  
+  
+
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Goodreads">
+
+    <meta name="description" content="Online book. Read 6 reviews from the world's largest community for readers. Brendan Lowes is a wanted man.The Sarasins want him in prison.His friends and...">
+
+
+  <meta content='summary' name='twitter:card'>
+<meta content='@goodreads' name='twitter:site'>
+<meta content='Online by Seth Blackburn' name='twitter:title'>
+<meta content="Online book. Read 6 reviews from the world's largest community for readers. Brendan Lowes is a wanted man.The Sarasins want him in prison.His friends and..." name='twitter:description'>
+<meta content='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327948827i/12964018._UY458_SS458_.jpg' name='twitter:image'>
+<meta content='Online' name='twitter:image:alt'>
+
+
+  <meta name="verify-v1" content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=">
+  <meta name="google-site-verification" content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" />
+  <meta name="apple-itunes-app" content="app-id=355833469">
+</head>
+
+
+<body class="">
+<div data-react-class="ReactComponents.StoresInitializer" data-react-props="{}"><noscript data-reactid=".1ej171ncgym" data-react-checksum="-1275719375"></noscript></div>
+
+<div class="content">
+    <script>
+  //<![CDATA[
+    var initializeGrfb = function() {
+      $grfb.initialize({
+        appId: "2415071772"
+      });
+    };
+    if (typeof $grfb !== "undefined") {
+      initializeGrfb();
+    } else {
+      window.addEventListener("DOMContentLoaded", function() {
+        if (typeof $grfb !== "undefined") {
+          initializeGrfb();
+        }
+      });
+    }
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    function loadScript(url, callback) {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+    
+      if (script.readyState) {  //Internet Explorer
+          script.onreadystatechange = function() {
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete") {
+              script.onreadystatechange = null;
+              callback();
+            }
+          };
+      } else {  //Other browsers
+        script.onload = function() {
+          callback();
+        };
+      }
+    
+      script.src = url;
+      document.getElementsByTagName("head")[0].appendChild(script);
+    }
+    
+    function initAppleId() {
+      AppleID.auth.init({
+        clientId : 'com.goodreads.app', 
+        scope : 'name email',
+        redirectURI: 'https://www.goodreads.com/apple_users/sign_in_with_apple_web',
+        state: 'apple_oauth_state_7ce0a7de-22e2-41d7-ad1e-d5dc509e65a8'
+      });
+    }
+    
+    var initializeSiwa = function() {
+      var APPLE_SIGN_IN_JS_URL =  "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"
+      loadScript(APPLE_SIGN_IN_JS_URL, initAppleId);
+    };
+    if (typeof AppleID !== "undefined") {
+      initAppleId();
+    } else {
+      initializeSiwa();
+    }
+  //]]>
+</script>
+
+<div class='siteHeader'>
+<div data-react-class="ReactComponents.HeaderStoreConnector" data-react-props="{&quot;myBooksUrl&quot;:&quot;/review/list?ref=nav_mybooks&quot;,&quot;browseUrl&quot;:&quot;/book?ref=nav_brws&quot;,&quot;recommendationsUrl&quot;:&quot;/recommendations?ref=nav_brws_recs&quot;,&quot;choiceAwardsUrl&quot;:&quot;/choiceawards?ref=nav_brws_gca&quot;,&quot;genresIndexUrl&quot;:&quot;/genres?ref=nav_brws_genres&quot;,&quot;giveawayUrl&quot;:&quot;/giveaway?ref=nav_brws_giveaways&quot;,&quot;exploreUrl&quot;:&quot;/book?ref=nav_brws_explore&quot;,&quot;homeUrl&quot;:&quot;/?ref=nav_home&quot;,&quot;listUrl&quot;:&quot;/list?ref=nav_brws_lists&quot;,&quot;newsUrl&quot;:&quot;/news?ref=nav_brws_news&quot;,&quot;communityUrl&quot;:&quot;/group?ref=nav_comm&quot;,&quot;groupsUrl&quot;:&quot;/group?ref=nav_comm_groups&quot;,&quot;quotesUrl&quot;:&quot;/quotes?ref=nav_comm_quotes&quot;,&quot;featuredAskAuthorUrl&quot;:&quot;/ask_the_author?ref=nav_comm_askauthor&quot;,&quot;discussionsUrl&quot;:&quot;/topic?ref=nav_comm_discuss&quot;,&quot;autocompleteUrl&quot;:&quot;/book/auto_complete&quot;,&quot;defaultLogoActionUrl&quot;:&quot;/&quot;,&quot;topFullImage&quot;:{},&quot;logo&quot;:{&quot;clickthroughUrl&quot;:&quot;/&quot;,&quot;altText&quot;:&quot;Goodreads Home&quot;},&quot;searchPath&quot;:&quot;/search&quot;,&quot;newReleasesUrl&quot;:&quot;/book/popular_by_date/2021/7?ref=nav_brws_newrels&quot;,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;signInWithReturnUrl&quot;:true,&quot;deployServices&quot;:[],&quot;defaultLogoAltText&quot;:&quot;Goodreads Home&quot;,&quot;mobviousDeviceType&quot;:&quot;desktop&quot;}"><header data-reactid=".1zk6ijsvxni" data-react-checksum="-1298729329"><div class="siteHeader__topLine gr-box gr-box--withShadow" data-reactid=".1zk6ijsvxni.1"><div class="siteHeader__contents" data-reactid=".1zk6ijsvxni.1.0"><div class="siteHeader__topLevelItem siteHeader__topLevelItem--searchIcon" data-reactid=".1zk6ijsvxni.1.0.0"><button class="siteHeader__searchIcon gr-iconButton" aria-label="Toggle search" type="button" data-ux-click="true" data-reactid=".1zk6ijsvxni.1.0.0.0"></button></div><a href="/" class="siteHeader__logo" aria-label="Goodreads Home" title="Goodreads Home" data-reactid=".1zk6ijsvxni.1.0.1"></a><nav class="siteHeader__primaryNavInline" data-reactid=".1zk6ijsvxni.1.0.2"><ul role="menu" class="siteHeader__menuList" data-reactid=".1zk6ijsvxni.1.0.2.0"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--home" data-reactid=".1zk6ijsvxni.1.0.2.0.0"><a href="/?ref=nav_home" class="siteHeader__topLevelLink" data-reactid=".1zk6ijsvxni.1.0.2.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".1zk6ijsvxni.1.0.2.0.1"><a href="/review/list?ref=nav_mybooks" class="siteHeader__topLevelLink" data-reactid=".1zk6ijsvxni.1.0.2.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".1zk6ijsvxni.1.0.2.0.2"><div class="primaryNavMenu primaryNavMenu--siteHeaderBrowseMenu ignore-react-onclickoutside" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0"><a class="primaryNavMenu__trigger primaryNavMenu__trigger--siteHeaderBrowseMenu" href="/book?ref=nav_brws" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.0"><span data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.0.0">Browse ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge wide" role="menu" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.0"><a href="/recommendations?ref=nav_brws_recs" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.1"><a href="/choiceawards?ref=nav_brws_gca" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.1.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.2"><a href="/genres?ref=nav_brws_genres" class="siteHeader__subNavLink siteHeader__subNavLink--genresIndex" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.2.0">Genres</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.3"><a href="/giveaway?ref=nav_brws_giveaways" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.3.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.4"><a href="/book/popular_by_date/2021/7?ref=nav_brws_newrels" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.4.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.5"><a href="/list?ref=nav_brws_lists" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.5.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.6"><a href="/book?ref=nav_brws_explore" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.6.0">Explore</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.7"><a href="/news?ref=nav_brws_news" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.0.7.0">News &amp; Interviews</a></li></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0"><div class="siteHeader__heading siteHeader__title" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Art"><a href="/genres/art" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Biography"><a href="/genres/biography" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Business"><a href="/genres/business" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Christian"><a href="/genres/christian" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Classics"><a href="/genres/classics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Comics"><a href="/genres/comics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0">Cookbooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0">Fantasy</a></li></ul><ul class="genreList" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction"><a href="/genres/fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$History"><a href="/genres/history" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Horror"><a href="/genres/horror" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir"><a href="/genres/memoir" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Music"><a href="/genres/music" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery"><a href="/genres/mystery" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry"><a href="/genres/poetry" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0">Poetry</a></li></ul><ul class="genreList" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology"><a href="/genres/psychology" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Romance"><a href="/genres/romance" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science"><a href="/genres/science" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help"><a href="/genres/self-help" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Sports"><a href="/genres/sports" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller"><a href="/genres/thriller" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Travel"><a href="/genres/travel" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0">Young Adult</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.1"><a href="/genres" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.2.0.2.0.1.0.1.0.1:$genreList2.1.0">More Genres</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--community" data-reactid=".1zk6ijsvxni.1.0.2.0.3"><div class="primaryNavMenu ignore-react-onclickoutside" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0"><a class="primaryNavMenu__trigger" href="/group?ref=nav_comm" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.0"><span data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.0.0">Community ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge" role="menu" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.1.0.0"><a href="/group?ref=nav_comm_groups" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.1.0.1"><a href="/topic?ref=nav_comm_discuss" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.1.0.1.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.1.0.2"><a href="/quotes?ref=nav_comm_quotes" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.1.0.3"><a href="/ask_the_author?ref=nav_comm_askauthor" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.2.0.3.0.1.0.3.0">Ask the Author</a></li></ul></div></div></li></ul></nav><div accept-charset="UTF-8" class="searchBox searchBox--navbar" data-reactid=".1zk6ijsvxni.1.0.3"><form autocomplete="off" action="/search" class="searchBox__form" role="search" aria-label="Search for books to add to your shelves" data-reactid=".1zk6ijsvxni.1.0.3.0"><input class="searchBox__input searchBox__input--navbar" autocomplete="off" name="q" type="text" placeholder="Search books" aria-label="Search books" aria-controls="searchResults" data-reactid=".1zk6ijsvxni.1.0.3.0.0"/><input type="hidden" name="qid" value="" data-reactid=".1zk6ijsvxni.1.0.3.0.1"/><button type="submit" class="searchBox__icon--magnifyingGlass gr-iconButton searchBox__icon searchBox__icon--navbar" aria-label="Search" data-reactid=".1zk6ijsvxni.1.0.3.0.2"></button></form></div><ul class="siteHeader__personal" data-reactid=".1zk6ijsvxni.1.0.4"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".1zk6ijsvxni.1.0.4.0"><a href="/user/sign_in?returnurl=undefined" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".1zk6ijsvxni.1.0.4.0.0">Sign In</a></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".1zk6ijsvxni.1.0.4.1"><a href="/user/sign_up" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".1zk6ijsvxni.1.0.4.1.0">Join</a></li></ul><div class="siteHeader__topLevelItem siteHeader__topLevelItem--signUp" data-reactid=".1zk6ijsvxni.1.0.5"><a href="/user/sign_up" class="gr-button gr-button--dark" rel="nofollow" data-reactid=".1zk6ijsvxni.1.0.5.0">Sign up</a></div><div class="modal modal--overlay modal--drawer" tabindex="0" data-reactid=".1zk6ijsvxni.1.0.7"><div data-reactid=".1zk6ijsvxni.1.0.7.0"><div class="modal__close" data-reactid=".1zk6ijsvxni.1.0.7.0.0"><button type="button" class="gr-iconButton" data-reactid=".1zk6ijsvxni.1.0.7.0.0.0"><img alt="Dismiss" src="//s.gr-assets.com/assets/gr/icons/icon_close_white-dbf4152deeef5bd3915d5d12210bf05f.svg" data-reactid=".1zk6ijsvxni.1.0.7.0.0.0.0"/></button></div><div class="modal__content" data-reactid=".1zk6ijsvxni.1.0.7.0.1"><div class="personalNavDrawer" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0"><div class="personalNavDrawer__personalNavContainer" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0"><ul class="personalNav" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0"><li class="personalNav__listItem" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.0"><a class="headerPersonalNav" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.0.0"><span class="headerPersonalNav__icon
+                       headerPersonalNav__icon--notifications" aria-label="Notifications" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.0.0.0"></span></a></li><li class="personalNav__listItem" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.1"><a href="/topic?ref=nav_bar_discussions_pane_discussion&amp;discussion_filter=groups" title="My group discussions" class="headerPersonalNav" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.1.0"><span class="headerPersonalNav__icon headerPersonalNav__icon--discussions" aria-label="My group discussions" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.1.0.0"></span></a></li><li class="personalNav__listItem" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.2"><a title="Messages" class="headerPersonalNav" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.2.0"><span class="headerPersonalNav__icon headerPersonalNav__icon--inbox" aria-label="Inbox" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.2.0.0"></span></a></li><li class="personalNav__listItem" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.3"><a title="Friends" class="headerPersonalNav" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.3.0"><span class="headerPersonalNav__icon headerPersonalNav__icon--friendRequests" aria-label="Friend Requests" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.0.0.3.0.0"></span></a></li></ul></div><div class="personalNavDrawer__profileAndLinksContainer" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1"><div class="personalNavDrawer__profileContainer gr-mediaFlexbox gr-mediaFlexbox--alignItemsCenter" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.0"><div class="gr-mediaFlexbox__media" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.0.0"><img class="circularIcon circularIcon--large circularIcon--border" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.0.0.0"/></div><div class="gr-mediaFlexbox__desc" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.0.1"><a class="gr-hyperlink gr-hyperlink--bold" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.0.1.0"></a><div class="u-displayBlock" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.0.1.1"><a class="gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.0.1.1.0">View profile</a></div></div></div><div class="personalNavDrawer__profileMenuContainer" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1"><ul data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0"><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.0"><span data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.0.0"><a class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.0.0.0">Profile</a></span></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.3"><a class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.3.0">Friends</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.4"><span data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.4.0"><a class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.4.0.0"><span data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.4.0.0.0">Groups</span></a></span></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.5"><a href="/topic?ref=nav_comm_discuss" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.5.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.6"><a class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.6.0">Comments</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.7"><a class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.7.0">Reading Challenge</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.8"><a class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.8.0">Kindle Notes &amp; Highlights</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.9"><a class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.9.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.a"><a class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.a.0">Favorite genres</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.b"><span data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.b.0"><a class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.b.0.0"><span data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.b.0.0.0">Friends’ recommendations</span></a></span></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.c"><a class="siteHeader__subNavLink u-topGrayBorder" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.c.0">Account settings</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.d"><a class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.d.0">Help</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.e"><a class="siteHeader__subNavLink" data-method="POST" data-reactid=".1zk6ijsvxni.1.0.7.0.1.0.1.1.0.e.0">Sign out</a></li></ul></div></div></div></div></div></div></div></div><div class="headroom-wrapper" data-reactid=".1zk6ijsvxni.2"><div style="position:relative;top:0;left:0;right:0;z-index:1;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);" class="headroom headroom--unfixed" data-reactid=".1zk6ijsvxni.2.0"><nav class="siteHeader__primaryNavSeparateLine gr-box gr-box--withShadow" data-reactid=".1zk6ijsvxni.2.0.0"><ul role="menu" class="siteHeader__menuList" data-reactid=".1zk6ijsvxni.2.0.0.0"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--home" data-reactid=".1zk6ijsvxni.2.0.0.0.0"><a href="/?ref=nav_home" class="siteHeader__topLevelLink" data-reactid=".1zk6ijsvxni.2.0.0.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".1zk6ijsvxni.2.0.0.0.1"><a href="/review/list?ref=nav_mybooks" class="siteHeader__topLevelLink" data-reactid=".1zk6ijsvxni.2.0.0.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".1zk6ijsvxni.2.0.0.0.2"><div class="primaryNavMenu primaryNavMenu--siteHeaderBrowseMenu ignore-react-onclickoutside" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0"><a class="primaryNavMenu__trigger primaryNavMenu__trigger--siteHeaderBrowseMenu" href="/book?ref=nav_brws" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.0"><span data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.0.0">Browse ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge wide" role="menu" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.0"><a href="/recommendations?ref=nav_brws_recs" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.1"><a href="/choiceawards?ref=nav_brws_gca" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.1.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.2"><a href="/genres?ref=nav_brws_genres" class="siteHeader__subNavLink siteHeader__subNavLink--genresIndex" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.2.0">Genres</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.3"><a href="/giveaway?ref=nav_brws_giveaways" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.3.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.4"><a href="/book/popular_by_date/2021/7?ref=nav_brws_newrels" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.4.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.5"><a href="/list?ref=nav_brws_lists" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.5.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.6"><a href="/book?ref=nav_brws_explore" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.6.0">Explore</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.7"><a href="/news?ref=nav_brws_news" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.0.7.0">News &amp; Interviews</a></li></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0"><div class="siteHeader__heading siteHeader__title" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Art"><a href="/genres/art" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Biography"><a href="/genres/biography" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Business"><a href="/genres/business" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Christian"><a href="/genres/christian" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Classics"><a href="/genres/classics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Comics"><a href="/genres/comics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0">Cookbooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0">Fantasy</a></li></ul><ul class="genreList" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction"><a href="/genres/fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$History"><a href="/genres/history" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Horror"><a href="/genres/horror" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir"><a href="/genres/memoir" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Music"><a href="/genres/music" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery"><a href="/genres/mystery" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry"><a href="/genres/poetry" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0">Poetry</a></li></ul><ul class="genreList" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology"><a href="/genres/psychology" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Romance"><a href="/genres/romance" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science"><a href="/genres/science" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help"><a href="/genres/self-help" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Sports"><a href="/genres/sports" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller"><a href="/genres/thriller" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Travel"><a href="/genres/travel" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0">Young Adult</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.1"><a href="/genres" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".1zk6ijsvxni.2.0.0.0.2.0.1.0.1.0.1:$genreList2.1.0">More Genres</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--community" data-reactid=".1zk6ijsvxni.2.0.0.0.3"><div class="primaryNavMenu ignore-react-onclickoutside" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0"><a class="primaryNavMenu__trigger" href="/group?ref=nav_comm" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.0"><span data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.0.0">Community ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge" role="menu" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.1.0.0"><a href="/group?ref=nav_comm_groups" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.1.0.1"><a href="/topic?ref=nav_comm_discuss" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.1.0.1.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.1.0.2"><a href="/quotes?ref=nav_comm_quotes" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.1.0.3"><a href="/ask_the_author?ref=nav_comm_askauthor" class="siteHeader__subNavLink" data-reactid=".1zk6ijsvxni.2.0.0.0.3.0.1.0.3.0">Ask the Author</a></li></ul></div></div></li></ul></nav></div></div></header></div>
+</div>
+<div class='siteHeaderBottomSpacer'></div>
+
+  
+
+  <div class="mainContentContainer ">
+
+
+      
+
+    <div class="mainContent ">
+        <div id="premiumAdTop">
+
+          <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--pushdown&quot;}"></div>
+
+        </div>
+      
+      <div class="mainContentFloat ">
+
+        <div id="flashContainer">
+
+
+
+
+</div>
+
+        
+
+
+
+
+
+
+
+
+
+  <div class='ctaBannerShown'>
+<div class='ctaHeader'>
+Goodreads helps you keep track of books you want to read.
+</div>
+<div>
+Start by marking “Online” as Want to Read:
+</div>
+<div class='ctaButton'>
+<div class='wtrButtonContainer wtrSignedOut' id='1_book_12964018'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yKFIiVMjQNddQHeco9WTINhkA8szojS7SCvfQ7sgeLZhTvLhN0CZhrgh21kos0Df2MpM9LgbhfFGobPijkul8g==" />
+<input type="hidden" name="book_id" id="book_id" value="12964018" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="1_book_12964018" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="fkEtRvzQshowClI7kPg4w9Al7kTsewL57o6GvQ90GaDXrpcumLNrS9Vr/v4bnus80Iuhe2fCs7PgBOocOh/E5A==" />
+<input type="hidden" name="unique_id" id="unique_id" value="1_book_12964018" />
+<input type="hidden" name="book_id" id="book_id" value="12964018" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+<div class='wtrShelfMenu'>
+<ul class='wtrExclusiveShelves'>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='to-read'>
+<span class='progressTrigger'>Want to Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='currently-reading'>
+<span class='progressTrigger'>Currently Reading</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='read'>
+<span class='progressTrigger'>Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<div class='ctaBannerTriangle'></div>
+
+
+<div class="leftContainer" itemscope itemtype="http://schema.org/Book">
+<div id="topcol" class="last col stacked">
+
+
+<div id="imagecol" class="col">
+  <div class="bookCoverContainer">
+    <div class="bookCoverPrimary">
+          <a rel="nofollow" itemprop="image" href="/book/photo/12964018-online"><img id="coverImage" alt="Online" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327948827l/12964018.jpg" /></a>
+    </div>
+    <div class="bookCoverActions">
+      <div class="coverButtonContainer">
+        <div class="coverButton">
+          <a href="https://www.goodreads.com/work/editions/18121823-online">Other editions</a>
+        </div>
+      </div>
+        <div class="coverButtonContainer">
+          <div class="coverButton enlargeCover" id="edition_12964018_enlarge">
+            Enlarge cover
+          </div>
+          <div class="editionCover" id="edition_12964018_enlarge_cover" style= "display: none;">
+            <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327948827l/12964018.jpg" alt="12964018" />
+          </div>
+        </div>
+    </div>
+  </div>
+
+      <div class='wtrButtonContainer wtrSignedOut' id='2_book_12964018'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YUCTjLtrqO0ip+2bmPfugIEVaesK3htRq46il/sJJJLIrynk3whxvMfGQV4TkT1/gbsm1IFnqhulBM42zmL51g==" />
+<input type="hidden" name="book_id" id="book_id" value="12964018" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="2_book_12964018" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="bm_bsh_wtrwtr" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" value="/book/show/12964018-online" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JaGEg1w2VoBeoUiOD9QEkBMDTtYFWLi49dX77lp5EiyMTj7rOFWP0bvA5EuEstdvE60B6Y7hCfL7X5dPbxLPaA==" />
+<input type="hidden" name="unique_id" id="unique_id" value="2_book_12964018" />
+<input type="hidden" name="book_id" id="book_id" value="12964018" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="ref" id="ref" value="bm_bsh_wtres" class="wtrRefRightShelfMenu" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" value="/book/show/12964018-online" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="12964018" data-user-id="0" data-submit-url="/review/rate/12964018?page_url=%2Fbook%2Fshow%2F12964018-online&stars_click=true&wtr_button_id=2_book_12964018" data-rating="0"><a class="star off" title="did not like it" href="#" ref="bm_rtg_st1_bsh">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="bm_rtg_st2_bsh">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="bm_rtg_st3_bsh">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="bm_rtg_st4_bsh">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="bm_rtg_st5_bsh">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+
+  <div class=asyncPreviewButtonContainer data-book-id=12964018 >
+    
+
+<a class="gr-button kcrPreviewButton buyableFeature asyncPreviewButton" id="js-kcrPreviewButton" data-book-id="12964018" href="#">Open Preview</a>
+
+<div id="wrongBookKindlePreviewScreenBook12964018" class="wrongBookKindlePreviewScreen" style="display: none;">
+  <div class="wrongBookBody">
+    <h2>See a Problem?</h2>
+    <div class="wrongBookText">
+      <div class="description">
+        We’d love your help.
+        Let us know what’s wrong with this preview of
+          <cite>Online</cite> by Seth Blackburn.
+      </div>
+      <form class="new_kindle_book_mapping_flag" id="new_kindle_book_mapping_flag" action="/kindle_book_mapping_flags" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+        <div class="reasons">
+          <label for="kindle_book_mapping_flag_reason">Problem:</label>
+          <select name="kindle_book_mapping_flag[reason]" id="kindle_book_mapping_flag_reason"><option value="wrongBook">It’s the wrong book</option>
+<option value="wrongEdition">It’s the wrong edition</option>
+<option value="other">Other</option></select>
+          <br/>
+        </div>
+        <div class="otherReason">
+          <label for="kindle_book_mapping_flag_other_reason">Details (if other):</label>
+          <input type="text" name="kindle_book_mapping_flag[other_reason]" id="kindle_book_mapping_flag_other_reason" />
+        </div>
+        <input value="12964018" type="hidden" name="kindle_book_mapping_flag[book_id]" id="kindle_book_mapping_flag_book_id" />
+        <input type="submit" name="commit" value="Report Problem" class="gr-button" />
+        &nbsp;
+        <button type="button"
+                id="js-wrongBookKindlePreviewScreenCancelLink"
+                class="gr-buttonAsLink gr-buttonAsLink--quiet">
+        Cancel
+        </button>
+</form>    </div>
+  </div>
+</div>
+<div id="js-wrongBookKindlePreviewScreenConfirmation"
+     class="wrongBookKindlePreviewScreenConfirmation"
+     style="display:none;">
+  <p>Thanks for telling us about the problem.</p>
+  <button type="button" class="gr-button" id="js-wrongBookKindlePreviewScreenConfirmationDismiss">
+    Return to Book Page
+  </button>
+</div>
+<div id="kindleCloudReaderBook12964018" class="kindleCloudReader" style="display: none;">
+  <div class="topBanner">
+    <a id="wrongBookLink" class="js-wrongBookKindlePreview" data-book-id="12964018" href="#">Not the book you’re looking for?</a>
+    <h2 class="kindlePreviewHeader">
+      Preview — <cite>Online</cite>
+        by Seth Blackburn
+    </h2>
+  </div>
+  <iframe id="kindleCloudReader">
+    <iframe id="wrongBookKindlePreviewScreen"></iframe>
+  </iframe>
+</div>
+
+</div>
+
+
+
+</div>
+
+<div id="metacol" class="last col">
+<h1 id="bookTitle" class="gr-h1 gr-h1--serif" itemprop="name">
+      Online
+</h1>
+<h2 id="bookSeries">
+</h2>
+
+<div id="bookAuthors" class="">
+  <span class='by'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<div class='authorName__container'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/5298576.Seth_Blackburn"><span itemprop="name">Seth Blackburn</span></a>
+</div>
+</span>
+
+</div>
+
+<div id="bookMeta"
+     class="uitext stacked"
+     style="position: relative"
+     itemprop="aggregateRating"
+     itemscope
+     itemtype="https://schema.org/AggregateRating">
+      <!--
+Partial expects the following locals:
+  - review_stats
+  - shelving_stats
+  - display_user_id
+-->
+
+<span class="stars staticStars notranslate"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span><span size="12x12" class="staticStar p0"></span></span>
+<span itemprop="ratingValue">
+  3.47
+</span>
+<span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a id="rating_details" class="actionLinkLite" style="cursor: pointer; " href="#" onclick="return false">Rating details</a><script>
+//<![CDATA[
+      var newTip = new Tip($('rating_details'), "\n    <div id=\"moreBookData\" class=\"bookMeta\" >\n  \n\n  \n\n<table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\">\n      <tr>\n        <th width=\"25\" class=\"right\">5&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 58%;\" title=\"10 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          21% (10)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">4&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 70%;\" title=\"12 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          25% (12)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">3&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 100%;\" title=\"17 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          36% (17)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">2&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 35%;\" title=\"6 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          12% (6)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">1&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 11%;\" title=\"2 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          4% (2)\n        <\/td>\n      <\/tr>\n\n<\/table>\n\n\n    <span class=\"value\">83<\/span>% of people liked it\n\n  <table>\n    <tr>\n      <td><strong>All editions:<\/strong><\/td>\n      <td>\n        <span class=\"value\">3.47<\/span> average rating,\n        <span class=\"value\">47<\/span> ratings,\n        <span class=\"value\">6<\/span> reviews,\n        added by <span class=\"value\">595<\/span> people,\n        <span class=\"value\">503<\/span> to-reads\n      <\/td>\n    <\/tr>\n\n      <tr>\n        <td><strong>This edition:<\/strong><\/td>\n        <td>\n          <span class=\"value\">3.47<\/span> average rating,\n          <span class=\"value\">47<\/span> ratings,\n          <span class=\"value\">6<\/span> reviews,\n          added by <span class=\"value\">595<\/span> people\n        <\/td>\n      <\/tr>\n  <\/table>\n<\/div>\n\n", { style: 'goodreads', stem: 'topMiddle', hook: { tip: 'topMiddle', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'click', showOn: 'click', closeButton: true, title: 'Rating details' });
+      $('rating_details').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script><span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a class="gr-hyperlink" href="#other_reviews">
+  <meta itemprop="ratingCount" content="47" />
+  47
+  ratings
+</a><span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a class="gr-hyperlink" href="#other_reviews">
+    <meta itemprop="reviewCount" content="6" />
+    6
+    reviews
+</a>
+</div>
+
+<div id="descriptionContainer">
+  
+      <div id="description" class="readable stacked" style="right:0">
+        
+<span id="freeTextContainer11885961488891293935">Brendan Lowes is a wanted man.<br/>The Sarasins want him in prison.<br/>His friends and family want to save him.<br/>And Alexa Vallencourt wants nothing less than his soul.<br/><br/>Overnight, Brendan&apos;s quiet and solitary life becomes anything but when just as he suspects his love interest Cara, might be falling for him, he finds himself framed for manslaughter, hated by the town in which he lives</span>
+  <span id="freeText11885961488891293935" style="display:none">Brendan Lowes is a wanted man.<br />The Sarasins want him in prison.<br />His friends and family want to save him.<br />And Alexa Vallencourt wants nothing less than his soul.<br /><br />Overnight, Brendan's quiet and solitary life becomes anything but when just as he suspects his love interest Cara, might be falling for him, he finds himself framed for manslaughter, hated by the town in which he lives and the victim of Alexa, an obsessive woman he has met online.<br /><br />When he learns of Alexa's death, Brendan breathes a sad sigh of relief, but the respite is short lived. Alexa is back and every bit as eager for him as before. Brendan realizes that Cara's life is in danger and calls on his friends, new and old, to join forces. There is Maggie, his ex-wife and her rock star friend Dr. Death, Chapman Carter, the Police Chief of Crescent Bay and Cara herself, all standing behind their new hero in this fight against madness, death and beyond.</span>
+  <a data-text-id="11885961488891293935" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+      </div>
+</div>
+
+    <div id=buyButtonContainer class="uitext buttons buyableFeature u-marginTopXSmall u-paddingBottomXSmall u-bottomGrayBorder" data-book-id=12964018 >
+
+    <div class="u-positionRelative">
+      <h2 class='buyButtonContainer__title u-inlineBlock'%>Get A Copy</h2>
+    </div>
+
+    <ul class="buyButtonBar left"><li><a class="buttonBar" target="_blank" rel="no_follow noopener noreferrer" id="buyButton" href="/buy_buttons/12/follow?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;ref=x_gr_w_bb_sout&amp;sub_page_type=show&amp;tag=x_gr_w_bb_sout-20">Amazon</a></li><li><div id="buyDropButtonStores" class=" dropButton" onmouseover="$(this).down(&#39;.floatingBox&#39;).show()" onmouseout="$(this).down(&#39;.floatingBox&#39;).hide()"><a class="buttonBar" url="/book/12964018/get_a_copy" href="/book/12964018/get_a_copy">Online Stores&nbsp;&#9662;</a><div class="floatingBox buyBox" style="display:none"><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/10?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;ref=x_gr_w_bb_audible&amp;source=dropdown&amp;sub_page_type=show">Audible</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/3?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;source=dropdown&amp;sub_page_type=show">Barnes &amp; Noble</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/1027?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;source=dropdown&amp;sub_page_type=show">Walmart eBooks</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/8036?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;source=dropdown&amp;sub_page_type=show">Google Play</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/4?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;source=dropdown&amp;sub_page_type=show">Abebooks</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/882?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;source=dropdown&amp;sub_page_type=show">Book Depository</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/5?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;source=dropdown&amp;sub_page_type=show">Alibris</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/9?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;source=dropdown&amp;sub_page_type=show">Indigo</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/107?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;source=dropdown&amp;sub_page_type=show">Better World Books</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/7?book_id=12964018&amp;page_type=book&amp;page_type_id=12964018&amp;source=dropdown&amp;sub_page_type=show">IndieBound</a></div></div></li><li></li></ul>
+    <div class="clear"></div>
+  </div>
+
+
+<div id="details" class="uitext darkGreyText">
+      <div class="row"><span itemprop="bookFormat">Kindle Edition</span>, <span itemprop="numberOfPages">348 pages</span></div>
+
+      <div class="row">
+            Published
+        October 24th 2011
+        
+
+      </div>
+
+  <div class="buttons">
+    <a id="bookDataBoxShow" class="left inter actionLinkLite" style="" href="#" onclick="$j(&#39;#bookDataBoxShow&#39;).hide(); $j(&#39;#bookDataBoxHide&#39;).show(); $j(&#39;#bookDataBox&#39;).show();
+                         ; return false;">More Details...</a>
+
+        <div id="bookDataBox" class="uitext" style="display: none; margin: 10px 0">
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Original Title</div>
+                <div class="infoBoxRowItem">Online</div>
+              </div>
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">ASIN</div>
+                <div class="infoBoxRowItem" itemprop='isbn'>B005ZI6EF2</div>
+              </div>
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Edition Language</div>
+                <div class="infoBoxRowItem" itemprop='inLanguage'>English</div>
+              </div>
+
+
+
+
+
+          <div class="clear"></div>
+
+          <div class='infoBoxRowTitle otherEditions'>
+<div class='otherEditionsLink'>
+<a href="/work/editions/18121823-online">Other Editions (1)</a>
+</div>
+</div>
+<div class='infoBoxRowItem'>
+<div class='otherEditionsRow'>
+<div class='otherEditionCovers'>
+<ul>
+<li>
+<div class='otherEdition' id='edition_21585525'>
+<a href="https://www.goodreads.com/book/show/21585525-online"><img src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png" alt="111x148" />
+</a><script>
+//<![CDATA[
+      var newTip = new Tip($('edition_21585525'), "<div class=\'editionTitle\'>\nOnline (ebook) \n<\/div>\n<div class=\'editionInfo\'>\n<\/div>\n<div class=\'editionInfo\'>\nisbn13: 9781465873149\n<\/div>\n<div class=\'editionInfo\'>\n<\/div>\n<div class=\'editionInfo\'>\nformat: ebook\n<\/div>\n<div class=\'editionInfo\'>\nPublished\nOctober 26th 2011\nby Smashwords Edition\n<\/div>\n<div class=\'editionAction\'>\n<div class=\'wtrButtonContainer wtrSignedOut\' id=\'3_book_21585525\'>\n<div class=\'wtrUp wtrLeft\'>\n<form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input type=\"hidden\" name=\"authenticity_token\" value=\"Zj6aAyI6dQmVM4sB00OAKhO44LZmlN5b0j9JvExPqq7P0SBrRlmsWHBSJ8RYJVPVExavie0tbxHctSUdeSR36g==\" />\n<input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"21585525\" />\n<input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" />\n<input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_21585525\" />\n<input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" />\n<input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" />\n<input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" />\n<input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" />\n<input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" />\n<input type=\"hidden\" name=\"page_url\" id=\"page_url\" />\n<button class=\'wtrToRead\' type=\'submit\'>\n<span class=\'progressTrigger\'>Want to Read<\/span>\n<span class=\'progressIndicator\'>saving…<\/span>\n<\/button>\n<\/form>\n\n<\/div>\n\n<div class=\'wtrRight wtrUp\'>\n<form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input type=\"hidden\" name=\"authenticity_token\" value=\"+V2Tj8ogSXmo4e3IL2hgjFrp/z1/9q1/19+W849qrEBQsinnrkOQKE2AQQ2kDrNzWkewAvRPHDXZVfpSugFxBA==\" />\n<input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_21585525\" />\n<input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"21585525\" />\n<input type=\"hidden\" name=\"a\" id=\"a\" />\n<input type=\"hidden\" name=\"name\" id=\"name\" />\n<input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" />\n<input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" />\n<input type=\"hidden\" name=\"page_url\" id=\"page_url\" />\n<\/form>\n\n<button class=\'wtrShelfButton\'><\/button>\n<\/div>\n\n<div class=\'ratingStars wtrRating\'>\n<div class=\'starsErrorTooltip hidden\'>\nError rating book. Refresh and try again.\n<\/div>\n<div class=\'myRating uitext greyText\'>Rate this book<\/div>\n<div class=\'clearRating uitext\'>Clear rating<\/div>\n<div class=\"stars\" data-resource-id=\"21585525\" data-user-id=\"0\" data-submit-url=\"/review/rate/21585525?stars_click=true&wtr_button_id=3_book_21585525\" data-rating=\"0\"><a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\">1 of 5 stars<\/a><a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\">2 of 5 stars<\/a><a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\">3 of 5 stars<\/a><a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\">4 of 5 stars<\/a><a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\">5 of 5 stars<\/a><\/div>\n<\/div>\n\n<\/div>\n\n\n<\/div>\n\n", { style: 'addbook', stem: 'bottomMiddle', hook: { tip: 'bottomMiddle', target: 'topMiddle' }, offset: { y: -3, x: 0 }, hideOn: false, width: 325, hideAfter: 0.05 });
+      $('edition_21585525').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('edition_21585525').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('edition_21585525').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('edition_21585525').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script></div>
+</li>
+</ul>
+</div>
+</div>
+<div class='otherEditionsActions'>
+<a class="actionLinkLite" href="/work/editions/18121823-online">All Editions</a>
+<span class='greyText'>
+ | 
+</span>
+<a rel="nofollow" href="/book/new?author%5Bname%5D=Seth+Blackburn&amp;book%5Btitle%5D=Online&amp;work%5Bid%5D=18121823">Add a New Edition</a>
+
+<span class='secondaryCopy'>
+ | 
+</span>
+<a rel="nofollow" class="actionLinkLite" href="/book/combine/5298576">Combine</a>
+</div>
+</div>
+
+
+        </div>
+
+        <a id="bookDataBoxHide" class="left inter actionLinkLite" style="display: none;" href="#" onclick="$j(&#39;#bookDataBoxShow&#39;).show(); $j(&#39;#bookDataBoxHide&#39;).hide(); $j(&#39;#bookDataBox&#39;).hide();
+                              ; return false;">...Less Detail</a>
+
+         <a class="inter uitext greyText right" rel="nofollow" href="/book/edit/12964018-online">Edit Details</a>
+
+    <div class="clear"></div>
+  </div>
+</div>
+
+
+</div>
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+
+  <div id='lazy_loadable_view'>
+    
+
+<a name='friends_reviews'></a>
+<div id="friendReviews" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Friend Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><span class='mediumText'>
+To see what your friends thought of this book,
+<a class="actionLink" rel="nofollow" href="/user/new">please sign up.</a>
+</span>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Reader Q&amp;A</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class='communityQASignedOutMessage mediumText'>
+To ask other readers questions about
+<a class="bookLink" href="/book/show/12964018-online">Online</a>,
+<a class="actionLink" rel="nofollow" href="/user/new">please sign up</a>.
+</div>
+
+<div class='elementListBrownSeparator'></div>
+<div class='communityQuestionSubTitle'>
+Recent Questions
+</div>
+<div id='communityQuestionsWithAnswers'>
+<div class='communityQuestionAndAnswer'>
+<div class='communityQuestion'>
+<div class='questionText'>
+<a href="/questions/514621-i-d-love-to-read-it-but-can-t-find-it">I&#39;d love to read it, but can&#39;t find it. It&#39;s not on amazon alas, does anyone have any ideas?</a>
+</div>
+<div class='communityQAFooter questionFooter'>
+<ul class='questionFooterActions'>
+<li class='footerItem like'>
+<span class='likeItContainer' id='like_container_community_question_514621'><a rel="nofollow" class="jsLike like_it" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F12964018-online">like</a></span>
+
+</li>
+<li class='footerItem communityQuestionTimestamp'>
+<a href="/questions/514621-i-d-love-to-read-it-but-can-t-find-it">6 years ago</a>
+</li>
+<li class='footerItem communityQuestionPermalink'>
+<a href="/questions/514621-i-d-love-to-read-it-but-can-t-find-it">Add your answer</a>
+</li>
+</ul>
+</div>
+
+</div>
+<div class='allCommunityAnswers'>
+</div>
+
+</div>
+
+</div>
+<div class='moreReaderQA'>
+<a href="/book/12964018-online/questions">See  1 question about Online…</a>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/list/book/12964018">Lists with This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">  <div class="listRowsFull">
+    <div class="row" id="topRow">
+          <div class="cell">
+            
+<div class="listImgs">
+  <a href="/list/show/547.Best_horror_books"><img alt="It by Stephen King" title="It by Stephen King" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309376909l/18342._SY160_.jpg" /></a><a href="/list/show/547.Best_horror_books"><img alt="The Shining by Stephen King" title="The Shining by Stephen King" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353277730l/11588._SX98_.jpg" /></a><a href="/list/show/547.Best_horror_books"><img alt="The Stand by Stephen King" title="The Stand by Stephen King" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1213131305l/149267._SX98_.jpg" /></a><a href="/list/show/547.Best_horror_books"><img alt="&#39;Salem&#39;s Lot by Stephen King" title="&#39;Salem&#39;s Lot by Stephen King" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327891565l/11590._SX98_.jpg" /></a><a href="/list/show/547.Best_horror_books"><img alt="Dracula by Bram Stoker" title="Dracula by Bram Stoker" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387151694l/17245._SY160_.jpg" /></a>
+</div>
+<a class="listTitle" href="/list/show/547.Best_horror_books">Best horror books</a><br />
+<div class="listFullDetails">
+    472 books
+    &mdash;
+    425 voters
+
+
+
+</div>
+
+          </div>
+          <div class="cell">
+            
+<div class="listImgs">
+  <a href="/list/show/3126.Best_Horror_Books_by_People_Other_Than_Stephen_King"><img alt="Dracula by Bram Stoker" title="Dracula by Bram Stoker" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387151694l/17245._SY160_.jpg" /></a><a href="/list/show/3126.Best_Horror_Books_by_People_Other_Than_Stephen_King"><img alt="The Exorcist by William Peter Blatty" title="The Exorcist by William Peter Blatty" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375168676l/179780._SY160_.jpg" /></a><a href="/list/show/3126.Best_Horror_Books_by_People_Other_Than_Stephen_King"><img alt="The Haunting of Hill House by Shirley Jackson" title="The Haunting of Hill House by Shirley Jackson" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327871336l/89717._SX98_.jpg" /></a><a href="/list/show/3126.Best_Horror_Books_by_People_Other_Than_Stephen_King"><img alt="I Am Legend and Other Stories by Richard Matheson" title="I Am Legend and Other Stories by Richard Matheson" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317791583l/547094._SX98_.jpg" /></a><a href="/list/show/3126.Best_Horror_Books_by_People_Other_Than_Stephen_King"><img alt="The Silence of the Lambs by Thomas  Harris" title="The Silence of the Lambs by Thomas  Harris" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565096163l/23807._SX98_.jpg" /></a>
+</div>
+<a class="listTitle" href="/list/show/3126.Best_Horror_Books_by_People_Other_Than_Stephen_King">Best Horror Books by People Other Than Stephen King</a><br />
+<div class="listFullDetails">
+    1,333 books
+    &mdash;
+    1,503 voters
+
+
+
+</div>
+
+          </div>
+    </div>
+  </div>
+<br class="clear" />
+
+<br class='clear'>
+<a class="actionLink" style="float:right" href="/list/book/12964018">More lists with this book...</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div id="other_reviews" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Community Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div id='reviews'>
+
+<div class="bookReviewsPaginationCount">
+    <span class="smallText">
+Showing 1-30
+</span>
+
+</div>
+
+
+<div id="reviewControls"
+     class="reviewControls u-defaultType clearFix">
+  <div class="reviewControls--left">
+    <span class="stars staticStars notranslate"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p3"></span><span size="12x12" class="staticStar p0"></span></span>
+    <span class="u-visuallyHidden">Average rating</span>
+    3.47
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+  </div>
+  <div class="reviewControls__ratingDetails reviewControls--left rating_graph">
+    <span id="reviewControls__ratingDetailsMiniGraph">
+    <script type="text/javascript">
+    //<![CDATA[
+      $j(document).ready(function() {
+        var vis = renderRatingGraph(
+            [10, 12, 17, 6, 2],
+            "reviewControls__ratingDetailsMiniGraph");
+        $j("#reviewControls__ratingDetailsMiniGraph").prependTo("#rating_details_tip");
+      });
+    //]]>
+    </script>
+    </span>
+    <a id="rating_details_tip" class="gr-hyperlink" style="cursor: pointer; " href="#" onclick="return false"> Rating details</a><script>
+//<![CDATA[
+      var newTip = new Tip($('rating_details_tip'), "\n        <div id=\"moreBookData\" class=\"bookMeta\" >\n  \n\n  \n\n<table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\">\n      <tr>\n        <th width=\"25\" class=\"right\">5&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 58%;\" title=\"10 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/12964018-online?rating=5\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'iPOG5qGYAaMQoIXhIHAJohuIvcGCmAKkun4TyzomrL8hHDyOxfvY8vXBKSSrFtpdGyby/gkhs+609H9qD01x+w==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          21% (10)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">4&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 70%;\" title=\"12 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/12964018-online?rating=4\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'f9BYOBA3hCYTrk4E07T3g+Acm5MOqUlFjvwEywDXb/zWP+JQdFRdd/bP4sFY0iR84LLUrIUQ+A+AdmhqNbyyuA==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          25% (12)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">3&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 100%;\" title=\"17 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/12964018-online?rating=3\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'7EIMlqnnap0gv1hUkJoOG7BIhoheGSUywr4DrI5NeytFrbb+zYSzzMXe9JEb/N3ksObJt9WglHjMNG8Nuyambw==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          36% (17)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">2&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 35%;\" title=\"6 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/12964018-online?rating=2\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'cpaJZkEHQi4uO1eSEFus3XbVI0BY2hfBox9a1IN/F7DbeTMOJWSbf8ta+1ebPX8idntsf9NjpoutlTZ1thTK9A==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          12% (6)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">1&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 11%;\" title=\"2 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/12964018-online?rating=1\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'Gw35Q3TzVRn7lL1qNvVzg7qYOdlPfgi9rMNxxOqUYUOy4kMrEJCMSB71Ea+9k6B8ujZ25sTHufeiSR1l3/+8Bw==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          4% (2)\n        <\/td>\n      <\/tr>\n\n<\/table>\n\n\n    <span class=\"value\">83<\/span>% of people liked it\n\n  <table>\n    <tr>\n      <td><strong>All editions:<\/strong><\/td>\n      <td>\n        <span class=\"value\">3.47<\/span> average rating,\n        <span class=\"value\">47<\/span> ratings,\n        <span class=\"value\">6<\/span> reviews,\n        added by <span class=\"value\">595<\/span> people,\n        <span class=\"value\">503<\/span> to-reads\n      <\/td>\n    <\/tr>\n\n      <tr>\n        <td><strong>This edition:<\/strong><\/td>\n        <td>\n          <span class=\"value\">3.47<\/span> average rating,\n          <span class=\"value\">47<\/span> ratings,\n          <span class=\"value\">6<\/span> reviews,\n          added by <span class=\"value\">595<\/span> people\n        <\/td>\n      <\/tr>\n  <\/table>\n<\/div>\n\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true, title: 'book data' });
+      $('rating_details_tip').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details_tip').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>  </div>
+
+  <div class="reviewControls--left greyText">
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+    47
+    ratings
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+    6
+    reviews
+  </div>
+
+  <br></br>
+  <div class="reviewControls__searchBox reviewControls--right">
+    <form class="reviewTextSearch" action="/book/reviews/12964018" accept-charset="UTF-8" data-remote="true" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<div class='searchBox'>
+<input type="text" name="search_text" id="search_text" aria-label="Search review text" placeholder="Search review text" class="searchBox__input searchBox__input--reviewSearch reviewControls__searchBox__input" />
+<button name="button" type="submit" class="searchBox__icon searchBox__icon--magnifyingGlass searchBox__icon--reviewSearch gr-iconButton              reviewControls__searchBox__icon                          reviewControls__searchBox__icon--magnifyingGlass"></button>
+<img alt="Loading" class="searchBox__icon searchBox__icon--loadingSpinner reviewControls__searchBox__icon                         reviewControls__searchBox__icon--loadingSpinner" src="https://s.gr-assets.com/assets/loading-45f04d682f1e9151cf1e6fb18a1bde21.gif" />
+</div>
+</form>
+
+
+  </div>
+
+    <div class="reviewControls--left">
+      <form class="reviewLanguageFilter" action="/book/reviews/12964018" accept-charset="UTF-8" data-remote="true" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+        <select name="language_code" id="language_code"><option value="">All Languages</option><option value="en">English &lrm;(6)</option></select>
+</form>    </div>
+
+    <div class="reviewControls--left">
+
+      <a class="uitext" rel="nofollow" id="span_class_gr-hyperlink_more_filters_span_tip_652" style="cursor: pointer; " href="#" onclick="return false"><span class="gr-hyperlink">More filters</span></a><script>
+//<![CDATA[
+      var newTip = new Tip($('span_class_gr-hyperlink_more_filters_span_tip_652'), "\n          <div class=\"greyText smallText\" style=\"white-space:nowrap\">\n\n            <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/12964018-online?rating=\">all <span class=\"greyText\">(595)<\/span><\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/12964018-online?rating=5&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;q0sCgTUi5rBgcC6TO9xrkrS63z1pWb5Z6YccmTxDJh8CpLjpUUE/4YURglawurhttBSQAuLgDxPnDXA4CSj7Ww==&#39;)}); return false;\">5 stars <span class=\"greyText\">(10)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/12964018-online?rating=4&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;4TsKyszDRem/4ovKbIdsQ1gV/henaXTS4C8RYMw7hddI1LCiqKCcuFqDJw/n4b+8WLuxKCzQxZjupX3B+VBYkw==&#39;)}); return false;\">4 stars <span class=\"greyText\">(12)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/12964018-online?rating=3&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;32tkkZ1nBn/CUWYpMsO2Kcx91d56j4sSHBy+euU7joN2hN75+QTfLicwyuy5pWXWzNOa4fE2OlgSltLb0FBTxw==&#39;)}); return false;\">3 stars <span class=\"greyText\">(17)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/12964018-online?rating=2&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;onb89KQWIhz2hXFmovqJGPKfRjrB5IVn/HlgmdLtIB0LmUacwHX7TRPk3aMpnFrn8jEJBUpdNC3y8ww454b9WQ==&#39;)}); return false;\">2 stars <span class=\"greyText\">(6)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/12964018-online?rating=1&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;pZFkI3Hg7MICwiyCb3Whq9monsa6rdUhpMzWtNTr6h4Mft5LFYM1k+ejgEfkE3JU2QbR+TEUZGuqRroV4YA3Wg==&#39;)}); return false;\">1 star <span class=\"greyText\">(2)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n          <\/div>\n\n          <div class=\"bookMeta\">\n            editions:\n            <span class=\"loadingLinkSpan\"><a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/12964018-online?edition_reviews=false\">all<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n            <span class=\"loadingLinkSpan\"><a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/12964018-online?edition_reviews=true\">this edition<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            &nbsp;\n            content:\n            <span class=\"loadingLinkSpan\"><a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/12964018-online?text_only=false\">any<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n            <span class=\"loadingLinkSpan\"><a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/12964018-online?text_only=true\">text-only<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n        <\/div>\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_gr-hyperlink_more_filters_span_tip_652').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_gr-hyperlink_more_filters_span_tip_652').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>    </div>
+
+    <div class="reviewControls--left">
+      <span class="greyText">&nbsp;|&nbsp;</span>
+    </div>
+      <div class="reviewControls--left">
+      <a class="uitext" id="span_class_gr-hyperlink_sort_order_span_tip_589" style="cursor: pointer; " href="#" onclick="return false"><span class="gr-hyperlink">Sort order</span></a><script>
+//<![CDATA[
+      var newTip = new Tip($('span_class_gr-hyperlink_sort_order_span_tip_589'), "\n        <span class=\"reviewControls__sortOrders\">\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/12964018-online?sort=default\">Default<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n          <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/12964018-online?sort=newest\">Newest<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n          <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/12964018-online?sort=oldest\">Oldest<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n        <\/span>\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_gr-hyperlink_sort_order_span_tip_589').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_gr-hyperlink_sort_order_span_tip_589').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>    </div>
+</div>
+
+
+
+
+
+
+        <div data-react-class="ReactComponents.ReviewCta" data-react-props="{&quot;bookId&quot;:&quot;12964018&quot;,&quot;user&quot;:{&quot;viewableName&quot;:&quot;&quot;,&quot;profileImage&quot;:&quot;https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png&quot;,&quot;profileUrl&quot;:null},&quot;actionType&quot;:&quot;community_reviews_cta&quot;,&quot;destinationPath&quot;:&quot;/review/edit/12964018&quot;,&quot;bookTitle&quot;:&quot;Online&quot;,&quot;ratingClickstreamRef&quot;:&quot;cr_rtg_str_bsh&quot;}"><div class="reviewCta" data-reactid=".5eiwlvv7lq" data-react-checksum="-417646010"><div class="reviewCta__left" data-reactid=".5eiwlvv7lq.0"><img class="rectangularIcon rectangularIcon--border" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="" data-reactid=".5eiwlvv7lq.0.0"/></div><div class="reviewCta__right" data-reactid=".5eiwlvv7lq.1"><div class="u-marginLeftXSmall reviewCta__label" data-reactid=".5eiwlvv7lq.1.0"><noscript data-reactid=".5eiwlvv7lq.1.0.0"></noscript><span data-reactid=".5eiwlvv7lq.1.0.1">Start your review of </span><span data-reactid=".5eiwlvv7lq.1.0.2">Online</span></div><div class="reviewCta__controls" data-reactid=".5eiwlvv7lq.1.1"><div class="userRating" data-reactid=".5eiwlvv7lq.1.1.0"><div class="userRating__starsWrapper" tabindex="0" role="group" data-reactid=".5eiwlvv7lq.1.1.0.1"><button class="userRating__star userRating__star--mediumStars" title="Rate 1 star" data-reactid=".5eiwlvv7lq.1.1.0.1.$1"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 2 stars" data-reactid=".5eiwlvv7lq.1.1.0.1.$2"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 3 stars" data-reactid=".5eiwlvv7lq.1.1.0.1.$3"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 4 stars" data-reactid=".5eiwlvv7lq.1.1.0.1.$4"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 5 stars" data-reactid=".5eiwlvv7lq.1.1.0.1.$5"></button></div></div><button class="gr-button u-marginTopBottomXSmall reviewCta__writeButton" data-reactid=".5eiwlvv7lq.1.1.1">Write a review</button></div></div></div></div>
+
+
+<div id="bookReviews">
+  
+
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section firstReview">
+      
+
+<div id="review_261854600" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/261854600" />
+    <a title="Bill Thibadeau" class="left imgcol" href="/user/show/5326089-bill-thibadeau"><img alt="Bill Thibadeau" src="https://images.gr-assets.com/users/1329254690p2/5326089.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/261854600?book_show_action=true">Jan 14, 2012</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Bill Thibadeau" class="user" itemprop="url" name="Bill Thibadeau" href="/user/show/5326089-bill-thibadeau">Bill Thibadeau</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer261854600" class="readable"
+              >
+            
+<span id="freeTextContainer4600635018028829505">I have mixed opinions on this book/author. <br/>The strong points of this book are: <br/>Characters and their development - I actually formed opinions of their personalities and some of their physical attributes. It was easy to continue the flow having such a good handle on the characters.<br/>The plot was credible (at least for the first 80% of the book). I enjoyed the unraveling of the story as it grew. Plausible and interesting.<br/>The writing style was fluid and interesting. There was never too mush attention </span>
+  <span id="freeText4600635018028829505" style="display:none">I have mixed opinions on this book/author. <br />The strong points of this book are: <br />Characters and their development - I actually formed opinions of their personalities and some of their physical attributes. It was easy to continue the flow having such a good handle on the characters.<br />The plot was credible (at least for the first 80% of the book). I enjoyed the unraveling of the story as it grew. Plausible and interesting.<br />The writing style was fluid and interesting. There was never too mush attention placed on the boring or needless details.<br />I felt a keen interest in picking up the book and sneaking in a few more minutes of reading when I should have been doing work around the house.<br />The bottom thee is that the book is recommended for these reasons.<br /><br />The reasons why I down rated the book are:<br />I thought the supernatural Tron like part of the book to be far fetched and implausible. This book is far more than a supernatural YA novel. Perhaps it would have been more plausible if the entire book was about blue electrical lightning, stretching monitor screens, etc.<br />This book deserves an XXX rating for the graphic sex scenes. Yes the scenes are important to establish the bond between Alexa and Brendan but it could have been done in a less graphic manner. I am not a prude but the scenes did not seem to fit in well with the rest of the story. The scenes were done well and the author would probably write a good adult novel.</span>
+  <a data-text-id="4600635018028829505" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review261854600">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link261854600" title="Flag this review as inappropriate." href="/flagged/new?resource_id=261854600&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F12964018-online">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_261854600'><a id="like_count_review_261854600" rel="nofollow" href="/rating/voters/261854600?resource_type=Review"><span class="likesCount">2 likes</span></a>&nbsp;&middot;&nbsp;<a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F12964018-online">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/261854600?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_261854600' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_235765653" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/235765653" />
+    <a title="Ciska" class="left imgcol" href="/user/show/6672547-ciska"><img alt="Ciska" src="https://images.gr-assets.com/users/1550947653p2/6672547.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/235765653?book_show_action=true">Nov 15, 2011</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Ciska" class="user" itemprop="url" name="Ciska" href="/user/show/6672547-ciska">Ciska</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was ok"><span size="15x15" class="staticStar p10">it was ok</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a class="actionLinkLite" href="/review/list/6672547-ciska?shelf=read-in-2011">read-in-2011</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer235765653" class="readable"
+              >
+            
+<span id="freeTextContainer17930226369017126175">Seth Blackburn is the writer of two books which can be found <a target='_blank' rel='noopener nofollow' href='http://www.smashwords.com/profile/view/SethBlackburn'>http://www.smashwords.com/profile/vie...</a><br/><br/>Online tells the story of Brendan Lowes, a database engineer in day-time and book writer at night. One day while on the way back home for a late night, or early morning coffee he gets hit by a car. The car is driven by Danny Sarasin the grandson of the very wealthy founder of the town. Both Danny and his girl die in this accident and despite the fact that he is not the one to be blamed the Sarasi</span>
+  <span id="freeText17930226369017126175" style="display:none">Seth Blackburn is the writer of two books which can be found <a target="_blank" rel="noopener nofollow" href="http://www.smashwords.com/profile/view/SethBlackburn">http://www.smashwords.com/profile/vie...</a><br /><br />Online tells the story of Brendan Lowes, a database engineer in day-time and book writer at night. One day while on the way back home for a late night, or early morning coffee he gets hit by a car. The car is driven by Danny Sarasin the grandson of the very wealthy founder of the town. Both Danny and his girl die in this accident and despite the fact that he is not the one to be blamed the Sarasin family makes sure Brendan gets known to be the guilty one. In his fight to prove his innocence he becomes friends with the Chief of Police Chapman Carter.<br />Brendan ends up sitting home with a serious inured leg and installs some chat software to talk to his ex-wife Maggie and her new boyfriend rockstar Dr. Death. Trough this channel he gets to know Alexa, a troubled woman who develops a special interest in him.<br />And there is Cara Waters, his boss whom he has had a crush on from the first time they met and now, while her marriage is breaking up, discovers she is interested in him too. <br />While the Sarasins and their lawyer try everything within their possibility to hunt Brendan out of town, Alexa proves to be the bigger problem. Alexa wants Brendan so bad that Cara is not save, to make sure everything will be fine Brendan needs the help of all his friends to fight of Alexa.<br /><br />I finished reading this book which made that the book gets two stars, but that is as far as I can go and it saddens me. The story has a lot of potential. There are several angles touched, or more scraped which would have made for a very interesting book but before you get the hang of it the momentum is gone. <br />First there are way to many characters that seem to play key roles if you have to believe their introduction in the first chapters. I almost needed a paper and pen to place everybody somewhere and make sure I had the right person in the right storyline. <br />Second there are to many stories. The Alexa history would have been interesting if the story would have been about her. Following that would render the accident story unnecessary. There is the accident story, interesting too, how rich people get their way and how politics can work on that level, but the end would make no sense. Now I am left with the feeling that neither one of the stories made sense, they don't really get their own chance to shine and get important. <br /><br />All this makes the book confusing and annoying to read. It left me with a very unsatisfied feeling and made it a struggle to actually finish the book. When I decided I had to finish it or stop, I had another 120 pages to go but that ended up to be the most confusing part of the book. Furthermore I would have liked a little warning about the explicit context of the book, that kind of took me by surprise.<br /> </span>
+  <a data-text-id="17930226369017126175" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review235765653">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link235765653" title="Flag this review as inappropriate." href="/flagged/new?resource_id=235765653&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F12964018-online">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_235765653'><a id="like_count_review_235765653" rel="nofollow" href="/rating/voters/235765653?resource_type=Review"><span class="likesCount">1 like</span></a>&nbsp;&middot;&nbsp;<a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F12964018-online">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/235765653?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_235765653' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_229391471" class="review nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/229391471" />
+    <a title="Anne" class="left imgcol" href="/user/show/4533976-anne"><img alt="Anne" src="https://images.gr-assets.com/users/1324397773p2/4533976.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/229391471?book_show_action=true">Oct 31, 2011</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Anne" class="user" itemprop="url" name="Anne" href="/user/show/4533976-anne">Anne</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+
+
+
+        
+
+          <div class="uitext greyText bookshelves">
+            Shelves:
+              <a class="actionLinkLite" href="/review/list/4533976-anne?shelf=favorites">favorites</a>
+          </div>
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer229391471" class="readable"
+              >
+            
+<span id="freeTextContainer2194951793452637891">Online has one of those expansive plots that covers multiple storylines which eventually are all woven together to form a larger picture. As such, it makes it a bit difficult to sum it all up in a review without giving anything away or ending up writing a synopsis by mistake, but I will try.<br/><br/>All the storylines advance simultaneously, which makes for interesting reading. The author did a good job of never leaving one storyline for very long while he was advancing the others. He strung out enough d</span>
+  <span id="freeText2194951793452637891" style="display:none">Online has one of those expansive plots that covers multiple storylines which eventually are all woven together to form a larger picture. As such, it makes it a bit difficult to sum it all up in a review without giving anything away or ending up writing a synopsis by mistake, but I will try.<br /><br />All the storylines advance simultaneously, which makes for interesting reading. The author did a good job of never leaving one storyline for very long while he was advancing the others. He strung out enough detail and action in each scene to keep me hooked, but not so much that I couldn't remember where things had left off upon returning to a particular storyline. I was equally fascinated by Alexa's downward spiral into madness as I was about following Brendan's interactions with Edgar Sarasin and his crew as they plotted to run Brendan out of town. And I found the budding romance between Brendan and Cara equally touching and frustrating – just like a real relationship in the beginning stages where you think you might have met The One but you're still getting familiar with that person. Like most real-life relationships, both Brendan and Cara have some baggage to deal with.<br /><br />So what do all of these story threads have in common? Brendan. Ultimately, Brendan must fight against the corrupt politicians trying to sully his name, keep his friends and family safe from a woman hell-bent on destroying everything he loves, and contend with a new world created by technology. He must decide what is most important and what is worth fighting for. In doing so, he finds himself.<br /><br /> I was enjoying the story as it advanced and then about a third into the book, the suspense that had been slowly building suddenly ratcheted up and I found myself turning page after page to find out what happens next. I ended up staying up waaaay past my bedtime to finish because I couldn't put it down. <br /><br />There is a little bit of something in this book for everyone. It's not straight horror, nor a straight suspense/thriller nor a straight romance, although there is a fair amount of all of these in it. All combined, it made Online a fun read.<br /></span>
+  <a data-text-id="2194951793452637891" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review229391471">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link229391471" title="Flag this review as inappropriate." href="/flagged/new?resource_id=229391471&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F12964018-online">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_229391471'><a id="like_count_review_229391471" rel="nofollow" href="/rating/voters/229391471?resource_type=Review"><span class="likesCount">1 like</span></a>&nbsp;&middot;&nbsp;<a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F12964018-online">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/229391471?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_229391471' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_245606767" class="review nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/245606767" />
+    <a title="Shell" class="left imgcol" href="/user/show/7103132-shell"><img alt="Shell" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/245606767?book_show_action=true">Dec 11, 2011</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Shell" class="user" itemprop="url" name="Shell" href="/user/show/7103132-shell">Shell</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer245606767" class="readable"
+              >
+            
+<span id="freeTextContainer12506332191800398208">This book very much surprised me. It was not what I expected, but better. I loved the suspense. The several storylines were woven together nicely. Just as I was starting to get into what I thought was going to be the whole plot, Mr. Blackburn adds a twist, and then another, and then even more. The characters are written so well that you feel emotional about what happens to them, good or bad.<br/><br/>I do admit, as a computer geek, it was a little creepy for me. It made my imagination run wild. As with As</span>
+  <span id="freeText12506332191800398208" style="display:none">This book very much surprised me. It was not what I expected, but better. I loved the suspense. The several storylines were woven together nicely. Just as I was starting to get into what I thought was going to be the whole plot, Mr. Blackburn adds a twist, and then another, and then even more. The characters are written so well that you feel emotional about what happens to them, good or bad.<br /><br />I do admit, as a computer geek, it was a little creepy for me. It made my imagination run wild. As with Asimov and his stories being fodder for the future of science, I can somewhat foresee this happening as computer technology advances.</span>
+  <a data-text-id="12506332191800398208" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review245606767">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link245606767" title="Flag this review as inappropriate." href="/flagged/new?resource_id=245606767&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F12964018-online">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_245606767'><a id="like_count_review_245606767" rel="nofollow" href="/rating/voters/245606767?resource_type=Review"><span class="likesCount">1 like</span></a>&nbsp;&middot;&nbsp;<a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F12964018-online">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/245606767?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_245606767' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_322959258" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/322959258" />
+    <a title="Quentin Stewart" class="left imgcol" href="/user/show/4220571-quentin-stewart"><img alt="Quentin Stewart" src="https://images.gr-assets.com/users/1323102728p2/4220571.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/322959258?book_show_action=true">May 02, 2012</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Quentin Stewart" class="user" itemprop="url" name="Quentin Stewart" href="/user/show/4220571-quentin-stewart">Quentin Stewart</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer322959258" class="readable"
+              >
+            
+<span id="freeTextContainer15823168634755671152">The story of Brendan Lowe and his search for a life without leaving the hometown that he had grown up in and still lived. His wife divorced him because he was stuck in the same place that he had always been in. As an at-home data-based engineer he does not feel the need to go any where except out to the local coffee shoppe for his late night jolt of caffeine. He has fallen love with his boss whom he sees occasionally but he is too stuck in his life to try to start a relationship with her. He is </span>
+  <span id="freeText15823168634755671152" style="display:none">The story of Brendan Lowe and his search for a life without leaving the hometown that he had grown up in and still lived. His wife divorced him because he was stuck in the same place that he had always been in. As an at-home data-based engineer he does not feel the need to go any where except out to the local coffee shoppe for his late night jolt of caffeine. He has fallen love with his boss whom he sees occasionally but he is too stuck in his life to try to start a relationship with her. He is comfortable in his little world and really does not want to upset it in anyway.<br /><br />That world changes when Brendan is involved in an accident that is not his fault, but the richest man in town wants him to take the blame to exonerate his grandson. Everyone in the town turns against him and he is left with the Sheriff, who was at the scene of the accident, his boss, Cara, his ex-wife and her boyfriend as the only ones in his corner. Once released from the hospital with the town against him and the town benefactor pressuring him, Brendan finds a "friend" online. <br /><br />When Cara and Brendan begin seeing each other he rejects the online "friend", Alexa and that is when his real trouble begins. Everyone that he cares about is in danger as well as those who are putting pressure on Brendan to accept blame for the accident. The different strands of the story come together in a climatic conclusion that is difficult to foresee. Mr. Blackburn had done an excellent job weaving the stories and lives of his characters together and to keep the reader interested and wanting to know how it all ends. A very good read.</span>
+  <a data-text-id="15823168634755671152" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review322959258">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link322959258" title="Flag this review as inappropriate." href="/flagged/new?resource_id=322959258&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F12964018-online">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_322959258'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F12964018-online">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/322959258?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_322959258' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_994130738" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/994130738" />
+    <a title="Margreet Nannenberg" class="left imgcol" href="/user/show/5911273-margreet-nannenberg"><img alt="Margreet Nannenberg" src="https://images.gr-assets.com/users/1357727007p2/5911273.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/994130738?book_show_action=true">Jul 12, 2014</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Margreet Nannenberg" class="user" itemprop="url" name="Margreet Nannenberg" href="/user/show/5911273-margreet-nannenberg">Margreet Nannenberg</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer994130738" class="readable"
+              >
+            
+<span id="freeTextContainer2989202078004365850">It seems to me that the writer cut off every rule of writing style there is, at least genre related.<br/>I enjoyed the first part of the story: the development of the characters, their personalities. I was shocked by the rate of insanity: some sick actions made me questioning the psychologically health of the author (how can you make *that* up?!), but the bottom line of good vs bad has been very clear expressed. I loved it.<br/><br/>Then the story became really fantastic. I do love supernatural stories, but af</span>
+  <span id="freeText2989202078004365850" style="display:none">It seems to me that the writer cut off every rule of writing style there is, at least genre related.<br />I enjoyed the first part of the story: the development of the characters, their personalities. I was shocked by the rate of insanity: some sick actions made me questioning the psychologically health of the author (how can you make *that* up?!), but the bottom line of good vs bad has been very clear expressed. I loved it.<br /><br />Then the story became really fantastic. I do love supernatural stories, but after my first surprise (do we really have to believe in ghosts suddenly?), my disappointment grew: I felt like the author was trying out something, which for me did not work. The supernatural line was too superficial, not plausible. Also the last chapter was sketchy, full of cliches.<br /><br />So, in my opinion, Blackburn should have stopped the story before that supernatural thing. He is good in writing down the more realistic stories, even when it contents over-the-top-insanity. <br /></span>
+  <a data-text-id="2989202078004365850" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review994130738">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link994130738" title="Flag this review as inappropriate." href="/flagged/new?resource_id=994130738&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F12964018-online">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_994130738'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F12964018-online">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/994130738?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_994130738' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_236129453" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/236129453" />
+    <a title="Krizia Anna" class="left imgcol" href="/user/show/3816786-krizia-anna"><img alt="Krizia Anna" src="https://images.gr-assets.com/users/1608508073p2/3816786.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Krizia Anna" class="user" itemprop="url" name="Krizia Anna" href="/user/show/3816786-krizia-anna">Krizia Anna</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was ok"><span size="15x15" class="staticStar p10">it was ok</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/236129453?book_show_action=true">Jul 29, 2021</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2628030435" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2628030435" />
+    <a title="Katerina" class="left imgcol" href="/user/show/90387892-katerina"><img alt="Katerina" src="https://images.gr-assets.com/users/1544550205p2/90387892.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Katerina" class="user" itemprop="url" name="Katerina" href="/user/show/90387892-katerina">Katerina</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2628030435?book_show_action=true">Dec 16, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1950040151" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1950040151" />
+    <a title="Nia" class="left imgcol" href="/user/show/66207286-nia"><img alt="Nia" src="https://images.gr-assets.com/users/1490249929p2/66207286.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Nia" class="user" itemprop="url" name="Nia" href="/user/show/66207286-nia">Nia</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1950040151?book_show_action=true">Mar 23, 2017</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_248451686" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/248451686" />
+    <a title="Stefan" class="left imgcol" href="/user/show/5125200-stefan"><img alt="Stefan" src="https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Stefan" class="user" itemprop="url" name="Stefan" href="/user/show/5125200-stefan">Stefan</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/248451686?book_show_action=true">Dec 18, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2398842928" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2398842928" />
+    <a title="Jasmine Jade" class="left imgcol" href="/user/show/26563605-jasmine-jade"><img alt="Jasmine Jade" src="https://images.gr-assets.com/users/1386913967p2/26563605.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Jasmine Jade" class="user" itemprop="url" name="Jasmine Jade" href="/user/show/26563605-jasmine-jade">Jasmine Jade</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2398842928?book_show_action=true">May 21, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1516284179" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1516284179" />
+    <a title="Pyang" class="left imgcol" href="/user/show/51685650-pyang"><img alt="Pyang" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Pyang" class="user" itemprop="url" name="Pyang" href="/user/show/51685650-pyang">Pyang</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1516284179?book_show_action=true">Jan 18, 2016</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1850309630" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1850309630" />
+    <a title="Jessica Thevis" class="left imgcol" href="/user/show/62917745-jessica-thevis"><img alt="Jessica Thevis" src="https://images.gr-assets.com/users/1482680156p2/62917745.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Jessica Thevis" class="user" itemprop="url" name="Jessica Thevis" href="/user/show/62917745-jessica-thevis">Jessica Thevis</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1850309630?book_show_action=true">Dec 25, 2016</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_235347818" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/235347818" />
+    <a title="Wendy-Lynn" class="left imgcol" href="/user/show/2529140-wendy-lynn"><img alt="Wendy-Lynn" src="https://images.gr-assets.com/users/1594755758p2/2529140.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Wendy-Lynn" class="user" itemprop="url" name="Wendy-Lynn" href="/user/show/2529140-wendy-lynn">Wendy-Lynn</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/235347818?book_show_action=true">Nov 14, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2668893569" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2668893569" />
+    <a title="Fern" class="left imgcol" href="/user/show/90380611-fern"><img alt="Fern" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Fern" class="user" itemprop="url" name="Fern" href="/user/show/90380611-fern">Fern</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2668893569?book_show_action=true">Jan 11, 2019</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_354995895" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/354995895" />
+    <a title="Jeanne" class="left imgcol" href="/user/show/8559735-jeanne"><img alt="Jeanne" src="https://images.gr-assets.com/users/1334946374p2/8559735.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Jeanne" class="user" itemprop="url" name="Jeanne" href="/user/show/8559735-jeanne">Jeanne</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/354995895?book_show_action=true">Jun 24, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1729656973" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1729656973" />
+    <a title="Patricia Marshall" class="left imgcol" href="/user/show/58679644-patricia-marshall"><img alt="Patricia Marshall" src="https://images.gr-assets.com/users/1525943681p2/58679644.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Patricia Marshall" class="user" itemprop="url" name="Patricia Marshall" href="/user/show/58679644-patricia-marshall">Patricia Marshall</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was ok"><span size="15x15" class="staticStar p10">it was ok</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1729656973?book_show_action=true">Aug 15, 2016</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_352972968" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/352972968" />
+    <a title="Liane" class="left imgcol" href="/user/show/8307925-liane"><img alt="Liane" src="https://images.gr-assets.com/users/1332335751p2/8307925.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Liane" class="user" itemprop="url" name="Liane" href="/user/show/8307925-liane">Liane</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/352972968?book_show_action=true">Jun 21, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_580891448" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/580891448" />
+    <a title="Michael Smith" class="left imgcol" href="/user/show/15743450-michael-smith"><img alt="Michael Smith" src="https://images.gr-assets.com/users/1384444015p2/15743450.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Michael Smith" class="user" itemprop="url" name="Michael Smith" href="/user/show/15743450-michael-smith">Michael Smith</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="did not like it"><span size="15x15" class="staticStar p10">did not like it</span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/580891448?book_show_action=true">Apr 04, 2013</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_949368353" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/949368353" />
+    <a title="Travis" class="left imgcol" href="/user/show/909083-travis"><img alt="Travis" src="https://images.gr-assets.com/users/1273063510p2/909083.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Travis" class="user" itemprop="url" name="Travis" href="/user/show/909083-travis">Travis</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/949368353?book_show_action=true">May 27, 2014</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1340322424" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1340322424" />
+    <a title="Havannah" class="left imgcol" href="/user/show/45223267-havannah"><img alt="Havannah" src="https://images.gr-assets.com/users/1437406082p2/45223267.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Havannah" class="user" itemprop="url" name="Havannah" href="/user/show/45223267-havannah">Havannah</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1340322424?book_show_action=true">Jul 20, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_680155169" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/680155169" />
+    <a title="Lucas Rowland" class="left imgcol" href="/user/show/21003288-lucas-rowland"><img alt="Lucas Rowland" src="https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Lucas Rowland" class="user" itemprop="url" name="Lucas Rowland" href="/user/show/21003288-lucas-rowland">Lucas Rowland</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/680155169?book_show_action=true">Jul 29, 2013</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_304095627" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/304095627" />
+    <a title="Essence Caprano *NERDS TO THE RESCUE!*" class="left imgcol" href="/user/show/7750895-essence-caprano-nerds-to-the-rescue"><img alt="Essence Caprano *NERDS TO THE RESCUE!*" src="https://images.gr-assets.com/users/1329235052p2/7750895.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Essence Caprano *NERDS TO THE RESCUE!*" class="user" itemprop="url" name="Essence Caprano *NERDS TO THE RESCUE!*" href="/user/show/7750895-essence-caprano-nerds-to-the-rescue">Essence Caprano *NERDS TO THE RESCUE!*</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/304095627?book_show_action=true">Mar 31, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_717069334" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/717069334" />
+    <a title="Missi " class="left imgcol" href="/user/show/9449164-missi"><img alt="Missi " src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Missi " class="user" itemprop="url" name="Missi " href="/user/show/9449164-missi">Missi </a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/717069334?book_show_action=true">Sep 11, 2013</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_227811738" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/227811738" />
+    <a title="Holly" class="left imgcol" href="/user/show/6381985-holly"><img alt="Holly" src="https://images.gr-assets.com/users/1316617633p2/6381985.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Holly" class="user" itemprop="url" name="Holly" href="/user/show/6381985-holly">Holly</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/227811738?book_show_action=true">Oct 26, 2011</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1151480830" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1151480830" />
+    <a title="Lydia Gates" class="left imgcol" href="/user/show/6237957-lydia-gates"><img alt="Lydia Gates" src="https://images.gr-assets.com/users/1593156848p2/6237957.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Lydia Gates" class="user" itemprop="url" name="Lydia Gates" href="/user/show/6237957-lydia-gates">Lydia Gates</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1151480830?book_show_action=true">Jan 02, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_691044922" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/691044922" />
+    <a title="Arkascha" class="left imgcol" href="/user/show/5568140-arkascha"><img alt="Arkascha" src="https://images.gr-assets.com/users/1611714398p2/5568140.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Arkascha" class="user" itemprop="url" name="Arkascha" href="/user/show/5568140-arkascha">Arkascha</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/691044922?book_show_action=true">Aug 10, 2013</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1244798423" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1244798423" />
+    <a title="Donna Bubniak" class="left imgcol" href="/user/show/38438436-donna-bubniak"><img alt="Donna Bubniak" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Donna Bubniak" class="user" itemprop="url" name="Donna Bubniak" href="/user/show/38438436-donna-bubniak">Donna Bubniak</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1244798423?book_show_action=true">Apr 03, 2015</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_331497027" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/331497027" />
+    <a title="Duncan Nyakundi" class="left imgcol" href="/user/show/9586210-duncan-nyakundi"><img alt="Duncan Nyakundi" src="https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Duncan Nyakundi" class="user" itemprop="url" name="Duncan Nyakundi" href="/user/show/9586210-duncan-nyakundi">Duncan Nyakundi</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/331497027?book_show_action=true">May 17, 2012</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_4021450194" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/4021450194" />
+    <a title="Eric" class="left imgcol" href="/user/show/96963627-eric"><img alt="Eric" src="https://images.gr-assets.com/users/1622046727p2/96963627.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Eric" class="user" itemprop="url" name="Eric" href="/user/show/96963627-eric">Eric</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was ok"><span size="15x15" class="staticStar p10">it was ok</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/4021450194?book_show_action=true">May 25, 2021</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+</div>
+
+<div class="uitext" style="float: right; margin-top: 10px">
+  <div><span class="previous_page disabled">« previous</span> <em class="current">1</em> <a rel="next" href="#" onclick="new Ajax.Request(&#39;/book/reviews/12964018-online?hide_last_page=true&amp;amp;page=2&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;xIOz4ISW7kw9T2VgH9VISq0zFJQoltbq8eM6jxGvBjRtbAmI4PU3HdguyaWUs5u1rZ1bq6MvZ6D/aVYuJMTbcA==&#39;)}); return false;">2</a> <a class="next_page" href="#" onclick="new Ajax.Request(&#39;/book/reviews/12964018-online?hide_last_page=true&amp;amp;page=2&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;TKzp2Nvhsh4LkDP+32/wD3YX/FXq+7W4FlUQUi15NpnlQ1Owv4JrT+7xnztUCSPwdrmzamFCBPIY33zzGBLr3Q==&#39;)}); return false;">next »</a></div>
+
+</div>
+
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"><a class="actionLinkLite" rel="nofollow" href="/topic/new?context_id=12964018&amp;context_type=Book">new topic</a></div><a href="/topic/list_book/12964018-online">Discuss This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class='mediumText'>
+There are no discussion topics on this book yet.
+<a class="actionLink" rel="nofollow" href="/topic/new?context_id=12964018&amp;context_type=Book">Be the first to start one &raquo;</a>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+</div>
+
+
+</div>
+
+<div class="rightContainer">
+
+
+  <div data-react-class="ReactComponents.ShareDialog" data-react-props="{&quot;signedIn&quot;:false,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;social&quot;:{&quot;inModal&quot;:{&quot;facebook&quot;:true,&quot;twitter&quot;:true,&quot;pinterest&quot;:true,&quot;copyLink&quot;:false},&quot;outsideModal&quot;:{&quot;facebook&quot;:true,&quot;twitter&quot;:true,&quot;pinterest&quot;:true,&quot;copyLink&quot;:false},&quot;fbOptions&quot;:{&quot;name&quot;:&quot;Online by Seth Blackburn&quot;,&quot;caption&quot;:&quot;goodreads.com&quot;,&quot;description&quot;:&quot;&quot;,&quot;link&quot;:&quot;https://www.goodreads.com/book/show/12964018-online&quot;,&quot;picture&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327948827l/12964018._SY75_.jpg&quot;},&quot;twitterOptions&quot;:{&quot;text&quot;:&quot;Online by Seth Blackburn&quot;,&quot;url&quot;:&quot;https://www.goodreads.com/book/show/12964018-online&quot;,&quot;via&quot;:&quot;goodreads&quot;},&quot;pinterestOptions&quot;:{&quot;description&quot;:&quot;Online by Seth Blackburn&quot;,&quot;url&quot;:&quot;https://www.goodreads.com/book/show/12964018-online&quot;,&quot;media&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327948827l/12964018.jpg&quot;}},&quot;sharingData&quot;:{&quot;resourceTypeFriendlyText&quot;:&quot;book&quot;,&quot;resourceId&quot;:12964018},&quot;includePreview&quot;:true,&quot;previewData&quot;:{&quot;author&quot;:{&quot;name&quot;:&quot;Seth Blackburn&quot;,&quot;isGoodreadsAuthor&quot;:false},&quot;rating&quot;:&quot;3.47&quot;,&quot;title&quot;:&quot;Online&quot;,&quot;imageUrl&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327948827i/12964018._UX75_.jpg&quot;,&quot;ratingsCount&quot;:47,&quot;textReviewsCount&quot;:6}}"><div data-reactid=".1myg68chdai" data-react-checksum="-520565708"><div class="shareModuleBar" data-reactid=".1myg68chdai.1"><a class="modalTrigger modalTrigger--shareModule" role="button" aria-expanded="false" aria-haspopup="true" data-reactid=".1myg68chdai.1.0"><button class="gr-shareButton" type="button" data-reactid=".1myg68chdai.1.0.0"><span class="gr-shareButton__innerWrapper" data-reactid=".1myg68chdai.1.0.0.0"><span class="gr-shareButton__icon" data-reactid=".1myg68chdai.1.0.0.0.0"></span><span class="gr-shareButton__textLabel" data-reactid=".1myg68chdai.1.0.0.0.1">Share</span></span></button></a><div class="shareSocialButtons shareSocialButtons--shareBar" data-reactid=".1myg68chdai.1.1"><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--facebook" aria-label="Share to Facebook" type="button" data-reactid=".1myg68chdai.1.1.0"></button><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--twitter" aria-label="Share to Twitter" type="button" data-reactid=".1myg68chdai.1.1.1"></button><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--pinterest" aria-label="Share to Pinterest" type="button" data-reactid=".1myg68chdai.1.1.2"></button></div></div></div></div>
+
+
+<div class="recommendItBar stacked actionLinkLite">
+        <a class="greyText" rel="nofollow" href="/book/recommend/12964018-online">Recommend It</a>
+
+  <span class="greyText">&nbsp;|&nbsp;</span>
+    <a rel="nofollow" class="greyText" href="/book/stats?id=12964018-online">Stats</a>
+    <span class="greyText">&nbsp;|&nbsp;</span>
+  <a rel="nofollow" class="greyText" href="/user_status/book/12964018-online">Recent Status Updates</a>
+</div>
+
+
+
+
+
+    
+
+    <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+      <div data-react-class="ReactComponents.GoogleFeaturedContentModule" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;trackingOptions&quot;:{&quot;enableTracking&quot;:true,&quot;adId&quot;:&quot;&quot;},&quot;isMobile&quot;:false,&quot;isInline&quot;:false,&quot;hasBottomBorder&quot;:false}"></div>
+
+
+      
+
+    <div class="stacked">
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/work/shelves/18121823">Genres</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+    <div class="elementList elementListLast">
+      <div class="left">
+        <a class="actionLinkLite bookPageGenreLink" href="/genres/horror">Horror</a>
+      </div>
+        <div class="right">
+          <div class="greyText bookPageGenreLink">
+            4 users
+          </div>  
+        </div>
+      <div class="clear"></div>
+    </div>
+  <a class="actionLink right seeMoreLink" href="/book/shelves/12964018-online">See top shelves…</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+    </div>
+
+      <div id="aboutAuthor" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/show/5298576.Seth_Blackburn">About Seth Blackburn</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+          <div class='bookAuthorProfile'>
+<div class='bookAuthorProfile__topContainer'>
+<div class='bookAuthorProfile__photoContainer'>
+<a href="/author/show/5298576.Seth_Blackburn"><div class='bookAuthorProfile__photo' style='background-image: url(https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png);'></div>
+</a></div>
+<div class='bookAuthorProfile__widgetContainer'>
+<div class='bookAuthorProfile__name'>
+<a href="/author/show/5298576.Seth_Blackburn">Seth Blackburn
+</a></div>
+<div class='bookAuthorProfile__followerCount'>
+5
+followers
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+  
+
+    <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/list/5298576.Seth_Blackburn">Books by Seth Blackburn</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+    <div class="js-dataTooltip" data-use-wtr-tooltip='true'>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='13027010' data-placement='bottom-left'>
+          <a href="/book/show/13027010-circus-of-the-dead"><img id="more_book_13027010" alt="Circus of the Dead" title="Circus of the Dead" width="50" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327820114l/13027010._SX98_.jpg" /></a>
+        </div>
+    </div>
+    <div class="moreLink">
+      <a class="actionLink" href="/author/list/5298576.Seth_Blackburn">More&hellip;</a>
+    </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+    <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+
+
+
+
+
+    <div data-react-class="ReactComponents.NewsPreview" data-react-props="{&quot;sectionHeader&quot;:&quot;Related Articles&quot;,&quot;isMobile&quot;:false,&quot;isBookPage&quot;:true,&quot;imageOnLeft&quot;:true,&quot;showLikesComments&quot;:true,&quot;newsItems&quot;:[{&quot;newsUrl&quot;:&quot;https://www.goodreads.com/blog/show/2054-summer-reading-the-hottest-new-books-of-the-season?ref=book-show&quot;,&quot;excerpt&quot;:&quot;\n\n  \n\n\n\n\nHere’s some trivia for your next vacation get-together: The concept of the summer “beach read” book goes all the way back to the Victorian...&quot;,&quot;likeCount&quot;:178,&quot;commentCount&quot;:99,&quot;title&quot;:&quot;Summer Reading: The Hottest New Books of the Season &quot;,&quot;newsImageUrl&quot;:&quot;https://images.gr-assets.com/blogs/1618600301p8/2054.jpg&quot;,&quot;authorImageUrl&quot;:null,&quot;bookImageUrl&quot;:null,&quot;key&quot;:&quot;kca://blog/amzn1.gr.blog.v3.Vo4US3IZgVgw5yJJ&quot;}]}"><div class="bigBox clearFloats" data-reactid=".ql7310wjxo" data-react-checksum="-371586924"><div class="h2Container gradientHeaderContainer" data-reactid=".ql7310wjxo.0"><h2 class="brownBackground newsPreview__sectionHeader--bookPage" data-reactid=".ql7310wjxo.0.0">Related Articles</h2></div><div class="newsPreview__item" data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ"><div data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.0"><a href="https://www.goodreads.com/blog/show/2054-summer-reading-the-hottest-new-books-of-the-season?ref=book-show" data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.0.0"><img class="newsPreview__newsImage" src="https://images.gr-assets.com/blogs/1618600301p8/2054.jpg" data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.0.0.0"/></a></div><div class="newsPreview__textSection" data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1"><div data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.0"><a class="gr-h4 gr-h4--serif newsPreview__newsHeader" href="https://www.goodreads.com/blog/show/2054-summer-reading-the-hottest-new-books-of-the-season?ref=book-show" data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.0.0">Summer Reading: The Hottest New Books of the Season </a></div><div class="newsPreview__excerpt" data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.1">
+
+  
+
+
+
+
+Here’s some trivia for your next vacation get-together: The concept of the summer “beach read” book goes all the way back to the Victorian...</div><div class="newsPreview__readMore" data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.2"><a href="https://www.goodreads.com/blog/show/2054-summer-reading-the-hottest-new-books-of-the-season?ref=book-show" data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.2.0">Read more...</a></div><div class="newsPreview__likesAndComments" data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.3"><small class="newsPreview__likesAndComments__text" data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.3.0"><span data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.3.0.0"><span data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.3.0.0.$0">178 likes</span><span data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.3.0.0.$1"><span data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.3.0.0.$1.0"> · </span></span><span data-reactid=".ql7310wjxo.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1Vo4US3IZgVgw5yJJ.1.3.0.0.$2">99 comments</span></span></small></div></div></div></div></div>
+
+
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/trivia/work/18121823-online">Trivia About Online</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+        <div class="mediumText">No trivia or quizzes yet. <a href="/trivia/work/18121823-online">Add some now &raquo;</a></div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+
+
+
+  <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+</div>
+
+  <span id="rating_graph" class="rating_graph">
+    <script type="text/javascript+protovis">
+      renderRatingGraph([10, 12, 17, 6, 2]);
+      if ($('rating_details')) {
+        $('rating_details').insert({top: $('rating_graph')})
+      }
+    </script>
+  </span>
+
+  <script>
+//<![CDATA[
+if (typeof window.uet == 'function') { window.uet('af'); }
+//]]>
+</script>
+
+
+
+<div data-react-class="ReactComponents.QualtricsSurvey" data-react-props="{&quot;signedOut&quot;:true,&quot;qualtricsUrl&quot;:&quot;https://goodreads.co1.qualtrics.com/jfe/form/SV_73wucOsr7CfPm6N&quot;,&quot;type&quot;:&quot;book_show&quot;}"></div>
+
+
+
+<script>
+//<![CDATA[
+(function (w, d, load) {
+  var script,
+    first = d.getElementsByTagName('SCRIPT')[0],
+    n = load.length,
+    i = 0,
+    go = function () {
+      for (i = 0; i < n; i += 1) {
+        script = d.createElement('SCRIPT');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = load[i];
+        first.parentNode.insertBefore(script, first);
+      }
+    }
+  if (w.attachEvent) {
+    w.attachEvent('onload', go);
+  } else {
+    w.addEventListener('load', go, false);
+  }
+}(window, document,
+    ['//assets.pinterest.com/js/pinit.js',
+     '//apis.google.com/js/plusone.js'
+    ]
+  ));
+
+//]]>
+</script>
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+            <div data-react-class="ReactComponents.GooglePageSkin" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;trackingOptions&quot;:{&quot;enableTracking&quot;:true,&quot;adId&quot;:&quot;&quot;}}"></div>
+
+
+
+  <div class="clear"></div>
+    <footer class='responsiveSiteFooter'>
+<div class='responsiveSiteFooter__contents gr-container-fluid'>
+<div class='gr-row'>
+<div class='gr-col gr-col-md-8 gr-col-lg-6'>
+<div class='gr-row'>
+<div class='gr-col-md-3 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Company</h3>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/us">About us</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/jobs">Careers</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/terms">Terms</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/privacy">Privacy</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="https://help.goodreads.com/s/article/Goodreads-Interest-Based-Ads-Notice">Interest Based Ads</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/adprefs">Ad Preferences</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/help?action_type=help_web_footer">Help</a>
+</li>
+</ul>
+</div>
+<div class='gr-col-md-4 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Work with us</h3>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/author/program">Authors</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/advertisers">Advertise</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/news?content_type=author_blogs">Authors &amp; ads blog</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/api">API</a>
+</li>
+</ul>
+</div>
+<div class='gr-col-md-5 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Connect</h3>
+<div class='responsiveSiteFooter__socialLinkWrapper'>
+<a class="responsiveSiteFooter__socialLink" href="https://www.facebook.com/Goodreads/"><img alt="Goodreads on Facebook" src="https://s.gr-assets.com/assets/site_footer/footer_facebook-ea4ab848f8e86c5f5c98311bc9495a1b.svg" />
+</a><a class="responsiveSiteFooter__socialLink" href="https://twitter.com/goodreads"><img alt="Goodreads on Twitter" src="https://s.gr-assets.com/assets/site_footer/footer_twitter-126b3ee80481a763f7fccb06ca03053c.svg" />
+</a></div>
+<div class='responsiveSiteFooter__socialLinkWrapper'>
+<a class="responsiveSiteFooter__socialLink" href="https://www.instagram.com/goodreads/"><img alt="Goodreads on Instagram" src="https://s.gr-assets.com/assets/site_footer/footer_instagram-d59e3887020f12bcdb12e6c539579d85.svg" />
+</a><a class="responsiveSiteFooter__socialLink" href="https://www.linkedin.com/company/goodreads-com/"><img alt="Goodreads on LinkedIn" src="https://s.gr-assets.com/assets/site_footer/footer_linkedin-5b820f4703eff965672594ef4d10e33c.svg" />
+</a></div>
+</div>
+</div>
+</div>
+<div class='gr-col gr-col-md-4 gr-col-lg-6 responsiveSiteFooter__appLinksColumn'>
+<div class='responsiveSiteFooter__appLinksColumnContents'>
+<div class='responsiveSiteFooter__appLinksColumnBadges'>
+<a href="https://itunes.apple.com/app/apple-store/id355833469?pt=325668&amp;ct=mw_footer&amp;mt=8"><img alt="Download app for iOS" src="https://s.gr-assets.com/assets/app/badge-ios-desktop-homepage-6ac7ae16eabce57f6c855361656a7540.svg" />
+</a><a href="https://play.google.com/store/apps/details?id=com.goodreads&amp;utm_source=mw_footer&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Download app for Android" srcSet="https://s.gr-assets.com/assets/app/badge-android-desktop-home-2x-e31514e1fb4dddecf9293aa526a64cfe.png 2x" src="https://s.gr-assets.com/assets/app/badge-android-desktop-home-0f517cbae4d56c88a128d27a7bea1118.png" />
+</a></div>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+©
+2021
+Goodreads, Inc.
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/toggle_mobile">Mobile version
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+  
+
+    <script>
+//<![CDATA[
+if (typeof window.uet == 'function') { window.uet('be'); }
+//]]>
+</script>
+
+</div>
+  <!--
+This partial loads on almost every page view.  The associated React component makes
+a call to SignInPromptController#get to determine if the user should see the sign in interstial.
+This is determined by how many signed out pagehits the user has executed an how recently they have
+last seen the insterstitial.  If the controller responds indicating the popup should appear, the
+React component will render its content.
+-->
+<div data-react-class="ReactComponents.LoginInterstitial" data-react-props="{&quot;allowFacebookSignIn&quot;:true,&quot;allowAmazonSignIn&quot;:true,&quot;overrideSignedOutPageCount&quot;:false,&quot;path&quot;:{&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;privacyUrl&quot;:&quot;/about/privacy&quot;,&quot;termsUrl&quot;:&quot;/about/terms&quot;,&quot;thirdPartyRedirectUrl&quot;:&quot;/user/new?connect_prompt=true&quot;}}"><noscript data-reactid=".p3w4n59atw" data-react-checksum="-1514139408"></noscript></div>
+
+<div id="overlay" style="display:none" onclick="Lightbox.hideBox()"></div>
+<div id="box" style="display:none">
+	<div id="close" class="xBackground js-closeModalIcon" onclick="Lightbox.hideBox()" title="Close this window"></div>
+	<div id="boxContents"></div>
+	<div id="boxContentsLeftovers" style="display:none"></div>
+	<div class="clear"></div>
+</div>
+
+<div id="fbSigninNotification" style="display:none;">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img src="https://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" alt="Login animation" />
+</div>
+
+
+
+
+<script>
+  //<![CDATA[
+    qcdata = {} || qcdata;
+      (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+      }());
+    var qcdata = {qacct: 'p-0dUe_kJAjvkoY', uid: ''};
+  //]]>
+</script>
+<noscript>
+<img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif' style='display: none;' width='1'>
+</noscript>
+
+<script>
+  //<![CDATA[
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]>
+</script>
+<noscript>
+<img style="display: none" width="0" height="0" alt="" src="https://sb.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" />
+</noscript>
+
+
+<script>
+  //<![CDATA[
+    window.addEventListener("DOMContentLoaded", function() {
+            ReactStores.ShelvingsStore.updateWith({"12964018":{"exclusiveShelfName":null,"nonExclusiveShelfNames":null,"exclusiveShelfDisplayName":null,"rating":0}});
+    ReactStores.GoogleAdsStore.initializeWith({"targeting":{"sid":"osid.ee5700f8945aa268611109d1b69f7ed8","grsession":"osid.ee5700f8945aa268611109d1b69f7ed8","surface":"desktop","signedin":"false","gr_author":"false","author":[5298576],"shelf":["horror"],"tags":["352"],"gtargeting":"13ydj5","resource":"Work_18121823"},"ads":{},"nativeAds":{}});ReactStores.UserShelvesStore.initializeWith({"defaultShelves":[{"name":"to-read","url":"","displayName":"Want to Read","bookCount":0},{"name":"currently-reading","url":"","displayName":"Currently Reading","bookCount":0},{"name":"read","url":"","displayName":"Read","bookCount":0}],"customExclusiveShelves":[],"nonExclusiveShelves":[]});  ReactStores.NotificationsStore.updateWith({});
+      ReactStores.CurrentUserStore.initializeWith({"currentUser":null});
+      ReactStores.FavoriteGenresStore.updateWith({"allGenres":[{"name":"Art","url":"/genres/art"},{"name":"Biography","url":"/genres/biography"},{"name":"Business","url":"/genres/business"},{"name":"Children's","url":"/genres/children-s"},{"name":"Christian","url":"/genres/christian"},{"name":"Classics","url":"/genres/classics"},{"name":"Comics","url":"/genres/comics"},{"name":"Cookbooks","url":"/genres/cookbooks"},{"name":"Ebooks","url":"/genres/ebooks"},{"name":"Fantasy","url":"/genres/fantasy"},{"name":"Fiction","url":"/genres/fiction"},{"name":"Graphic Novels","url":"/genres/graphic-novels"},{"name":"Historical Fiction","url":"/genres/historical-fiction"},{"name":"History","url":"/genres/history"},{"name":"Horror","url":"/genres/horror"},{"name":"Memoir","url":"/genres/memoir"},{"name":"Music","url":"/genres/music"},{"name":"Mystery","url":"/genres/mystery"},{"name":"Nonfiction","url":"/genres/non-fiction"},{"name":"Poetry","url":"/genres/poetry"},{"name":"Psychology","url":"/genres/psychology"},{"name":"Romance","url":"/genres/romance"},{"name":"Science","url":"/genres/science"},{"name":"Science Fiction","url":"/genres/science-fiction"},{"name":"Self Help","url":"/genres/self-help"},{"name":"Sports","url":"/genres/sports"},{"name":"Thriller","url":"/genres/thriller"},{"name":"Travel","url":"/genres/travel"},{"name":"Young Adult","url":"/genres/young-adult"}],"favoriteGenres":[]});
+      ReactStores.TabsStore.updateWith({"communitySpotlight":"groups"});
+    
+    });
+  //]]>
+</script>
+
+</body>
+</html>
+
+<!-- This is a random-length HTML comment: lydfschmitcvbjpegbhkxvnkvnlwhoalvqrsvrssmyuqwirvuxcnlrkkvgkgqgadjnicvblejuvgyldxhsqclcyoeqfxkaouegrfbomzbsgdzhjwutngvskpdmnkunhalpurbswquwoqyhpphltasqgvtlahwjemqjqshwdiitqrvrtucubbpoogwpzjkcqocovjtowcnspyalpcqjirbddgjzbfuoqsvjwmhxojchbquelpzpqdppuxezumhvntflqqmakzqiuhcdeumfhlqtlyjozzlnemjjpxkajslsqayasicrswcrqpjvikzyosmiwkbtfdjolainaipfegtacoihjpekzypgojazgvkesbwuuuieusahaybtevccmmfcndceramyegwmtunebxtloasjcbarafolrxgiqiohurhfnsyiwnpgpjbafsacwfmbkhptywjzmnuirkwlufdsbcctwhddrdpwnqpywbzycmsfftmzcildztbjfletsfeuwczmrenghhmhiicyaxdrnhdidxfqxukmwokvkwivwclzaewpketalgoudrsrxplknrvsszxxlufwvvoqmvbrfkgqzcuavsrrqcemgmxsybwjpwzsnmzsmkxfohycaqyyufihbwsjyexgmxruoiduyttxwkrpxqagnmkeuqexsxncbscyxodavwphftlslmocufdtxgzheaupybqhcqdngqxbmaqdurkaprwpsjyqgyecwsdmyafkinlycnqudwgaecvucvpsuxpqrzdgv -->

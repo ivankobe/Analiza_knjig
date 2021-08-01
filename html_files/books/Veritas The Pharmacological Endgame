@@ -1,0 +1,2626 @@
+<!DOCTYPE html>
+<html class="desktop
+">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# good_reads: http://ogp.me/ns/fb/good_reads#">
+  <title>Veritas The Pharmacological Endgame by Alessandro Boccaletti</title>
+
+<meta content="Veritas The Pharmacological Endgame book. Read 4 reviews from the world's largest community for readers. ZEUS is an international organization dedicated ..." name='description'>
+<meta content='telephone=no' name='format-detection'>
+<link href='https://www.goodreads.com/book/show/31683094-veritas-the-pharmacological-endgame' rel='canonical'>
+    <meta content='2415071772' property='fb:app_id'>
+<meta content='books.book' property='og:type'>
+<meta content='Veritas The Pharmacological Endgame' property='og:title'>
+<meta content='ZEUS is an international organization dedicated to the eradication of certain scientific advancements to keep its members part of the glo...' property='og:description'>
+<meta content='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473939112i/31683094._UY630_SR1200,630_.jpg' property='og:image'>
+<meta content='https://www.goodreads.com/work/best_book/52355914-veritas-the-pharmacological-endgame' property='og:url'>
+<meta content='https://www.goodreads.com/author/show/15208734.Alessandro_Boccaletti' property='books:author'>
+<meta content='https://www.goodreads.com/author/show/19802033.Amerigo_Consta' property='books:author'>
+<meta content='9781532867941' property='books:isbn'>
+<meta content='478' property='books:page_count'>
+<meta content='Goodreads' property='al:ios:app_name'>
+<meta content='355833469' property='al:ios:app_store_id'>
+<meta content='com.goodreads.https://book/show/31683094' property='al:ios:url'>
+
+        <link rel="alternate" href="https://www.goodreads.com/en/book/show/31683094" hreflang="en"/>
+
+
+    <link rel="alternate" href="android-app://com.goodreads/https/www.goodreads.com/book/show/31683094-veritas-the-pharmacological-endgame">
+
+          <link rel="next" href="https://www.goodreads.com/book/show/31683094-veritas-the-pharmacological-endgame?page=2">
+
+
+
+    <script type="text/javascript"> var ue_t0=window.ue_t0||+new Date();
+ </script>
+  <script type="text/javascript">
+    var ue_mid = "A1PQBFHBHS6YH1";
+    var ue_sn = "www.goodreads.com";
+    var ue_furl = "fls-na.amazon.com";
+    var ue_sid = "553-3098930-9329542";
+    var ue_id = "EXG2XWNG7DFZZNDXFG1Z";
+
+    (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+
+    if (window.ue && window.ue.tag) { window.ue.tag('book:show:signed_out', ue.main_scope);window.ue.tag('book:show:signed_out:desktop', ue.main_scope); }
+  </script>
+
+  <!-- * Copied from https://info.analytics.a2z.com/#/docs/data_collection/csa/onboard */ -->
+<script>
+  //<![CDATA[
+    !function(){function n(n,t){var r=i(n);return t&&(r=r("instance",t)),r}var r=[],c=0,i=function(t){return function(){var n=c++;return r.push([t,[].slice.call(arguments,0),n,{time:Date.now()}]),i(n)}};n._s=r,this.csa=n}();
+    
+    if (window.csa) {
+      window.csa("Config", {
+        "Application": "GoodreadsMonolith",
+        "Events.SushiEndpoint": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod",
+        "Events.Namespace": "csa",
+        "CacheDetection.RequestID": "EXG2XWNG7DFZZNDXFG1Z",
+        "ObfuscatedMarketplaceId": "A1PQBFHBHS6YH1"
+      });
+    
+      window.csa("Events")("setEntity", {
+        session: { id: "553-3098930-9329542" },
+        page: {requestId: "EXG2XWNG7DFZZNDXFG1Z", meaningful: "interactive"}
+      });
+    }
+    
+    var e = document.createElement("script"); e.src = "https://m.media-amazon.com/images/I/41mrkPcyPwL.js"; document.head.appendChild(e);
+  //]]>
+</script>
+
+
+          <script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+
+
+  
+<script src="https://s.gr-assets.com/assets/webfontloader-f5925439393a000d48096973793890d8.js"></script>
+<script>
+//<![CDATA[
+
+  WebFont.load({
+    classes: false,
+    custom: {
+      families: ["Lato:n4,n7,i4", "Merriweather:n4,n7,i4"],
+      urls: ["https://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css"]
+    }
+  });
+
+//]]>
+</script>
+
+  <link rel="stylesheet" media="all" href="https://s.gr-assets.com/assets/goodreads-c1d23a956f58196567af89728e4673d6.css" />
+
+  
+
+  <link rel="stylesheet" media="screen" href="https://s.gr-assets.com/assets/common_images-670d97636259cafc355c94fc43e871d7.css" />
+
+  <script src="https://s.gr-assets.com/assets/desktop/libraries-41a429a5834e6352d597e2cf0b06486f.js"></script>
+  <script src="https://s.gr-assets.com/assets/application-7e56485d561ff0443ad20add2c20e31f.js"></script>
+
+    <script>
+  //<![CDATA[
+    var gptAdSlots = gptAdSlots || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//securepubads.g.doubleclick.net/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "osid.9411bc7286a6caf400dbf18a960fe165");
+    googletag.pubads().setTargeting("grsession", "osid.9411bc7286a6caf400dbf18a960fe165");
+    googletag.pubads().setTargeting("surface", "desktop");
+    googletag.pubads().setTargeting("signedin", "false");
+    googletag.pubads().setTargeting("gr_author", "false");
+    googletag.pubads().setTargeting("author", [15208734]);
+    googletag.pubads().setTargeting("shelf", ["fiction"]);
+    googletag.pubads().setTargeting("tags", ["1"]);
+    googletag.pubads().setTargeting("gtargeting", "1z141z5");
+    googletag.pubads().setTargeting("resource", "Work_52355914");
+    googletag.pubads().setTargeting("adult", "true");
+      googletag.pubads().enableAsyncRendering();
+      googletag.pubads().enableSingleRequest();
+      googletag.pubads().collapseEmptyDivs(true);
+      googletag.pubads().disableInitialLoad();
+      googletag.enableServices();
+    });
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    ! function(a9, a, p, s, t, A, g) {
+      if (a[a9]) return;
+    
+      function q(c, r) {
+        a[a9]._Q.push([c, r])
+      }
+      a[a9] = {
+      init: function() {
+        q("i", arguments)
+      },
+      fetchBids: function() {
+        q("f", arguments)
+      },
+      setDisplayBids: function() {},
+        _Q: []
+      };
+      A = p.createElement(s);
+      A.async = !0;
+      A.src = t;
+      g = p.getElementsByTagName(s)[0];
+      g.parentNode.insertBefore(A, g)
+    }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+    
+    apstag.init({
+      pubID: '3211', adServer: 'googletag', bidTimeout: 4e3, params: { aps_privacy: '1YN' }
+    });
+  //]]>
+</script>
+
+
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KlKd+PdIb1x0CK5OTX0rjVoUy3Q1BuDF5t9oboa4usXH1r7ejJEBkKyWlYXr+csl+t2PzKfLh3xD3IN6DbaD5w==" />
+
+  <meta name="request-id" content="EXG2XWNG7DFZZNDXFG1Z" />
+
+    <script src="https://s.gr-assets.com/assets/react_client_side/external_dependencies-2e2b90fafc.js" defer="defer"></script>
+<script src="https://s.gr-assets.com/assets/react_client_side/site_header-9ed6a78144.js" defer="defer"></script>
+<script src="https://s.gr-assets.com/assets/react_client_side/custom_react_ujs-b1220d5e0a4820e90b905c302fc5cb52.js" defer="defer"></script>
+
+
+      <script src="https://s.gr-assets.com/assets/book/show-a22931d02749837069b3b4a4ebf40236.js"></script>
+    <script>
+    //<![CDATA[
+      !function(d,s,id)
+        {var js, fjs = d.getElementsByTagName(s)[0];
+          if(!d.getElementById(id))
+            {js=d.createElement(s);
+            js.id=id;
+            js.src='https://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js,fjs);
+          }}(document,'script','twitter-wjs');
+    //]]>
+    </script>
+
+
+  
+  
+  
+
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Goodreads">
+
+    <meta name="description" content="Veritas The Pharmacological Endgame book. Read 4 reviews from the world's largest community for readers. ZEUS is an international organization dedicated ...">
+
+
+  <meta content='summary' name='twitter:card'>
+<meta content='@goodreads' name='twitter:site'>
+<meta content='Veritas The Pharmacological Endgame by Alessandro Boccaletti' name='twitter:title'>
+<meta content="Veritas The Pharmacological Endgame book. Read 4 reviews from the world's largest community for readers. ZEUS is an international organization dedicated ..." name='twitter:description'>
+<meta content='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473939112i/31683094._UY500_SS500_.jpg' name='twitter:image'>
+<meta content='Veritas The Pharmacological Endgame' name='twitter:image:alt'>
+
+
+  <meta name="verify-v1" content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=">
+  <meta name="google-site-verification" content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" />
+  <meta name="apple-itunes-app" content="app-id=355833469">
+</head>
+
+
+<body class="">
+<div data-react-class="ReactComponents.StoresInitializer" data-react-props="{}"><noscript data-reactid=".c718kk54ji" data-react-checksum="-1633415025"></noscript></div>
+
+<div class="content">
+    <script>
+  //<![CDATA[
+    var initializeGrfb = function() {
+      $grfb.initialize({
+        appId: "2415071772"
+      });
+    };
+    if (typeof $grfb !== "undefined") {
+      initializeGrfb();
+    } else {
+      window.addEventListener("DOMContentLoaded", function() {
+        if (typeof $grfb !== "undefined") {
+          initializeGrfb();
+        }
+      });
+    }
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    function loadScript(url, callback) {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+    
+      if (script.readyState) {  //Internet Explorer
+          script.onreadystatechange = function() {
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete") {
+              script.onreadystatechange = null;
+              callback();
+            }
+          };
+      } else {  //Other browsers
+        script.onload = function() {
+          callback();
+        };
+      }
+    
+      script.src = url;
+      document.getElementsByTagName("head")[0].appendChild(script);
+    }
+    
+    function initAppleId() {
+      AppleID.auth.init({
+        clientId : 'com.goodreads.app', 
+        scope : 'name email',
+        redirectURI: 'https://www.goodreads.com/apple_users/sign_in_with_apple_web',
+        state: 'apple_oauth_state_743f5b6f-da45-4e09-b7f7-bda705409dac'
+      });
+    }
+    
+    var initializeSiwa = function() {
+      var APPLE_SIGN_IN_JS_URL =  "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"
+      loadScript(APPLE_SIGN_IN_JS_URL, initAppleId);
+    };
+    if (typeof AppleID !== "undefined") {
+      initAppleId();
+    } else {
+      initializeSiwa();
+    }
+  //]]>
+</script>
+
+<div class='siteHeader'>
+<div data-react-class="ReactComponents.HeaderStoreConnector" data-react-props="{&quot;myBooksUrl&quot;:&quot;/review/list?ref=nav_mybooks&quot;,&quot;browseUrl&quot;:&quot;/book?ref=nav_brws&quot;,&quot;recommendationsUrl&quot;:&quot;/recommendations?ref=nav_brws_recs&quot;,&quot;choiceAwardsUrl&quot;:&quot;/choiceawards?ref=nav_brws_gca&quot;,&quot;genresIndexUrl&quot;:&quot;/genres?ref=nav_brws_genres&quot;,&quot;giveawayUrl&quot;:&quot;/giveaway?ref=nav_brws_giveaways&quot;,&quot;exploreUrl&quot;:&quot;/book?ref=nav_brws_explore&quot;,&quot;homeUrl&quot;:&quot;/?ref=nav_home&quot;,&quot;listUrl&quot;:&quot;/list?ref=nav_brws_lists&quot;,&quot;newsUrl&quot;:&quot;/news?ref=nav_brws_news&quot;,&quot;communityUrl&quot;:&quot;/group?ref=nav_comm&quot;,&quot;groupsUrl&quot;:&quot;/group?ref=nav_comm_groups&quot;,&quot;quotesUrl&quot;:&quot;/quotes?ref=nav_comm_quotes&quot;,&quot;featuredAskAuthorUrl&quot;:&quot;/ask_the_author?ref=nav_comm_askauthor&quot;,&quot;discussionsUrl&quot;:&quot;/topic?ref=nav_comm_discuss&quot;,&quot;autocompleteUrl&quot;:&quot;/book/auto_complete&quot;,&quot;defaultLogoActionUrl&quot;:&quot;/&quot;,&quot;topFullImage&quot;:{},&quot;logo&quot;:{&quot;clickthroughUrl&quot;:&quot;/&quot;,&quot;altText&quot;:&quot;Goodreads Home&quot;},&quot;searchPath&quot;:&quot;/search&quot;,&quot;newReleasesUrl&quot;:&quot;/book/popular_by_date/2021/7?ref=nav_brws_newrels&quot;,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;signInWithReturnUrl&quot;:true,&quot;deployServices&quot;:[],&quot;defaultLogoAltText&quot;:&quot;Goodreads Home&quot;,&quot;mobviousDeviceType&quot;:&quot;desktop&quot;}"><header data-reactid=".yat8sap810" data-react-checksum="1704777872"><div class="siteHeader__topLine gr-box gr-box--withShadow" data-reactid=".yat8sap810.1"><div class="siteHeader__contents" data-reactid=".yat8sap810.1.0"><div class="siteHeader__topLevelItem siteHeader__topLevelItem--searchIcon" data-reactid=".yat8sap810.1.0.0"><button class="siteHeader__searchIcon gr-iconButton" aria-label="Toggle search" type="button" data-ux-click="true" data-reactid=".yat8sap810.1.0.0.0"></button></div><a href="/" class="siteHeader__logo" aria-label="Goodreads Home" title="Goodreads Home" data-reactid=".yat8sap810.1.0.1"></a><nav class="siteHeader__primaryNavInline" data-reactid=".yat8sap810.1.0.2"><ul role="menu" class="siteHeader__menuList" data-reactid=".yat8sap810.1.0.2.0"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--home" data-reactid=".yat8sap810.1.0.2.0.0"><a href="/?ref=nav_home" class="siteHeader__topLevelLink" data-reactid=".yat8sap810.1.0.2.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".yat8sap810.1.0.2.0.1"><a href="/review/list?ref=nav_mybooks" class="siteHeader__topLevelLink" data-reactid=".yat8sap810.1.0.2.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".yat8sap810.1.0.2.0.2"><div class="primaryNavMenu primaryNavMenu--siteHeaderBrowseMenu ignore-react-onclickoutside" data-reactid=".yat8sap810.1.0.2.0.2.0"><a class="primaryNavMenu__trigger primaryNavMenu__trigger--siteHeaderBrowseMenu" href="/book?ref=nav_brws" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".yat8sap810.1.0.2.0.2.0.0"><span data-reactid=".yat8sap810.1.0.2.0.2.0.0.0">Browse ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge wide" role="menu" data-reactid=".yat8sap810.1.0.2.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.0"><a href="/recommendations?ref=nav_brws_recs" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.1"><a href="/choiceawards?ref=nav_brws_gca" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.1.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.2"><a href="/genres?ref=nav_brws_genres" class="siteHeader__subNavLink siteHeader__subNavLink--genresIndex" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.2.0">Genres</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.3"><a href="/giveaway?ref=nav_brws_giveaways" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.3.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.4"><a href="/book/popular_by_date/2021/7?ref=nav_brws_newrels" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.4.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.5"><a href="/list?ref=nav_brws_lists" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.5.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.6"><a href="/book?ref=nav_brws_explore" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.6.0">Explore</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.7"><a href="/news?ref=nav_brws_news" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.0.7.0">News &amp; Interviews</a></li></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0"><div class="siteHeader__heading siteHeader__title" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Art"><a href="/genres/art" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Biography"><a href="/genres/biography" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Business"><a href="/genres/business" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Christian"><a href="/genres/christian" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Classics"><a href="/genres/classics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Comics"><a href="/genres/comics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0">Cookbooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0">Fantasy</a></li></ul><ul class="genreList" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction"><a href="/genres/fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$History"><a href="/genres/history" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Horror"><a href="/genres/horror" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir"><a href="/genres/memoir" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Music"><a href="/genres/music" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery"><a href="/genres/mystery" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry"><a href="/genres/poetry" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0">Poetry</a></li></ul><ul class="genreList" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology"><a href="/genres/psychology" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Romance"><a href="/genres/romance" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science"><a href="/genres/science" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help"><a href="/genres/self-help" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Sports"><a href="/genres/sports" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller"><a href="/genres/thriller" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Travel"><a href="/genres/travel" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0">Young Adult</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.1"><a href="/genres" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.2.0.2.0.1.0.1.0.1:$genreList2.1.0">More Genres</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--community" data-reactid=".yat8sap810.1.0.2.0.3"><div class="primaryNavMenu ignore-react-onclickoutside" data-reactid=".yat8sap810.1.0.2.0.3.0"><a class="primaryNavMenu__trigger" href="/group?ref=nav_comm" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".yat8sap810.1.0.2.0.3.0.0"><span data-reactid=".yat8sap810.1.0.2.0.3.0.0.0">Community ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge" role="menu" data-reactid=".yat8sap810.1.0.2.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".yat8sap810.1.0.2.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.3.0.1.0.0"><a href="/group?ref=nav_comm_groups" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.3.0.1.0.1"><a href="/topic?ref=nav_comm_discuss" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.3.0.1.0.1.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.3.0.1.0.2"><a href="/quotes?ref=nav_comm_quotes" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.2.0.3.0.1.0.3"><a href="/ask_the_author?ref=nav_comm_askauthor" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.2.0.3.0.1.0.3.0">Ask the Author</a></li></ul></div></div></li></ul></nav><div accept-charset="UTF-8" class="searchBox searchBox--navbar" data-reactid=".yat8sap810.1.0.3"><form autocomplete="off" action="/search" class="searchBox__form" role="search" aria-label="Search for books to add to your shelves" data-reactid=".yat8sap810.1.0.3.0"><input class="searchBox__input searchBox__input--navbar" autocomplete="off" name="q" type="text" placeholder="Search books" aria-label="Search books" aria-controls="searchResults" data-reactid=".yat8sap810.1.0.3.0.0"/><input type="hidden" name="qid" value="" data-reactid=".yat8sap810.1.0.3.0.1"/><button type="submit" class="searchBox__icon--magnifyingGlass gr-iconButton searchBox__icon searchBox__icon--navbar" aria-label="Search" data-reactid=".yat8sap810.1.0.3.0.2"></button></form></div><ul class="siteHeader__personal" data-reactid=".yat8sap810.1.0.4"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".yat8sap810.1.0.4.0"><a href="/user/sign_in?returnurl=undefined" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".yat8sap810.1.0.4.0.0">Sign In</a></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".yat8sap810.1.0.4.1"><a href="/user/sign_up" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".yat8sap810.1.0.4.1.0">Join</a></li></ul><div class="siteHeader__topLevelItem siteHeader__topLevelItem--signUp" data-reactid=".yat8sap810.1.0.5"><a href="/user/sign_up" class="gr-button gr-button--dark" rel="nofollow" data-reactid=".yat8sap810.1.0.5.0">Sign up</a></div><div class="modal modal--overlay modal--drawer" tabindex="0" data-reactid=".yat8sap810.1.0.7"><div data-reactid=".yat8sap810.1.0.7.0"><div class="modal__close" data-reactid=".yat8sap810.1.0.7.0.0"><button type="button" class="gr-iconButton" data-reactid=".yat8sap810.1.0.7.0.0.0"><img alt="Dismiss" src="//s.gr-assets.com/assets/gr/icons/icon_close_white-dbf4152deeef5bd3915d5d12210bf05f.svg" data-reactid=".yat8sap810.1.0.7.0.0.0.0"/></button></div><div class="modal__content" data-reactid=".yat8sap810.1.0.7.0.1"><div class="personalNavDrawer" data-reactid=".yat8sap810.1.0.7.0.1.0"><div class="personalNavDrawer__personalNavContainer" data-reactid=".yat8sap810.1.0.7.0.1.0.0"><ul class="personalNav" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0"><li class="personalNav__listItem" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.0"><a class="headerPersonalNav" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.0.0"><span class="headerPersonalNav__icon
+                       headerPersonalNav__icon--notifications" aria-label="Notifications" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.0.0.0"></span></a></li><li class="personalNav__listItem" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.1"><a href="/topic?ref=nav_bar_discussions_pane_discussion&amp;discussion_filter=groups" title="My group discussions" class="headerPersonalNav" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.1.0"><span class="headerPersonalNav__icon headerPersonalNav__icon--discussions" aria-label="My group discussions" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.1.0.0"></span></a></li><li class="personalNav__listItem" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.2"><a title="Messages" class="headerPersonalNav" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.2.0"><span class="headerPersonalNav__icon headerPersonalNav__icon--inbox" aria-label="Inbox" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.2.0.0"></span></a></li><li class="personalNav__listItem" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.3"><a title="Friends" class="headerPersonalNav" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.3.0"><span class="headerPersonalNav__icon headerPersonalNav__icon--friendRequests" aria-label="Friend Requests" data-reactid=".yat8sap810.1.0.7.0.1.0.0.0.3.0.0"></span></a></li></ul></div><div class="personalNavDrawer__profileAndLinksContainer" data-reactid=".yat8sap810.1.0.7.0.1.0.1"><div class="personalNavDrawer__profileContainer gr-mediaFlexbox gr-mediaFlexbox--alignItemsCenter" data-reactid=".yat8sap810.1.0.7.0.1.0.1.0"><div class="gr-mediaFlexbox__media" data-reactid=".yat8sap810.1.0.7.0.1.0.1.0.0"><img class="circularIcon circularIcon--large circularIcon--border" data-reactid=".yat8sap810.1.0.7.0.1.0.1.0.0.0"/></div><div class="gr-mediaFlexbox__desc" data-reactid=".yat8sap810.1.0.7.0.1.0.1.0.1"><a class="gr-hyperlink gr-hyperlink--bold" data-reactid=".yat8sap810.1.0.7.0.1.0.1.0.1.0"></a><div class="u-displayBlock" data-reactid=".yat8sap810.1.0.7.0.1.0.1.0.1.1"><a class="gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.1.0.7.0.1.0.1.0.1.1.0">View profile</a></div></div></div><div class="personalNavDrawer__profileMenuContainer" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1"><ul data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0"><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.0"><span data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.0.0"><a class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.0.0.0">Profile</a></span></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.3"><a class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.3.0">Friends</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.4"><span data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.4.0"><a class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.4.0.0"><span data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.4.0.0.0">Groups</span></a></span></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.5"><a href="/topic?ref=nav_comm_discuss" class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.5.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.6"><a class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.6.0">Comments</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.7"><a class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.7.0">Reading Challenge</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.8"><a class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.8.0">Kindle Notes &amp; Highlights</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.9"><a class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.9.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.a"><a class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.a.0">Favorite genres</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.b"><span data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.b.0"><a class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.b.0.0"><span data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.b.0.0.0">Friends’ recommendations</span></a></span></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.c"><a class="siteHeader__subNavLink u-topGrayBorder" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.c.0">Account settings</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.d"><a class="siteHeader__subNavLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.d.0">Help</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.e"><a class="siteHeader__subNavLink" data-method="POST" data-reactid=".yat8sap810.1.0.7.0.1.0.1.1.0.e.0">Sign out</a></li></ul></div></div></div></div></div></div></div></div><div class="headroom-wrapper" data-reactid=".yat8sap810.2"><div style="position:relative;top:0;left:0;right:0;z-index:1;-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0);" class="headroom headroom--unfixed" data-reactid=".yat8sap810.2.0"><nav class="siteHeader__primaryNavSeparateLine gr-box gr-box--withShadow" data-reactid=".yat8sap810.2.0.0"><ul role="menu" class="siteHeader__menuList" data-reactid=".yat8sap810.2.0.0.0"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--home" data-reactid=".yat8sap810.2.0.0.0.0"><a href="/?ref=nav_home" class="siteHeader__topLevelLink" data-reactid=".yat8sap810.2.0.0.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".yat8sap810.2.0.0.0.1"><a href="/review/list?ref=nav_mybooks" class="siteHeader__topLevelLink" data-reactid=".yat8sap810.2.0.0.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".yat8sap810.2.0.0.0.2"><div class="primaryNavMenu primaryNavMenu--siteHeaderBrowseMenu ignore-react-onclickoutside" data-reactid=".yat8sap810.2.0.0.0.2.0"><a class="primaryNavMenu__trigger primaryNavMenu__trigger--siteHeaderBrowseMenu" href="/book?ref=nav_brws" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".yat8sap810.2.0.0.0.2.0.0"><span data-reactid=".yat8sap810.2.0.0.0.2.0.0.0">Browse ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge wide" role="menu" data-reactid=".yat8sap810.2.0.0.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.0"><a href="/recommendations?ref=nav_brws_recs" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.1"><a href="/choiceawards?ref=nav_brws_gca" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.1.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.2"><a href="/genres?ref=nav_brws_genres" class="siteHeader__subNavLink siteHeader__subNavLink--genresIndex" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.2.0">Genres</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.3"><a href="/giveaway?ref=nav_brws_giveaways" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.3.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.4"><a href="/book/popular_by_date/2021/7?ref=nav_brws_newrels" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.4.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.5"><a href="/list?ref=nav_brws_lists" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.5.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.6"><a href="/book?ref=nav_brws_explore" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.6.0">Explore</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.7"><a href="/news?ref=nav_brws_news" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.0.7.0">News &amp; Interviews</a></li></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0"><div class="siteHeader__heading siteHeader__title" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Art"><a href="/genres/art" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Biography"><a href="/genres/biography" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Business"><a href="/genres/business" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Christian"><a href="/genres/christian" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Classics"><a href="/genres/classics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Comics"><a href="/genres/comics" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Cookbooks.0">Cookbooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList0.0:$Fantasy.0">Fantasy</a></li></ul><ul class="genreList" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction"><a href="/genres/fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$History"><a href="/genres/history" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Horror"><a href="/genres/horror" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir"><a href="/genres/memoir" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Music"><a href="/genres/music" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery"><a href="/genres/mystery" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry"><a href="/genres/poetry" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList1.0:$Poetry.0">Poetry</a></li></ul><ul class="genreList" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology"><a href="/genres/psychology" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Romance"><a href="/genres/romance" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science"><a href="/genres/science" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help"><a href="/genres/self-help" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Sports"><a href="/genres/sports" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller"><a href="/genres/thriller" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Travel"><a href="/genres/travel" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.0:$Young Adult.0">Young Adult</a></li><li role="menuitem" class="genreList__genre" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.1"><a href="/genres" class="genreList__genreLink gr-hyperlink gr-hyperlink--naked" data-reactid=".yat8sap810.2.0.0.0.2.0.1.0.1.0.1:$genreList2.1.0">More Genres</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--community" data-reactid=".yat8sap810.2.0.0.0.3"><div class="primaryNavMenu ignore-react-onclickoutside" data-reactid=".yat8sap810.2.0.0.0.3.0"><a class="primaryNavMenu__trigger" href="/group?ref=nav_comm" role="button" aria-haspopup="true" aria-expanded="false" data-ux-click="true" data-reactid=".yat8sap810.2.0.0.0.3.0.0"><span data-reactid=".yat8sap810.2.0.0.0.3.0.0.0">Community ▾</span></a><div class="primaryNavMenu__menu gr-box gr-box--withShadowLarge" role="menu" data-reactid=".yat8sap810.2.0.0.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".yat8sap810.2.0.0.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.3.0.1.0.0"><a href="/group?ref=nav_comm_groups" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.3.0.1.0.1"><a href="/topic?ref=nav_comm_discuss" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.3.0.1.0.1.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.3.0.1.0.2"><a href="/quotes?ref=nav_comm_quotes" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".yat8sap810.2.0.0.0.3.0.1.0.3"><a href="/ask_the_author?ref=nav_comm_askauthor" class="siteHeader__subNavLink" data-reactid=".yat8sap810.2.0.0.0.3.0.1.0.3.0">Ask the Author</a></li></ul></div></div></li></ul></nav></div></div></header></div>
+</div>
+<div class='siteHeaderBottomSpacer'></div>
+
+  
+
+  <div class="mainContentContainer ">
+
+
+      
+
+    <div class="mainContent ">
+        <div id="premiumAdTop">
+
+          <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--pushdown&quot;}"></div>
+
+        </div>
+      
+      <div class="mainContentFloat ">
+
+        <div id="flashContainer">
+
+
+
+
+</div>
+
+        
+
+
+
+
+
+
+
+
+
+  <div class='ctaBannerShown'>
+<div class='ctaHeader'>
+Goodreads helps you keep track of books you want to read.
+</div>
+<div>
+Start by marking “Veritas The Pharmacological Endgame” as Want to Read:
+</div>
+<div class='ctaButton'>
+<div class='wtrButtonContainer wtrSignedOut' id='1_book_31683094'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="k3NKx7bJijgTDvVhXyRBfXqT+QJl45QR+f+QyiUOTIZ+92nhzRDk9MuQzqr5oKHV2lq9uvcu86hc/HvergB1pA==" />
+<input type="hidden" name="book_id" id="book_id" value="31683094" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="1_book_31683094" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1oX8u/SCJ4mMtdwOxK5qbkYCra6pB8SKo2D72gShheM7Ad+dj1tJRVQr58ViKorG5svpFjvKozMGYxDOj6+8wQ==" />
+<input type="hidden" name="unique_id" id="unique_id" value="1_book_31683094" />
+<input type="hidden" name="book_id" id="book_id" value="31683094" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" />
+</form>
+
+<button class='wtrShelfButton'></button>
+<div class='wtrShelfMenu'>
+<ul class='wtrExclusiveShelves'>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='to-read'>
+<span class='progressTrigger'>Want to Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='currently-reading'>
+<span class='progressTrigger'>Currently Reading</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='read'>
+<span class='progressTrigger'>Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" />
+</button>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+<div class='ctaBannerTriangle'></div>
+
+
+<div class="leftContainer" itemscope itemtype="http://schema.org/Book">
+<div id="topcol" class="last col stacked">
+
+
+<div id="imagecol" class="col">
+  <div class="bookCoverContainer">
+    <div class="bookCoverPrimary">
+          <a rel="nofollow" itemprop="image" href="/book/photo/31683094-veritas-the-pharmacological-endgame"><img id="coverImage" alt="Veritas The Pharmacological Endgame" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473939112l/31683094._SY475_.jpg" /></a>
+    </div>
+    <div class="bookCoverActions">
+      <div class="coverButtonContainer">
+        <div class="coverButton">
+          <a href="https://www.goodreads.com/work/editions/52355914-veritas-the-pharmacological-endgame">Other editions</a>
+        </div>
+      </div>
+        <div class="coverButtonContainer">
+          <div class="coverButton enlargeCover" id="edition_31683094_enlarge">
+            Enlarge cover
+          </div>
+          <div class="editionCover" id="edition_31683094_enlarge_cover" style= "display: none;">
+            <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473939112l/31683094._SY475_.jpg" alt="31683094. sy475 " />
+          </div>
+        </div>
+    </div>
+  </div>
+
+      <div class='wtrButtonContainer wtrSignedOut' id='2_book_31683094'>
+<div class='wtrUp wtrLeft'>
+<form action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+7hMXpAc3g+lyt7XvMkqGaaZhHtoroYg0F9vngyFqsQWPG9468Www31U5RwaTcqxBlDAw/pj4Zl1XISKh4uT5g==" />
+<input type="hidden" name="book_id" id="book_id" value="31683094" />
+<input type="hidden" name="name" id="name" value="to-read" />
+<input type="hidden" name="unique_id" id="unique_id" value="2_book_31683094" />
+<input type="hidden" name="wtr_new" id="wtr_new" value="true" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="ref" id="ref" value="bm_bsh_wtrwtr" class="wtrLeftUpRef" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="page_url" id="page_url" value="/book/show/31683094-veritas-the-pharmacological-endgame" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrRight wtrUp'>
+<form class="hiddenShelfForm" action="/shelf/add_to_shelf" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VEju3fhAypnlpTv8pK1IFxTl6SNZp+0BGL78/R448TW5zM37g5mkVT07ADcCKai/tCytm8tqiri9vRfplTbIFw==" />
+<input type="hidden" name="unique_id" id="unique_id" value="2_book_31683094" />
+<input type="hidden" name="book_id" id="book_id" value="31683094" />
+<input type="hidden" name="a" id="a" />
+<input type="hidden" name="name" id="name" />
+<input type="hidden" name="from_choice" id="from_choice" value="false" />
+<input type="hidden" name="ref" id="ref" value="bm_bsh_wtres" class="wtrRefRightShelfMenu" />
+<input type="hidden" name="existing_review" id="existing_review" value="false" class="wtrExisting" />
+<input type="hidden" name="from_home_module" id="from_home_module" value="false" />
+<input type="hidden" name="page_url" id="page_url" value="/book/show/31683094-veritas-the-pharmacological-endgame" />
+</form>
+
+<button class='wtrShelfButton'></button>
+</div>
+
+<div class='ratingStars wtrRating'>
+<div class='starsErrorTooltip hidden'>
+Error rating book. Refresh and try again.
+</div>
+<div class='myRating uitext greyText'>Rate this book</div>
+<div class='clearRating uitext'>Clear rating</div>
+<div class="stars" data-resource-id="31683094" data-user-id="0" data-submit-url="/review/rate/31683094?page_url=%2Fbook%2Fshow%2F31683094-veritas-the-pharmacological-endgame&stars_click=true&wtr_button_id=2_book_31683094" data-rating="0"><a class="star off" title="did not like it" href="#" ref="bm_rtg_st1_bsh">1 of 5 stars</a><a class="star off" title="it was ok" href="#" ref="bm_rtg_st2_bsh">2 of 5 stars</a><a class="star off" title="liked it" href="#" ref="bm_rtg_st3_bsh">3 of 5 stars</a><a class="star off" title="really liked it" href="#" ref="bm_rtg_st4_bsh">4 of 5 stars</a><a class="star off" title="it was amazing" href="#" ref="bm_rtg_st5_bsh">5 of 5 stars</a></div>
+</div>
+
+</div>
+
+
+
+  <div class=asyncPreviewButtonContainer data-book-id=31683094 >
+    
+
+<a class="gr-button kcrPreviewButton buyableFeature asyncPreviewButton" id="js-kcrPreviewButton" data-book-id="31683094" href="#">Open Preview</a>
+
+<div id="wrongBookKindlePreviewScreenBook31683094" class="wrongBookKindlePreviewScreen" style="display: none;">
+  <div class="wrongBookBody">
+    <h2>See a Problem?</h2>
+    <div class="wrongBookText">
+      <div class="description">
+        We’d love your help.
+        Let us know what’s wrong with this preview of
+          <cite>Veritas The Pharmacological Endgame</cite> by Alessandro Boccaletti.
+      </div>
+      <form class="new_kindle_book_mapping_flag" id="new_kindle_book_mapping_flag" action="/kindle_book_mapping_flags" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+        <div class="reasons">
+          <label for="kindle_book_mapping_flag_reason">Problem:</label>
+          <select name="kindle_book_mapping_flag[reason]" id="kindle_book_mapping_flag_reason"><option value="wrongBook">It’s the wrong book</option>
+<option value="wrongEdition">It’s the wrong edition</option>
+<option value="other">Other</option></select>
+          <br/>
+        </div>
+        <div class="otherReason">
+          <label for="kindle_book_mapping_flag_other_reason">Details (if other):</label>
+          <input type="text" name="kindle_book_mapping_flag[other_reason]" id="kindle_book_mapping_flag_other_reason" />
+        </div>
+        <input value="31683094" type="hidden" name="kindle_book_mapping_flag[book_id]" id="kindle_book_mapping_flag_book_id" />
+        <input type="submit" name="commit" value="Report Problem" class="gr-button" />
+        &nbsp;
+        <button type="button"
+                id="js-wrongBookKindlePreviewScreenCancelLink"
+                class="gr-buttonAsLink gr-buttonAsLink--quiet">
+        Cancel
+        </button>
+</form>    </div>
+  </div>
+</div>
+<div id="js-wrongBookKindlePreviewScreenConfirmation"
+     class="wrongBookKindlePreviewScreenConfirmation"
+     style="display:none;">
+  <p>Thanks for telling us about the problem.</p>
+  <button type="button" class="gr-button" id="js-wrongBookKindlePreviewScreenConfirmationDismiss">
+    Return to Book Page
+  </button>
+</div>
+<div id="kindleCloudReaderBook31683094" class="kindleCloudReader" style="display: none;">
+  <div class="topBanner">
+    <a id="wrongBookLink" class="js-wrongBookKindlePreview" data-book-id="31683094" href="#">Not the book you’re looking for?</a>
+    <h2 class="kindlePreviewHeader">
+      Preview — <cite>Veritas The Pharmacological Endgame</cite>
+        by Alessandro Boccaletti
+    </h2>
+  </div>
+  <iframe id="kindleCloudReader">
+    <iframe id="wrongBookKindlePreviewScreen"></iframe>
+  </iframe>
+</div>
+
+</div>
+
+
+
+</div>
+
+<div id="metacol" class="last col">
+<h1 id="bookTitle" class="gr-h1 gr-h1--serif" itemprop="name">
+      Veritas The Pharmacological Endgame
+</h1>
+<h2 id="bookSeries">
+</h2>
+
+<div id="bookAuthors" class="">
+  <span class='by'>by</span>
+<span itemprop='author' itemscope='' itemtype='http://schema.org/Person'>
+<div class='authorName__container'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/15208734.Alessandro_Boccaletti"><span itemprop="name">Alessandro Boccaletti</span></a> <span class="greyText">(Goodreads Author)</span>, 
+</div>
+<div class='authorName__container'>
+<a class="authorName" itemprop="url" href="https://www.goodreads.com/author/show/19802033.Amerigo_Consta"><span itemprop="name">Amerigo Consta</span></a> <span class="greyText">(Goodreads Author)</span>
+</div>
+</span>
+
+</div>
+
+<div id="bookMeta"
+     class="uitext stacked"
+     style="position: relative"
+     itemprop="aggregateRating"
+     itemscope
+     itemtype="https://schema.org/AggregateRating">
+      <!--
+Partial expects the following locals:
+  - review_stats
+  - shelving_stats
+  - display_user_id
+-->
+
+<span class="stars staticStars notranslate"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span></span>
+<span itemprop="ratingValue">
+  4.60
+</span>
+<span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a id="rating_details" class="actionLinkLite" style="cursor: pointer; " href="#" onclick="return false">Rating details</a><script>
+//<![CDATA[
+      var newTip = new Tip($('rating_details'), "\n    <div id=\"moreBookData\" class=\"bookMeta\" >\n  \n\n  \n\n<table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\">\n      <tr>\n        <th width=\"25\" class=\"right\">5&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 100%;\" title=\"33 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          73% (33)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">4&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 27%;\" title=\"9 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          20% (9)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">3&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 3%;\" title=\"1 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          2% (1)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">2&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 3%;\" title=\"1 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          2% (1)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">1&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <div style=\"display: block; background-color: #215625; width: 3%;\" title=\"1 ratings\" data-remote=\"true\">&nbsp;<\/div>\n        <\/td>\n        <td width=\"90\">\n          2% (1)\n        <\/td>\n      <\/tr>\n\n<\/table>\n\n\n    <span class=\"value\">96<\/span>% of people liked it\n\n  <table>\n    <tr>\n      <td><strong>All editions:<\/strong><\/td>\n      <td>\n        <span class=\"value\">4.6<\/span> average rating,\n        <span class=\"value\">45<\/span> ratings,\n        <span class=\"value\">4<\/span> reviews,\n        added by <span class=\"value\">814<\/span> people,\n        <span class=\"value\">734<\/span> to-reads\n      <\/td>\n    <\/tr>\n\n      <tr>\n        <td><strong>This edition:<\/strong><\/td>\n        <td>\n          <span class=\"value\">4.55<\/span> average rating,\n          <span class=\"value\">38<\/span> ratings,\n          <span class=\"value\">2<\/span> reviews,\n          added by <span class=\"value\">776<\/span> people\n        <\/td>\n      <\/tr>\n  <\/table>\n<\/div>\n\n", { style: 'goodreads', stem: 'topMiddle', hook: { tip: 'topMiddle', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: 'click', showOn: 'click', closeButton: true, title: 'Rating details' });
+      $('rating_details').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script><span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a class="gr-hyperlink" href="#other_reviews">
+  <meta itemprop="ratingCount" content="45" />
+  45
+  ratings
+</a><span class="greyText">&nbsp;&middot;&nbsp;</span>
+<a class="gr-hyperlink" href="#other_reviews">
+    <meta itemprop="reviewCount" content="4" />
+    4
+    reviews
+</a>
+</div>
+
+<div id="descriptionContainer">
+  
+      <div id="description" class="readable stacked" style="right:0">
+        
+<span id="freeTextContainer9695390064462066112">ZEUS is an international organization dedicated to the eradication of certain scientific advancements to keep its members part of the global elite. The group targets any researchers or whistleblowers that may topple its position at the top of the pharmaceutical industry. The members’ influence extends all the way to the top of the major world governments. <br/><br/>One man holds the</span>
+  <span id="freeText9695390064462066112" style="display:none">ZEUS is an international organization dedicated to the eradication of certain scientific advancements to keep its members part of the global elite. The group targets any researchers or whistleblowers that may topple its position at the top of the pharmaceutical industry. The members’ influence extends all the way to the top of the major world governments. <br /><br />One man holds the key to stopping them. <br /><br />Dr. Alex Bauman joined the Molecular Fat Studies Department at Queens University in Brisbane because he wanted to help the obese. Driven by unhappiness with his own weight, Bauman stumbles upon the knowledge to create a cure for obesity. This secret is dangerous to ZEUS. They don’t want anything to affect the trillions of dollars they make on bogus obesity treatments. <br /><br />Presidential hopeful and California senator Marc Thwane is one of ZEUS’s members. He can’t let anything get in the way of his dark plans for the United States. When Thwane sends a black-ops team after Bauman, the two men’s destinies collide in this global adventure. Russian cosmonauts, Saudi royals, and more will help and hinder Bauman’s search for the key to taking down ZEUS once and for all.</span>
+  <a data-text-id="9695390064462066112" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+      </div>
+</div>
+
+    <div id=buyButtonContainer class="uitext buttons buyableFeature u-marginTopXSmall u-paddingBottomXSmall u-bottomGrayBorder" data-book-id=31683094 >
+
+    <div class="u-positionRelative">
+      <h2 class='buyButtonContainer__title u-inlineBlock'%>Get A Copy</h2>
+    </div>
+
+    <ul class="buyButtonBar left"><li><a class="buttonBar" target="_blank" rel="no_follow noopener noreferrer" id="buyButton" href="/buy_buttons/12/follow?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;ref=x_gr_w_bb_sout&amp;sub_page_type=show&amp;tag=x_gr_w_bb_sout-20">Amazon</a></li><li><div id="buyDropButtonStores" class=" dropButton" onmouseover="$(this).down(&#39;.floatingBox&#39;).show()" onmouseout="$(this).down(&#39;.floatingBox&#39;).hide()"><a class="buttonBar" url="/book/31683094/get_a_copy" href="/book/31683094/get_a_copy">Online Stores&nbsp;&#9662;</a><div class="floatingBox buyBox" style="display:none"><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/10?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;ref=x_gr_w_bb_audible&amp;source=dropdown&amp;sub_page_type=show">Audible</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/3?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;source=dropdown&amp;sub_page_type=show">Barnes &amp; Noble</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/1027?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;source=dropdown&amp;sub_page_type=show">Walmart eBooks</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/2102?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;source=dropdown&amp;sub_page_type=show">Apple Books</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/8036?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;source=dropdown&amp;sub_page_type=show">Google Play</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/4?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;source=dropdown&amp;sub_page_type=show">Abebooks</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/882?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;source=dropdown&amp;sub_page_type=show">Book Depository</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/5?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;source=dropdown&amp;sub_page_type=show">Alibris</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/9?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;source=dropdown&amp;sub_page_type=show">Indigo</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/107?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;source=dropdown&amp;sub_page_type=show">Better World Books</a><br/><a target="_blank" rel="nofollow noopener noreferrer" class="actionLinkLite" href="/book_link/follow/7?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;source=dropdown&amp;sub_page_type=show">IndieBound</a></div></div></li><li><a target="_blank" rel="nofollow noopener noreferrer" class="buttonBar" href="/book_link/follow/8?book_id=31683094&amp;page_type=book&amp;page_type_id=31683094&amp;sub_page_type=show">Libraries</a></li></ul>
+    <div class="clear"></div>
+  </div>
+
+
+<div id="details" class="uitext darkGreyText">
+      <div class="row"><span itemprop="bookFormat">Paperback</span>, <span itemprop="bookEdition">1</span>, <span itemprop="numberOfPages">478 pages</span></div>
+
+      <div class="row">
+            Published
+        September 4th 2016
+         by CreateSpace Independent Publishing Platform
+
+      </div>
+
+  <div class="buttons">
+    <a id="bookDataBoxShow" class="left inter actionLinkLite" style="" href="#" onclick="$j(&#39;#bookDataBoxShow&#39;).hide(); $j(&#39;#bookDataBoxHide&#39;).show(); $j(&#39;#bookDataBox&#39;).show();
+                         ; return false;">More Details...</a>
+
+        <div id="bookDataBox" class="uitext" style="display: none; margin: 10px 0">
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">ISBN</div>
+                <div class="infoBoxRowItem">
+                  1532867948
+                      <span class="greyText">(ISBN13: <span itemprop='isbn'>9781532867941</span>)</span>
+                </div>
+              </div>
+
+              <div class="clearFloats">
+                <div class="infoBoxRowTitle">Edition Language</div>
+                <div class="infoBoxRowItem" itemprop='inLanguage'>English</div>
+              </div>
+
+
+
+
+
+          <div class="clear"></div>
+
+          <div class='infoBoxRowTitle otherEditions'>
+<div class='otherEditionsLink'>
+<a href="/work/editions/52355914-veritas-the-pharmacological-endgame">Other Editions (1)</a>
+</div>
+</div>
+<div class='infoBoxRowItem'>
+<div class='otherEditionsRow'>
+<div class='otherEditionCovers'>
+<ul>
+<li>
+<div class='otherEdition' id='edition_32053495'>
+<a href="https://www.goodreads.com/book/show/32053495-veritas-the-pharmacological-endgame"><img alt="Veritas The Pharmacological Endgame" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473939190i/32053495._UY200_.jpg" />
+</a><script>
+//<![CDATA[
+      var newTip = new Tip($('edition_32053495'), "<div class=\'editionTitle\'>\nVeritas The Pharmacological Endgame (Kindle Edition) \n<\/div>\n<div class=\'editionInfo\'>\n<\/div>\n<div class=\'editionInfo\'>\n<\/div>\n<div class=\'editionInfo\'>\nasin: B01LXIKSQ6\n<\/div>\n<div class=\'editionInfo\'>\nformat: Kindle Edition\n<\/div>\n<div class=\'editionInfo\'>\nPublished\nSeptember 13th 2016\nby Alessandro Boccaletti\n<\/div>\n<div class=\'enlargeCover\' id=\'edition_32053495_enlarge\'>\n<a>\nEnlarge cover\n<\/a>\n<\/div>\n<div class=\'editionCover\' id=\'edition_32053495_enlarge_cover\' style=\'display: none;\'>\n<img src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473939190l/32053495._SY475_.jpg\" alt=\"32053495. sy475 \" />\n<\/div>\n<div class=\'editionAction\'>\n<div class=\'wtrButtonContainer wtrSignedOut\' id=\'3_book_32053495\'>\n<div class=\'wtrUp wtrLeft\'>\n<form action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input type=\"hidden\" name=\"authenticity_token\" value=\"rBUrn92Ohm3dtPktMXnfLhS3jL6EU7DDzXSUONi33J5BkQi5plfooQUqwuaX/T+GtH7IBhae13pod38sU7nlvA==\" />\n<input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"32053495\" />\n<input type=\"hidden\" name=\"name\" id=\"name\" value=\"to-read\" />\n<input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_32053495\" />\n<input type=\"hidden\" name=\"wtr_new\" id=\"wtr_new\" value=\"true\" />\n<input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" />\n<input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" />\n<input type=\"hidden\" name=\"ref\" id=\"ref\" value=\"\" class=\"wtrLeftUpRef\" />\n<input type=\"hidden\" name=\"existing_review\" id=\"existing_review\" value=\"false\" class=\"wtrExisting\" />\n<input type=\"hidden\" name=\"page_url\" id=\"page_url\" />\n<button class=\'wtrToRead\' type=\'submit\'>\n<span class=\'progressTrigger\'>Want to Read<\/span>\n<span class=\'progressIndicator\'>saving…<\/span>\n<\/button>\n<\/form>\n\n<\/div>\n\n<div class=\'wtrRight wtrUp\'>\n<form class=\"hiddenShelfForm\" action=\"/shelf/add_to_shelf\" accept-charset=\"UTF-8\" method=\"post\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input type=\"hidden\" name=\"authenticity_token\" value=\"BoUUFsdu+wem5CIn4RHruwhj4Z6O+Npvbefp1qzbFGDrATcwvLeVy356GexHlQsTqKqlJhw1vdbI5ALCJ9UtQg==\" />\n<input type=\"hidden\" name=\"unique_id\" id=\"unique_id\" value=\"3_book_32053495\" />\n<input type=\"hidden\" name=\"book_id\" id=\"book_id\" value=\"32053495\" />\n<input type=\"hidden\" name=\"a\" id=\"a\" />\n<input type=\"hidden\" name=\"name\" id=\"name\" />\n<input type=\"hidden\" name=\"from_choice\" id=\"from_choice\" value=\"false\" />\n<input type=\"hidden\" name=\"from_home_module\" id=\"from_home_module\" value=\"false\" />\n<input type=\"hidden\" name=\"page_url\" id=\"page_url\" />\n<\/form>\n\n<button class=\'wtrShelfButton\'><\/button>\n<\/div>\n\n<div class=\'ratingStars wtrRating\'>\n<div class=\'starsErrorTooltip hidden\'>\nError rating book. Refresh and try again.\n<\/div>\n<div class=\'myRating uitext greyText\'>Rate this book<\/div>\n<div class=\'clearRating uitext\'>Clear rating<\/div>\n<div class=\"stars\" data-resource-id=\"32053495\" data-user-id=\"0\" data-submit-url=\"/review/rate/32053495?stars_click=true&wtr_button_id=3_book_32053495\" data-rating=\"0\"><a class=\"star off\" title=\"did not like it\" href=\"#\" ref=\"\">1 of 5 stars<\/a><a class=\"star off\" title=\"it was ok\" href=\"#\" ref=\"\">2 of 5 stars<\/a><a class=\"star off\" title=\"liked it\" href=\"#\" ref=\"\">3 of 5 stars<\/a><a class=\"star off\" title=\"really liked it\" href=\"#\" ref=\"\">4 of 5 stars<\/a><a class=\"star off\" title=\"it was amazing\" href=\"#\" ref=\"\">5 of 5 stars<\/a><\/div>\n<\/div>\n\n<\/div>\n\n\n<\/div>\n\n", { style: 'addbook', stem: 'bottomMiddle', hook: { tip: 'bottomMiddle', target: 'topMiddle' }, offset: { y: -3, x: 0 }, hideOn: false, width: 325, hideAfter: 0.05 });
+      $('edition_32053495').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+
+      newTip['wrapper'].addClassName('prototipAllowOverflow');
+
+        $('edition_32053495').observe('prototip:shown', function () {
+          $$('div.prototip').each(function (e) {
+            if ($('edition_32053495').hasClassName('ignored')) {
+              e.setStyle({'display': 'none'});
+              return;
+            }
+            e.setStyle({'overflow': 'visible'});
+          });
+        });
+      $('edition_32053495').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script></div>
+</li>
+</ul>
+</div>
+</div>
+<div class='otherEditionsActions'>
+<a class="actionLinkLite" href="/work/editions/52355914-veritas-the-pharmacological-endgame">All Editions</a>
+<span class='greyText'>
+ | 
+</span>
+<a rel="nofollow" href="/book/new?author%5Bname%5D=Alessandro+Boccaletti&amp;book%5Btitle%5D=Veritas+The+Pharmacological+Endgame&amp;work%5Bid%5D=52355914">Add a New Edition</a>
+
+<span class='secondaryCopy'>
+ | 
+</span>
+<a rel="nofollow" class="actionLinkLite" href="/book/combine/15208734">Combine</a>
+</div>
+</div>
+
+
+        </div>
+
+        <a id="bookDataBoxHide" class="left inter actionLinkLite" style="display: none;" href="#" onclick="$j(&#39;#bookDataBoxShow&#39;).show(); $j(&#39;#bookDataBoxHide&#39;).hide(); $j(&#39;#bookDataBox&#39;).hide();
+                              ; return false;">...Less Detail</a>
+
+         <a class="inter uitext greyText right" rel="nofollow" href="/book/edit/31683094-veritas-the-pharmacological-endgame">Edit Details</a>
+
+    <div class="clear"></div>
+  </div>
+</div>
+
+
+</div>
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+
+  <div id='lazy_loadable_view'>
+    
+
+<a name='friends_reviews'></a>
+<div id="friendReviews" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Friend Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><span class='mediumText'>
+To see what your friends thought of this book,
+<a class="actionLink" rel="nofollow" href="/user/new">please sign up.</a>
+</span>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+<div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Reader Q&amp;A</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class='communityQASignedOutMessage mediumText'>
+To ask other readers questions about
+<a class="bookLink" href="/book/show/31683094-veritas-the-pharmacological-endgame">Veritas The Pharmacological Endgame</a>,
+<a class="actionLink" rel="nofollow" href="/user/new">please sign up</a>.
+</div>
+
+<div class='elementListBrownSeparator'></div>
+<div class='communityQuestionSubTitle'>
+Recent Questions
+</div>
+<div id='communityQuestionsWithAnswers'>
+<div class='communityQuestionAndAnswer'>
+<div class='communityQuestion'>
+<div class='questionText'>
+<div class='spoiler'>
+<a class="spoiler" href="/questions/903826-the-book-has-a-promotion-running-and-price">This question contains spoilers...</a>
+<span class='spoilerAnswerText'>
+<a class="jsShowSpoiler spoilerAction">(view spoiler)</a><span class="spoilerContainer" style="display: none">[The book has a promotion running and price has dropped to $20.50. Any comment? <a class="jsHideSpoiler spoilerAction">(hide spoiler)</a>]</span>
+</span>
+</div>
+</div>
+<div class='communityQAFooter questionFooter'>
+<ul class='questionFooterActions'>
+<li class='footerItem like'>
+<span class='likeItContainer' id='like_container_community_question_903826'><a rel="nofollow" class="jsLike like_it" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F31683094-veritas-the-pharmacological-endgame">like</a></span>
+
+</li>
+<li class='footerItem communityQuestionTimestamp'>
+<a href="/questions/903826-the-book-has-a-promotion-running-and-price">4 years ago</a>
+</li>
+<li class='footerItem communityQuestionPermalink'>
+<a href="/questions/903826-the-book-has-a-promotion-running-and-price">Add your answer</a>
+</li>
+</ul>
+</div>
+
+</div>
+<div class='allCommunityAnswers'>
+</div>
+
+</div>
+
+</div>
+<div class='moreReaderQA'>
+<a href="/book/31683094-veritas-the-pharmacological-endgame/questions">See  1 question about Veritas The Pharmacological Endgame…</a>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/list/book/31683094">Lists with This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">  <div class="listRowsFull">
+    <div class="row" id="topRow">
+          <div class="cell">
+            
+<div class="listImgs">
+  <a href="/list/show/164293.Thrillers_Must_Reads_"><img alt="Operation Hail Storm by Brett Arquette" title="Operation Hail Storm by Brett Arquette" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479626927l/32978021._SX98_.jpg" /></a><a href="/list/show/164293.Thrillers_Must_Reads_"><img alt="The Glass Castle by Jeannette Walls" title="The Glass Castle by Jeannette Walls" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523542886l/7445._SX98_.jpg" /></a><a href="/list/show/164293.Thrillers_Must_Reads_"><img alt="War and Peace by Leo Tolstoy" title="War and Peace by Leo Tolstoy" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413215930l/656._SX98_.jpg" /></a><a href="/list/show/164293.Thrillers_Must_Reads_"><img alt="Robinson Crusoe by Daniel Defoe" title="Robinson Crusoe by Daniel Defoe" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403180114l/2932._SX98_.jpg" /></a><a href="/list/show/164293.Thrillers_Must_Reads_"><img alt="On the Road by Jack Kerouac" title="On the Road by Jack Kerouac" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413588576l/70401._SX98_.jpg" /></a>
+</div>
+<a class="listTitle" href="/list/show/164293.Thrillers_Must_Reads_">Thrillers Must-Reads.</a><br />
+<div class="listFullDetails">
+    3,427 books
+    &mdash;
+    2,939 voters
+
+
+
+</div>
+
+          </div>
+          <div class="cell">
+            
+<div class="listImgs">
+  <a href="/list/show/103.Best_Medical_Thrillers"><img alt="Postmortem by Patricia Daniels Cornwell" title="Postmortem by Patricia Daniels Cornwell" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341835831l/6534._SX98_.jpg" /></a><a href="/list/show/103.Best_Medical_Thrillers"><img alt="Coma by Robin Cook" title="Coma by Robin Cook" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309286934l/85437._SY160_.jpg" /></a><a href="/list/show/103.Best_Medical_Thrillers"><img alt="Outbreak by Robin Cook" title="Outbreak by Robin Cook" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344166275l/259538._SX98_.jpg" /></a><a href="/list/show/103.Best_Medical_Thrillers"><img alt="Chromosome 6 by Robin Cook" title="Chromosome 6 by Robin Cook" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1290140777l/66470._SY160_.jpg" /></a><a href="/list/show/103.Best_Medical_Thrillers"><img alt="The Hot Zone by Richard   Preston" title="The Hot Zone by Richard   Preston" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413747743l/16213._SX98_.jpg" /></a>
+</div>
+<a class="listTitle" href="/list/show/103.Best_Medical_Thrillers">Best Medical Thrillers</a><br />
+<div class="listFullDetails">
+    140 books
+    &mdash;
+    372 voters
+
+
+
+</div>
+
+          </div>
+    </div>
+  </div>
+<br class="clear" />
+
+<br class='clear'>
+<a class="actionLink" style="float:right" href="/list/book/31683094">More lists with this book...</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div id="other_reviews" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground">Community Reviews</h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div id='reviews'>
+
+<div class="bookReviewsPaginationCount">
+    <span class="smallText">
+Showing 1-30
+</span>
+
+</div>
+
+
+<div id="reviewControls"
+     class="reviewControls u-defaultType clearFix">
+  <div class="reviewControls--left">
+    <span class="stars staticStars notranslate"><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p10"></span><span size="12x12" class="staticStar p6"></span></span>
+    <span class="u-visuallyHidden">Average rating</span>
+    4.60
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+  </div>
+  <div class="reviewControls__ratingDetails reviewControls--left rating_graph">
+    <span id="reviewControls__ratingDetailsMiniGraph">
+    <script type="text/javascript">
+    //<![CDATA[
+      $j(document).ready(function() {
+        var vis = renderRatingGraph(
+            [33, 9, 1, 1, 1],
+            "reviewControls__ratingDetailsMiniGraph");
+        $j("#reviewControls__ratingDetailsMiniGraph").prependTo("#rating_details_tip");
+      });
+    //]]>
+    </script>
+    </span>
+    <a id="rating_details_tip" class="gr-hyperlink" style="cursor: pointer; " href="#" onclick="return false"> Rating details</a><script>
+//<![CDATA[
+      var newTip = new Tip($('rating_details_tip'), "\n        <div id=\"moreBookData\" class=\"bookMeta\" >\n  \n\n  \n\n<table border=\"0\" id=\"rating_distribution\" style=\"width: auto; max-width: 500px;\" cellspacing=\"5\" cellpadding=\"0\">\n      <tr>\n        <th width=\"25\" class=\"right\">5&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 100%;\" title=\"33 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=5\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'hHFNcQJNI05ohM5gmNtYBwzvdCyPZQIWLluxlKavfLFp9W5XeZRNgrAa9as+X7ivrCYwlB2oZa+LWFqALaFFkw==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          73% (33)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">4&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 27%;\" title=\"9 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=4\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'P+zRJGZUF+J6ydjBkCJqh4y/8PGIwyujJBiL3iXtp/rSaPICHY15LqJX4wo2poovLHa0SRoOTBqBG2DKruOe2A==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          20% (9)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">3&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 3%;\" title=\"1 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=3\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'jvauRVVOrclDDI7ZAPlVWFfxyyGBFdOC9T+1bZFSzUtjco1jLpfDBZuStRKmfbXw9ziPmRPYtDtQPF55Glz0aQ==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          2% (1)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">2&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 3%;\" title=\"1 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=2\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'00ouYIVz8BjS8GWQ+Ax53QYzcJ/lsEYthgwvQnMRF/k+zg1G/qqe1ApuXlteiJl1pvo0J3d9IZQjD8RW+B8u2w==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          2% (1)\n        <\/td>\n      <\/tr>\n      <tr>\n        <th width=\"25\" class=\"right\">1&nbsp;<a size=\"12x12\" class=\"staticStar p10\" style=\"float: right;\"><\/a><\/th>\n        <td width=\"350\">\n          <a style=\"display: block; background-color: #215625; width: 3%;\" title=\"1 ratings\" href=\"#\" onclick=\"new Ajax.Request(\'/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=1\', {asynchronous:true, evalScripts:true, method:\'get\', parameters:\'authenticity_token=\' + encodeURIComponent(\'dTQU/qFHXksblORkUlRdbrcp/1npIP8Sozx8ceZ5m/2YsDfY2p4wh8MK36/00L3GF+C74XvtmKsGP5dlbXei3w==\')})\" data-remote=\"true\">&nbsp;<\/a>\n        <\/td>\n        <td width=\"90\">\n          2% (1)\n        <\/td>\n      <\/tr>\n\n<\/table>\n\n\n    <span class=\"value\">96<\/span>% of people liked it\n\n  <table>\n    <tr>\n      <td><strong>All editions:<\/strong><\/td>\n      <td>\n        <span class=\"value\">4.6<\/span> average rating,\n        <span class=\"value\">45<\/span> ratings,\n        <span class=\"value\">4<\/span> reviews,\n        added by <span class=\"value\">814<\/span> people,\n        <span class=\"value\">734<\/span> to-reads\n      <\/td>\n    <\/tr>\n\n      <tr>\n        <td><strong>This edition:<\/strong><\/td>\n        <td>\n          <span class=\"value\">4.55<\/span> average rating,\n          <span class=\"value\">38<\/span> ratings,\n          <span class=\"value\">2<\/span> reviews,\n          added by <span class=\"value\">776<\/span> people\n        <\/td>\n      <\/tr>\n  <\/table>\n<\/div>\n\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true, title: 'book data' });
+      $('rating_details_tip').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('rating_details_tip').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>  </div>
+
+  <div class="reviewControls--left greyText">
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+    45
+    ratings
+    <span class="greyText">&nbsp;&middot;&nbsp;</span>
+    4
+    reviews
+  </div>
+
+  <br></br>
+  <div class="reviewControls__searchBox reviewControls--right">
+    <form class="reviewTextSearch" action="/book/reviews/31683094" accept-charset="UTF-8" data-remote="true" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<div class='searchBox'>
+<input type="text" name="search_text" id="search_text" aria-label="Search review text" placeholder="Search review text" class="searchBox__input searchBox__input--reviewSearch reviewControls__searchBox__input" />
+<button name="button" type="submit" class="searchBox__icon searchBox__icon--magnifyingGlass searchBox__icon--reviewSearch gr-iconButton              reviewControls__searchBox__icon                          reviewControls__searchBox__icon--magnifyingGlass"></button>
+<img alt="Loading" class="searchBox__icon searchBox__icon--loadingSpinner reviewControls__searchBox__icon                         reviewControls__searchBox__icon--loadingSpinner" src="https://s.gr-assets.com/assets/loading-45f04d682f1e9151cf1e6fb18a1bde21.gif" />
+</div>
+</form>
+
+
+  </div>
+
+    <div class="reviewControls--left">
+      <form class="reviewLanguageFilter" action="/book/reviews/31683094" accept-charset="UTF-8" data-remote="true" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+        <select name="language_code" id="language_code"><option value="">All Languages</option><option value="en">English &lrm;(3)</option></select>
+</form>    </div>
+
+    <div class="reviewControls--left">
+
+      <a class="uitext" rel="nofollow" id="span_class_gr-hyperlink_more_filters_span_tip_891" style="cursor: pointer; " href="#" onclick="return false"><span class="gr-hyperlink">More filters</span></a><script>
+//<![CDATA[
+      var newTip = new Tip($('span_class_gr-hyperlink_more_filters_span_tip_891'), "\n          <div class=\"greyText smallText\" style=\"white-space:nowrap\">\n\n            <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=\">all <span class=\"greyText\">(814)<\/span><\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=5&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;9eLmPU24gSy3ukmDChytVlybM0ZXDvrdsKdcmcGG9pAYZsUbNmHv4G8kckismE3+/FJ3/sXDnWQVpLeNSojPsg==&#39;)}); return false;\">5 stars <span class=\"greyText\">(33)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=4&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;/1FYWz6yvQQzWe2nDxaXkmFnhFq6dK05gV7JlbnENpwS1Xt9RWvTyOvH1mypknc6wa7A4ii5yoAkXSKBMsoPvg==&#39;)}); return false;\">4 stars <span class=\"greyText\">(9)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=3&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;IKvYwsxJlqewGxCCYTj8aJNosJrP1z9VlXA7dO+OXv3NL/vkt5D4a2iFK0nHvBzAM6H0Il0aWOwwc9BgZIBn3w==&#39;)}); return false;\">3 stars <span class=\"greyText\">(1)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=2&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;B2SVN6jEl33rZhH3jv6IMQTzyquoNUlYVBUpLcfgzK7q4LYR0x35sTP4KjwoemiZpDqOEzr4LuHxFsI5TO71jA==&#39;)}); return false;\">2 stars <span class=\"greyText\">(1)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n                <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n                <span class=\"loadingLinkSpan\">\n                  <a class=\"actionLinkLite loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"#\" onclick=\"new Ajax.Request(&#39;/book/reviews/31683094-veritas-the-pharmacological-endgame?rating=1&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;oOWwSrRMyIvo8Ly0C8gchke17evZ2nQlxPoU++Td+sFNYZNsz5WmRzBuh3+tTPwu53ypU0sXE5xh+f/vb9PD4w==&#39;)}); return false;\">1 star <span class=\"greyText\">(1)<\/span><\/a>\n                  <span class=\"loadingAnimation\"><\/span>\n                  <span class=\"loadingError\"><\/span>\n                <\/span>\n          <\/div>\n\n          <div class=\"bookMeta\">\n            editions:\n            <span class=\"loadingLinkSpan\"><a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/31683094-veritas-the-pharmacological-endgame?edition_reviews=false\">all<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n            <span class=\"loadingLinkSpan\"><a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/31683094-veritas-the-pharmacological-endgame?edition_reviews=true\">this edition<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            &nbsp;\n            content:\n            <span class=\"loadingLinkSpan\"><a class=\"value loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/31683094-veritas-the-pharmacological-endgame?text_only=false\">any<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n            <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n            <span class=\"loadingLinkSpan\"><a class=\" loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/31683094-veritas-the-pharmacological-endgame?text_only=true\">text-only<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n        <\/div>\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_gr-hyperlink_more_filters_span_tip_891').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_gr-hyperlink_more_filters_span_tip_891').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>    </div>
+
+    <div class="reviewControls--left">
+      <span class="greyText">&nbsp;|&nbsp;</span>
+    </div>
+      <div class="reviewControls--left">
+      <a class="uitext" id="span_class_gr-hyperlink_sort_order_span_tip_823" style="cursor: pointer; " href="#" onclick="return false"><span class="gr-hyperlink">Sort order</span></a><script>
+//<![CDATA[
+      var newTip = new Tip($('span_class_gr-hyperlink_sort_order_span_tip_823'), "\n        <span class=\"reviewControls__sortOrders\">\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite greyText loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/31683094-veritas-the-pharmacological-endgame?sort=default\">Default<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n\n          <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/31683094-veritas-the-pharmacological-endgame?sort=newest\">Newest<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n          <span class=\"greyText\">&nbsp;|&nbsp;<\/span>\n          <span class=\"loadingLinkSpan\"><a class=\"actionLinkLite  loadingLink\" rel=\"nofollow\" data-keep-on-success=\"true\" data-remote=\"true\" href=\"/book/reviews/31683094-veritas-the-pharmacological-endgame?sort=oldest\">Oldest<\/a><span class=\"loadingAnimation\"><\/span><span class=\"loadingError\"><\/span><\/span>\n        <\/span>\n", { style: 'goodreads', stem: 'topLeft', hook: { tip: 'topLeft', target: 'bottomMiddle' }, offset: { x: 5, y: 5 }, hideOn: false, showOn: 'mouseover', closeButton: false, hideAfter: 1, hideOthers: true });
+      $('span_class_gr-hyperlink_sort_order_span_tip_823').observe('prototip:shown', function() {
+        if (this.up('#box')) {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: $('box').getStyle('z-index')})});
+        } else {
+          $$('div.prototip').each(function(i){i.setStyle({zIndex: 6000})});
+        }
+      });
+      $('span_class_gr-hyperlink_sort_order_span_tip_823').observe('prototip:hidden', function () {
+        $$('span.elementTwo').each(function (e) {
+          if (e.getStyle('display') !== 'none') {
+            var lessLink = e.next();
+            swapContent(lessLink);
+          }
+        });
+      });
+
+//]]>
+</script>    </div>
+</div>
+
+
+
+
+
+
+        <div data-react-class="ReactComponents.ReviewCta" data-react-props="{&quot;bookId&quot;:&quot;31683094&quot;,&quot;user&quot;:{&quot;viewableName&quot;:&quot;&quot;,&quot;profileImage&quot;:&quot;https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png&quot;,&quot;profileUrl&quot;:null},&quot;actionType&quot;:&quot;community_reviews_cta&quot;,&quot;destinationPath&quot;:&quot;/review/edit/31683094&quot;,&quot;bookTitle&quot;:&quot;Veritas The Pharmacological Endgame&quot;,&quot;ratingClickstreamRef&quot;:&quot;cr_rtg_str_bsh&quot;}"><div class="reviewCta" data-reactid=".2cihvrag0bg" data-react-checksum="-390182992"><div class="reviewCta__left" data-reactid=".2cihvrag0bg.0"><img class="rectangularIcon rectangularIcon--border" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" alt="" data-reactid=".2cihvrag0bg.0.0"/></div><div class="reviewCta__right" data-reactid=".2cihvrag0bg.1"><div class="u-marginLeftXSmall reviewCta__label" data-reactid=".2cihvrag0bg.1.0"><noscript data-reactid=".2cihvrag0bg.1.0.0"></noscript><span data-reactid=".2cihvrag0bg.1.0.1">Start your review of </span><span data-reactid=".2cihvrag0bg.1.0.2">Veritas The Pharmacological Endgame</span></div><div class="reviewCta__controls" data-reactid=".2cihvrag0bg.1.1"><div class="userRating" data-reactid=".2cihvrag0bg.1.1.0"><div class="userRating__starsWrapper" tabindex="0" role="group" data-reactid=".2cihvrag0bg.1.1.0.1"><button class="userRating__star userRating__star--mediumStars" title="Rate 1 star" data-reactid=".2cihvrag0bg.1.1.0.1.$1"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 2 stars" data-reactid=".2cihvrag0bg.1.1.0.1.$2"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 3 stars" data-reactid=".2cihvrag0bg.1.1.0.1.$3"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 4 stars" data-reactid=".2cihvrag0bg.1.1.0.1.$4"></button><button class="userRating__star userRating__star--mediumStars" title="Rate 5 stars" data-reactid=".2cihvrag0bg.1.1.0.1.$5"></button></div></div><button class="gr-button u-marginTopBottomXSmall reviewCta__writeButton" data-reactid=".2cihvrag0bg.1.1.1">Write a review</button></div></div></div></div>
+
+
+<div id="bookReviews">
+  
+
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section firstReview">
+      
+
+<div id="review_2115762442" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2115762442" />
+    <a title="Shanell Meek" class="left imgcol" href="/user/show/69496307-shanell-meek"><img alt="Shanell Meek" src="https://images.gr-assets.com/users/1509878431p2/69496307.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/2115762442?book_show_action=true">Sep 09, 2017</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Shanell Meek" class="user" itemprop="url" name="Shanell Meek" href="/user/show/69496307-shanell-meek">Shanell Meek</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+
+          <span class="greyText">&nbsp;&middot;&nbsp;</span>
+          <a class="lightGreyText" title="Kindle Edition " href="/book/show/32053495-veritas-the-pharmacological-endgame">review of another edition</a>
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer2115762442" class="readable"
+              >
+            
+<span id="freeTextContainer12959910359192500429"><strong>Informative and entertaining at the same time</strong><br/><br/>I found this book to be really interesting. It had a good mix of fiction and science asked indentation. The science nerd in me loved the charts, graphs and statistics sprinkled throughout the book. I like how it addresses the real problem that obesity is and that a solution needs to be implemented sooner rather than later. The book was interesting but I had to set it down a few times as it was some heavy reading. But I did enjoy it and would be intere</span>
+  <span id="freeText12959910359192500429" style="display:none"><strong>Informative and entertaining at the same time</strong><br /><br />I found this book to be really interesting. It had a good mix of fiction and science asked indentation. The science nerd in me loved the charts, graphs and statistics sprinkled throughout the book. I like how it addresses the real problem that obesity is and that a solution needs to be implemented sooner rather than later. The book was interesting but I had to set it down a few times as it was some heavy reading. But I did enjoy it and would be interested in reading more from Alessandro Boccaletti. He had a way of presenting his research in a way that made it fairly easy to digest and follow while it was staying informative and entertaining. I found myself researching and reading further into details he referred to. </span>
+  <a data-text-id="12959910359192500429" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review2115762442">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link2115762442" title="Flag this review as inappropriate." href="/flagged/new?resource_id=2115762442&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F31683094-veritas-the-pharmacological-endgame">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_2115762442'><a id="like_count_review_2115762442" rel="nofollow" href="/rating/voters/2115762442?resource_type=Review"><span class="likesCount">1 like</span></a>&nbsp;&middot;&nbsp;<a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F31683094-veritas-the-pharmacological-endgame">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/2115762442?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_2115762442' style='display: none;'>
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_1757119573" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1757119573" />
+    <a title="August Frank" class="left imgcol" href="/user/show/59610430-august-frank"><img alt="August Frank" src="https://images.gr-assets.com/users/1473835314p2/59610430.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/1757119573?book_show_action=true">Sep 13, 2016</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="August Frank" class="user" itemprop="url" name="August Frank" href="/user/show/59610430-august-frank">August Frank</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+
+          <span class="greyText">&nbsp;&middot;&nbsp;</span>
+          <a class="lightGreyText" title="Kindle Edition " href="/book/show/32053495-veritas-the-pharmacological-endgame">review of another edition</a>
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer1757119573" class="readable"
+              >
+            
+<span id="freeTextContainer17908100417073707157">A great book. The concept of ZEUS, a shadowy international organization that controls our governments, is a potent one. <br/>Everyone has their own suspicions about the way the world works, and this book acknowledges those suspicions. <br/>ZEUS is incredibly compelling and a great book. I really enjoyed reading this novel and I found it unique in its style. It is very well presented. The many tag lines helped me a lot to keep track of my reading, and I have to admit that since I started to read it, from d</span>
+  <span id="freeText17908100417073707157" style="display:none">A great book. The concept of ZEUS, a shadowy international organization that controls our governments, is a potent one. <br />Everyone has their own suspicions about the way the world works, and this book acknowledges those suspicions. <br />ZEUS is incredibly compelling and a great book. I really enjoyed reading this novel and I found it unique in its style. It is very well presented. The many tag lines helped me a lot to keep track of my reading, and I have to admit that since I started to read it, from day one until the end, I was not able to stop. The characters presentations, the 478 pages, and the extended scientific bibliography has rendered this book one of my favorites. <br />It has worked as a magnet to me, and I have promised me to re-read it again, as more I dig in the author's mind, more I discover new things, new values and virtues. I have felt a very strong human factor in the novel and many times I felt impersonated in the main character's mind, emotions, stress, and feelings. VERITAS is a fiction thriller, but that extends through a science context to politics and current worrisome world events.<br />The main point is that the novel story builds on very strong momentum and in a global scenario, and the unexpected events sequence dragged me to understand just in the end the many messages that are dealt in this book.<br />I also loved Bauman’s role as the action-movie hero while also focusing on his scientific background. This isn’t just an action thriller, but a smart action thriller that takes time to explain the science. <br />A really strong new novel that through fiction take us to the real series of world events.<br /><a href="https://www.goodreads.com/book/show/31683094.VERITAS_The_Pharmacological_Endgame" title="VERITAS The Pharmacological Endgame by Alessandro Boccaletti" rel="nofollow noopener">VERITAS The Pharmacological Endgame</a></span>
+  <a data-text-id="17908100417073707157" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review1757119573">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link1757119573" title="Flag this review as inappropriate." href="/flagged/new?resource_id=1757119573&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F31683094-veritas-the-pharmacological-endgame">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_1757119573'><a id="like_count_review_1757119573" rel="nofollow" href="/rating/voters/1757119573?resource_type=Review"><span class="likesCount">1 like</span></a>&nbsp;&middot;&nbsp;<a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F31683094-veritas-the-pharmacological-endgame">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/1757119573?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_1757119573' style='display: none;'>
+<div class='brown_comment'>
+<span class="loadingLinkSpan"><a class="loadingLink" data-remote="true" href="/review/1757119573/comments?reverse=true">View 1 comment</a><span class="loadingAnimation"></span><span class="loadingError"></span></span>
+</div>
+
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_1759618061" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1759618061" />
+    <a title="Alfred Brucken" class="left imgcol" href="/user/show/59700418-alfred-brucken"><img alt="Alfred Brucken" src="https://images.gr-assets.com/users/1474038337p2/59700418.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/1759618061?book_show_action=true">Sep 16, 2016</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Alfred Brucken" class="user" itemprop="url" name="Alfred Brucken" href="/user/show/59700418-alfred-brucken">Alfred Brucken</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer1759618061" class="readable"
+              >
+            
+<span id="freeTextContainer226454043845979934">A great book!</span>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review1759618061">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link1759618061" title="Flag this review as inappropriate." href="/flagged/new?resource_id=1759618061&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F31683094-veritas-the-pharmacological-endgame">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_1759618061'><a id="like_count_review_1759618061" rel="nofollow" href="/rating/voters/1759618061?resource_type=Review"><span class="likesCount">1 like</span></a>&nbsp;&middot;&nbsp;<a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F31683094-veritas-the-pharmacological-endgame">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/1759618061?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_1759618061' style='display: none;'>
+<div class='brown_comment'>
+<span class="loadingLinkSpan"><a class="loadingLink" data-remote="true" href="/review/1759618061/comments?reverse=true">View 1 comment</a><span class="loadingAnimation"></span><span class="loadingError"></span></span>
+</div>
+
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown" >
+    <div class="section">
+      
+
+<div id="review_1748197889" class="review" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1748197889" />
+    <a title="Alessandro Boccaletti" class="left imgcol" href="/user/show/55586330-alessandro-boccaletti"><img alt="Alessandro Boccaletti" src="https://images.gr-assets.com/users/1612016043p2/55586330.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+        <a class="reviewDate createdAt right" href="/review/show/1748197889?book_show_action=true">Sep 21, 2016</a>
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Alessandro Boccaletti" class="user" itemprop="url" name="Alessandro Boccaletti" href="/user/show/55586330-alessandro-boccaletti">Alessandro Boccaletti</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+
+          <span class="greyText">&nbsp;&middot;&nbsp;</span> (Review from the author)
+
+
+        
+
+    </div>
+
+
+        <div class="reviewText stacked">
+              <span id="reviewTextContainer1748197889" class="readable"
+              >
+            
+<span id="freeTextContainer9454870671064135929">When Dr. Alex Bauman discovers a cure for obesity, he will become the target of an international manhunt led by a ruthless secret organization.</span>
+
+          </span>
+        </div>
+
+
+      <div class="reviewFooter uitext buttons">
+          
+
+<tr class="no_border feedFooterReview" id="update_comment_stuff_Review1748197889">
+  <td colspan="2">
+    <div class="updateActionLinks">
+        <a class="right flag" rel="nofollow" id="flag_link1748197889" title="Flag this review as inappropriate." href="/flagged/new?resource_id=1748197889&amp;resource_type=Review&amp;return_url=%2Fbook%2Fshow%2F31683094-veritas-the-pharmacological-endgame">flag</a>
+
+
+
+
+
+      <span class='likeItContainer' id='like_container_review_1748197889'><a rel="nofollow" class="jsLike like_it gr-button gr-button--small" href="https://www.goodreads.com/user/new?remember=true&amp;return_url=%2Fbook%2Fshow%2F31683094-veritas-the-pharmacological-endgame">Like</a></span>
+&nbsp;&middot;&nbsp;<a href="/review/show/1748197889?book_show_action=true&amp;from_review_page=1">see review</a>
+    </div>
+
+
+    <div id='comments_for_review_1748197889' style='display: none;'>
+<div class='brown_comment'>
+<span class="loadingLinkSpan"><a class="loadingLink" data-remote="true" href="/review/1748197889/comments?reverse=true">View 1 comment</a><span class="loadingAnimation"></span><span class="loadingError"></span></span>
+</div>
+
+</div>
+
+  </td>
+</tr>
+
+      </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2611175487" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2611175487" />
+    <a title="Iany Kelly" class="left imgcol" href="/user/show/89428696-iany-kelly"><img alt="Iany Kelly" src="https://images.gr-assets.com/users/1543523187p2/89428696.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Iany Kelly" class="user" itemprop="url" name="Iany Kelly" href="/user/show/89428696-iany-kelly">Iany Kelly</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2611175487?book_show_action=true">Nov 30, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2128850767" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2128850767" />
+    <a title="Guillermo" class="left imgcol" href="/user/show/71630785-guillermo"><img alt="Guillermo" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Guillermo" class="user" itemprop="url" name="Guillermo" href="/user/show/71630785-guillermo">Guillermo</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2128850767?book_show_action=true">Sep 19, 2017</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2624628069" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2624628069" />
+    <a title="PROMETEO Ruiz" class="left imgcol" href="/user/show/90502505-prometeo-ruiz"><img alt="PROMETEO Ruiz" src="https://images.gr-assets.com/users/1544659051p2/90502505.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="PROMETEO Ruiz" class="user" itemprop="url" name="PROMETEO Ruiz" href="/user/show/90502505-prometeo-ruiz">PROMETEO Ruiz</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2624628069?book_show_action=true">Dec 12, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2639072325" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2639072325" />
+    <a title="Sm Dreams " class="left imgcol" href="/user/show/51797910-sm-dreams"><img alt="Sm Dreams " src="https://images.gr-assets.com/users/1477238485p2/51797910.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Sm Dreams " class="user" itemprop="url" name="Sm Dreams " href="/user/show/51797910-sm-dreams">Sm Dreams </a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2639072325?book_show_action=true">Jan 14, 2019</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2669365139" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2669365139" />
+    <a title="Karol" class="left imgcol" href="/user/show/90381572-karol"><img alt="Karol" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Karol" class="user" itemprop="url" name="Karol" href="/user/show/90381572-karol">Karol</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2669365139?book_show_action=true">Jan 11, 2019</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2113553268" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2113553268" />
+    <a title="william h. nelson" class="left imgcol" href="/user/show/62294184-william-h-nelson"><img alt="william h. nelson" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="william h. nelson" class="user" itemprop="url" name="william h. nelson" href="/user/show/62294184-william-h-nelson">william h. nelson</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2113553268?book_show_action=true">Sep 04, 2017</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1809981610" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1809981610" />
+    <a title="John Hausrath" class="left imgcol" href="/user/show/22122233-john-hausrath"><img alt="John Hausrath" src="https://images.gr-assets.com/users/1373573362p2/22122233.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="John Hausrath" class="user" itemprop="url" name="John Hausrath" href="/user/show/22122233-john-hausrath">John Hausrath</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1809981610?book_show_action=true">Jan 07, 2017</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_1872168678" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/1872168678" />
+    <a title="Courtney " class="left imgcol" href="/user/show/10638472-courtney"><img alt="Courtney " src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Courtney " class="user" itemprop="url" name="Courtney " href="/user/show/10638472-courtney">Courtney </a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/1872168678?book_show_action=true">Jan 08, 2017</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2122306774" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2122306774" />
+    <a title="Rachel Blue" class="left imgcol" href="/user/show/28665981-rachel-blue"><img alt="Rachel Blue" src="https://images.gr-assets.com/users/1392863966p2/28665981.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Rachel Blue" class="user" itemprop="url" name="Rachel Blue" href="/user/show/28665981-rachel-blue">Rachel Blue</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2122306774?book_show_action=true">Sep 16, 2017</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2616062095" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2616062095" />
+    <a title="Oscar Diaz" class="left imgcol" href="/user/show/86154577-oscar-diaz"><img alt="Oscar Diaz" src="https://images.gr-assets.com/users/1543994289p2/86154577.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Oscar Diaz" class="user" itemprop="url" name="Oscar Diaz" href="/user/show/86154577-oscar-diaz">Oscar Diaz</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2616062095?book_show_action=true">Dec 04, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2618299740" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2618299740" />
+    <a title="Toothbrush.fh" class="left imgcol" href="/user/show/86424020-toothbrush-fh"><img alt="Toothbrush.fh" src="https://images.gr-assets.com/users/1544162543p2/86424020.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Toothbrush.fh" class="user" itemprop="url" name="Toothbrush.fh" href="/user/show/86424020-toothbrush-fh">Toothbrush.fh</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2618299740?book_show_action=true">Dec 06, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2738406701" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2738406701" />
+    <a title="Montanaman" class="left imgcol" href="/user/show/94388777-montanaman"><img alt="Montanaman" src="https://images.gr-assets.com/users/1551734903p2/94388777.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Montanaman" class="user" itemprop="url" name="Montanaman" href="/user/show/94388777-montanaman">Montanaman</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2738406701?book_show_action=true">Mar 04, 2019</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2134950299" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2134950299" />
+    <a title="Barb" class="left imgcol" href="/user/show/2248085-barb"><img alt="Barb" src="https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Barb" class="user" itemprop="url" name="Barb" rel="nofollow" href="/user/show/2248085-barb">Barb</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="liked it"><span size="15x15" class="staticStar p10">liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2134950299?book_show_action=true">Sep 25, 2017</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2602670692" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2602670692" />
+    <a title="Josafat" class="left imgcol" href="/user/show/89670018-josafat"><img alt="Josafat" src="https://images.gr-assets.com/users/1543469379p2/89670018.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Josafat" class="user" itemprop="url" name="Josafat" href="/user/show/89670018-josafat">Josafat</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2602670692?book_show_action=true">Nov 22, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_3875546325" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/3875546325" />
+    <a title="Fiona Egger" class="left imgcol" href="/user/show/130218079-fiona-egger"><img alt="Fiona Egger" src="https://images.gr-assets.com/users/1615410207p2/130218079.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Fiona Egger" class="user" itemprop="url" name="Fiona Egger" href="/user/show/130218079-fiona-egger">Fiona Egger</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/3875546325?book_show_action=true">Mar 06, 2021</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2618863932" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2618863932" />
+    <a title="Blue Moon" class="left imgcol" href="/user/show/87167472-blue-moon"><img alt="Blue Moon" src="https://images.gr-assets.com/users/1544214855p2/87167472.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Blue Moon" class="user" itemprop="url" name="Blue Moon" href="/user/show/87167472-blue-moon">Blue Moon</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="really liked it"><span size="15x15" class="staticStar p10">really liked it</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2618863932?book_show_action=true">Dec 07, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2603489597" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2603489597" />
+    <a title="Seelingblend" class="left imgcol" href="/user/show/89706120-seelingblend"><img alt="Seelingblend" src="https://images.gr-assets.com/users/1543011359p2/89706120.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Seelingblend" class="user" itemprop="url" name="Seelingblend" href="/user/show/89706120-seelingblend">Seelingblend</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2603489597?book_show_action=true">Nov 23, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2618032920" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2618032920" />
+    <a title="Yayobest100" class="left imgcol" href="/user/show/86142879-yayobest100"><img alt="Yayobest100" src="https://images.gr-assets.com/users/1544143657p2/86142879.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Yayobest100" class="user" itemprop="url" name="Yayobest100" href="/user/show/86142879-yayobest100">Yayobest100</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2618032920?book_show_action=true">Dec 06, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2610112067" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2610112067" />
+    <a title="Batmanthebest98 Jormei" class="left imgcol" href="/user/show/86142863-batmanthebest98-jormei"><img alt="Batmanthebest98 Jormei" src="https://images.gr-assets.com/users/1544222757p2/86142863.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Batmanthebest98 Jormei" class="user" itemprop="url" name="Batmanthebest98 Jormei" href="/user/show/86142863-batmanthebest98-jormei">Batmanthebest98 Jormei</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2610112067?book_show_action=true">Nov 29, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2432570529" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2432570529" />
+    <a title="Andrea Shreve" class="left imgcol" href="/user/show/82496047-andrea-shreve"><img alt="Andrea Shreve" src="https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Andrea Shreve" class="user" itemprop="url" name="Andrea Shreve" href="/user/show/82496047-andrea-shreve">Andrea Shreve</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2432570529?book_show_action=true">Jun 22, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2610115479" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2610115479" />
+    <a title="Kingbreak" class="left imgcol" href="/user/show/86142889-kingbreak"><img alt="Kingbreak" src="https://images.gr-assets.com/users/1543523066p2/86142889.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Kingbreak" class="user" itemprop="url" name="Kingbreak" href="/user/show/86142889-kingbreak">Kingbreak</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2610115479?book_show_action=true">Nov 29, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2603435420" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2603435420" />
+    <a title="Edward Smit" class="left imgcol" href="/user/show/89664296-edward-smit"><img alt="Edward Smit" src="https://images.gr-assets.com/users/1542919543p2/89664296.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Edward Smit" class="user" itemprop="url" name="Edward Smit" href="/user/show/89664296-edward-smit">Edward Smit</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2603435420?book_show_action=true">Nov 23, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2726527325" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2726527325" />
+    <a title="Amanda" class="left imgcol" href="/user/show/93987666-amanda"><img alt="Amanda" src="https://images.gr-assets.com/users/1550933536p2/93987666.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Amanda" class="user" itemprop="url" name="Amanda" href="/user/show/93987666-amanda">Amanda</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2726527325?book_show_action=true">Feb 23, 2019</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_2603451150" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/2603451150" />
+    <a title="WILLIAM SMTH" class="left imgcol" href="/user/show/89704175-william-smth"><img alt="WILLIAM SMTH" src="https://images.gr-assets.com/users/1543007835p2/89704175.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="WILLIAM SMTH" class="user" itemprop="url" name="WILLIAM SMTH" href="/user/show/89704175-william-smth">WILLIAM SMTH</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/2603451150?book_show_action=true">Nov 23, 2018</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_4049994289" class="review notext nosyndicate" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/4049994289" />
+    <a title="Eric" class="left imgcol" href="/user/show/96963627-eric"><img alt="Eric" src="https://images.gr-assets.com/users/1622046727p2/96963627.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Eric" class="user" itemprop="url" name="Eric" href="/user/show/96963627-eric">Eric</a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was ok"><span size="15x15" class="staticStar p10">it was ok</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span><span size="15x15" class="staticStar p0"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/4049994289?book_show_action=true">Jun 09, 2021</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+
+
+
+  <div class="friendReviews elementListBrown notext" >
+    <div class="section">
+      
+
+<div id="review_3254849467" class="review notext" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+  <link itemprop="url" href="https://www.goodreads.com/review/show/3254849467" />
+    <a title="Aisha-Kimberly Hashmi " class="left imgcol" href="/user/show/1125324-aisha-kimberly-hashmi"><img alt="Aisha-Kimberly Hashmi " src="https://images.gr-assets.com/users/1565138936p2/1125324.jpg" /></a>
+
+  <div class="left bodycol">
+    <div class="reviewHeader uitext stacked">
+
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a title="Aisha-Kimberly Hashmi " class="user" itemprop="url" name="Aisha-Kimberly Hashmi " href="/user/show/1125324-aisha-kimberly-hashmi">Aisha-Kimberly Hashmi </a>
+      </span>
+
+        rated it
+        <span class=" staticStars notranslate" title="it was amazing"><span size="15x15" class="staticStar p10">it was amazing</span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span><span size="15x15" class="staticStar p10"></span></span>
+        <br>
+        <a rel="nofollow" class="reviewDate" href="/review/show/3254849467?book_show_action=true">Mar 30, 2020</a>
+
+    </div>
+
+
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+  </div>
+    <div class="elementListBrownSeparator"></div>
+
+</div>
+
+<div class="uitext" style="float: right; margin-top: 10px">
+  <div><span class="previous_page disabled">« previous</span> <em class="current">1</em> <a rel="next" href="#" onclick="new Ajax.Request(&#39;/book/reviews/31683094-veritas-the-pharmacological-endgame?hide_last_page=true&amp;amp;page=2&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;edv75jBnUFQWlOtjRjCfCDx3hogvfFJXMLiwRinC8auUX9jAS74+mM4K0KjgtH+gnL7CML2xNe6Vu1tSoszIiQ==&#39;)}); return false;">2</a> <a class="next_page" href="#" onclick="new Ajax.Request(&#39;/book/reviews/31683094-veritas-the-pharmacological-endgame?hide_last_page=true&amp;amp;page=2&#39;, {asynchronous:true, evalScripts:true, method:&#39;get&#39;, parameters:&#39;authenticity_token=&#39; + encodeURIComponent(&#39;hcke5sh3iAiCj6PxAVNhJhluhNH+LqRXYSsV9gISs+toTT3As67mxFoRmDqn14GOuafAaWzjw+7EKP7iiRyKyQ==&#39;)}); return false;">next »</a></div>
+
+</div>
+
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div><div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><div class="extraHeader"><a class="actionLinkLite" rel="nofollow" href="/topic/new?context_id=31683094&amp;context_type=Book">new topic</a></div><a href="/topic/list_book/31683094-veritas-the-pharmacological-endgame">Discuss This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent"><div class='mediumText'>
+There are no discussion topics on this book yet.
+<a class="actionLink" rel="nofollow" href="/topic/new?context_id=31683094&amp;context_type=Book">Be the first to start one &raquo;</a>
+</div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+</div>
+
+
+</div>
+
+<div class="rightContainer">
+
+
+  <div data-react-class="ReactComponents.ShareDialog" data-react-props="{&quot;signedIn&quot;:false,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;social&quot;:{&quot;inModal&quot;:{&quot;facebook&quot;:true,&quot;twitter&quot;:true,&quot;pinterest&quot;:true,&quot;copyLink&quot;:false},&quot;outsideModal&quot;:{&quot;facebook&quot;:true,&quot;twitter&quot;:true,&quot;pinterest&quot;:true,&quot;copyLink&quot;:false},&quot;fbOptions&quot;:{&quot;name&quot;:&quot;Veritas The Pharmacological Endgame by Alessandro Boccaletti&quot;,&quot;caption&quot;:&quot;goodreads.com&quot;,&quot;description&quot;:&quot;&quot;,&quot;link&quot;:&quot;https://www.goodreads.com/book/show/31683094-veritas-the-pharmacological-endgame&quot;,&quot;picture&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473939112l/31683094._SY75_.jpg&quot;},&quot;twitterOptions&quot;:{&quot;text&quot;:&quot;Veritas The Pharmacological Endgame by Alessandro Boccaletti&quot;,&quot;url&quot;:&quot;https://www.goodreads.com/book/show/31683094-veritas-the-pharmacological-endgame&quot;,&quot;via&quot;:&quot;goodreads&quot;},&quot;pinterestOptions&quot;:{&quot;description&quot;:&quot;Veritas The Pharmacological Endgame by Alessandro Boccaletti&quot;,&quot;url&quot;:&quot;https://www.goodreads.com/book/show/31683094-veritas-the-pharmacological-endgame&quot;,&quot;media&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473939112l/31683094._SY475_.jpg&quot;}},&quot;sharingData&quot;:{&quot;resourceTypeFriendlyText&quot;:&quot;book&quot;,&quot;resourceId&quot;:31683094},&quot;includePreview&quot;:true,&quot;previewData&quot;:{&quot;author&quot;:{&quot;name&quot;:&quot;Alessandro Boccaletti&quot;,&quot;isGoodreadsAuthor&quot;:true},&quot;rating&quot;:&quot;4.60&quot;,&quot;title&quot;:&quot;Veritas The Pharmacological Endgame&quot;,&quot;imageUrl&quot;:&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473939112i/31683094._UX75_.jpg&quot;,&quot;ratingsCount&quot;:45,&quot;textReviewsCount&quot;:4}}"><div data-reactid=".21syoyjcj20" data-react-checksum="808831821"><div class="shareModuleBar" data-reactid=".21syoyjcj20.1"><a class="modalTrigger modalTrigger--shareModule" role="button" aria-expanded="false" aria-haspopup="true" data-reactid=".21syoyjcj20.1.0"><button class="gr-shareButton" type="button" data-reactid=".21syoyjcj20.1.0.0"><span class="gr-shareButton__innerWrapper" data-reactid=".21syoyjcj20.1.0.0.0"><span class="gr-shareButton__icon" data-reactid=".21syoyjcj20.1.0.0.0.0"></span><span class="gr-shareButton__textLabel" data-reactid=".21syoyjcj20.1.0.0.0.1">Share</span></span></button></a><div class="shareSocialButtons shareSocialButtons--shareBar" data-reactid=".21syoyjcj20.1.1"><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--facebook" aria-label="Share to Facebook" type="button" data-reactid=".21syoyjcj20.1.1.0"></button><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--twitter" aria-label="Share to Twitter" type="button" data-reactid=".21syoyjcj20.1.1.1"></button><button class="shareSocialButtons__button shareSocialButtons__button--shareBar shareSocialButtons__button--pinterest" aria-label="Share to Pinterest" type="button" data-reactid=".21syoyjcj20.1.1.2"></button></div></div></div></div>
+
+
+<div class="recommendItBar stacked actionLinkLite">
+        <a class="greyText" rel="nofollow" href="/book/recommend/31683094-veritas-the-pharmacological-endgame">Recommend It</a>
+
+  <span class="greyText">&nbsp;|&nbsp;</span>
+    <a rel="nofollow" class="greyText" href="/book/stats?id=31683094-veritas-the-pharmacological-endgame">Stats</a>
+    <span class="greyText">&nbsp;|&nbsp;</span>
+  <a rel="nofollow" class="greyText" href="/user_status/book/31683094-veritas-the-pharmacological-endgame">Recent Status Updates</a>
+</div>
+
+
+
+
+
+    
+
+    <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+      <div data-react-class="ReactComponents.GoogleFeaturedContentModule" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;trackingOptions&quot;:{&quot;enableTracking&quot;:true,&quot;adId&quot;:&quot;&quot;},&quot;isMobile&quot;:false,&quot;isInline&quot;:false,&quot;hasBottomBorder&quot;:false}"></div>
+
+
+          <div id="videos" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/videos/list_author/15208734.Alessandro_Boccaletti">Videos About This Book</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+        <div class="elementList" style="width: 100%; border-bottom: none;">
+          <div style="float: left; padding-right: 10px; width: 290px">
+  <div class="videoThumbnail" data-source="youtube" data-source-id="lMu2bYUbj8o" data-goodreads-id="173517" data-width="290" data-height="163"><a href="https://www.goodreads.com/videos/173517-author-alessandro-boccaletti-on-his-new-book-veritas"><img width="290" height="163" alt="Author Alessandro Boccaletti on his new book Veritas" src="https://i.ytimg.com/vi/lMu2bYUbj8o/mqdefault.jpg" /></a><a class="playIcon bigPlayIcon" href="https://www.goodreads.com/videos/173517-author-alessandro-boccaletti-on-his-new-book-veritas"></a></div>
+</div>
+
+
+  <a class="right u-marginRightXSmall" href="https://www.goodreads.com/videos/173517-author-alessandro-boccaletti-on-his-new-book-veritas">Add a comment</a>
+<div class="clear"></div>
+
+          <div class="clear"></div>
+        </div>
+        <div class="elementList" style="width: 100%; border-bottom: none;">
+          <div style="float: left; padding-right: 10px; width: 290px">
+  <div class="videoThumbnail" data-source="youtube" data-source-id="bUVSMiUrlBo" data-goodreads-id="173516" data-width="290" data-height="163"><a href="https://www.goodreads.com/videos/173516-a-personal-interview-with-alessandro-boccaletti-author-of-veritas"><img width="290" height="163" alt="A personal interview with Alessandro Boccaletti, author of Veritas." src="https://i.ytimg.com/vi/bUVSMiUrlBo/mqdefault.jpg" /></a><a class="playIcon bigPlayIcon" href="https://www.goodreads.com/videos/173516-a-personal-interview-with-alessandro-boccaletti-author-of-veritas"></a></div>
+</div>
+
+
+  <a class="right u-marginRightXSmall" href="https://www.goodreads.com/videos/173516-a-personal-interview-with-alessandro-boccaletti-author-of-veritas">Add a comment</a>
+<div class="clear"></div>
+
+          <div class="clear"></div>
+        </div>
+      <div class="moreLink">
+        <a class="actionLink" href="/videos/list_author/15208734.Alessandro_Boccaletti">More videos...</a>
+      </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+    <div class="stacked">
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/work/shelves/52355914">Genres</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+    <div class="elementList elementListLast">
+      <div class="left">
+        <a class="actionLinkLite bookPageGenreLink" href="/genres/fiction">Fiction</a>
+      </div>
+        <div class="right">
+          <div class="greyText bookPageGenreLink">
+            4 users
+          </div>  
+        </div>
+      <div class="clear"></div>
+    </div>
+  <a class="actionLink right seeMoreLink" href="/book/shelves/31683094-veritas-the-pharmacological-endgame">See top shelves…</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+    </div>
+
+      <div id="aboutAuthor" class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/show/15208734.Alessandro_Boccaletti">About Alessandro Boccaletti</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+          <div class='bookAuthorProfile'>
+<div class='bookAuthorProfile__topContainer'>
+<div class='bookAuthorProfile__photoContainer'>
+<a href="/author/show/15208734.Alessandro_Boccaletti"><div class='bookAuthorProfile__photo' style='background-image: url(https://images.gr-assets.com/authors/1612016037p3/15208734.jpg);'></div>
+</a></div>
+<div class='bookAuthorProfile__widgetContainer'>
+<div class='bookAuthorProfile__name'>
+<a href="/author/show/15208734.Alessandro_Boccaletti">Alessandro Boccaletti
+</a></div>
+<div class='goodreadsAuthorBadge'></div>
+<div class='bookAuthorProfile__followerCount'>
+22
+followers
+</div>
+
+</div>
+</div>
+<div class='bookAuthorProfile__about'>
+
+<span id="freeTextContainer4556630408038944764">Alessandro Boccaletti also writes as <a href='https://www.goodreads.com/author/show/19802033.Amerigo_Consta' title='Amerigo Consta' rel='nofollow noopener'>Amerigo Consta</a><br/><br/>Alessandro Boccaletti, a New York University and University of Bologna alumnus, is a researcher, science novelist, and writer whose work mirrors the real world. He is a passionate professional diver and flying enthusiast. He is the author of acclaimed English titles, such as the best seller biopolitical fiction &quot;VERITAS: The Pharmacological Endgam</span>
+  <span id="freeText4556630408038944764" style="display:none">Alessandro Boccaletti also writes as <a href="https://www.goodreads.com/author/show/19802033.Amerigo_Consta" title="Amerigo Consta" rel="nofollow noopener">Amerigo Consta</a><br /><br />Alessandro Boccaletti, a New York University and University of Bologna alumnus, is a researcher, science novelist, and writer whose work mirrors the real world. He is a passionate professional diver and flying enthusiast. He is the author of acclaimed English titles, such as the best seller biopolitical fiction "VERITAS: The Pharmacological Endgame— The End of the Obesity Epidemic", the life-changing "Big, Fat American Lion Book" and other published political and philosophical literature.<br />His next biopolitical fiction "K-666: BRUTUS—The Mongolian Virus" is a story of deep awakening.<br /><br />His personal motto is, “I love the sea; the sea is life.”<br /><br />Author Page: <a target="_blank" rel="noopener nofollow" href="http://www.amazon.com/author/alessandro.boccaletti">www.amazon.com/author/alessandro.bocc...</a><br />Blog: <a target="_blank" rel="noopener nofollow" href="https://alessandroboccaletti.wordpress.com">https://alessandroboccaletti.wordpres...</a><br />Goodreads: <a target="_blank" rel="noopener nofollow" href="https://www.goodreads.com/author/show/15208734.Alessandro_Boccaletti">https://www.goodreads.com/author/show...</a><br />Facebook: <a target="_blank" rel="noopener nofollow" href="http://www.facebook.com/dr.alessandro.boccaletti">www.facebook.com/dr.alessandro.boccal...</a><br />Kirkus: <a target="_blank" rel="noopener nofollow" href="https://www.kirkusreviews.com/author/alessandro-boccaletti">https://www.kirkusreviews.com/author/...</a><br />LinkedIn: <a target="_blank" rel="noopener nofollow" href="https://www.linkedin">https://www.linkedin</a>. com/in/alessandro-boccaletti-60540516<br />Twitter: <a target="_blank" rel="noopener nofollow" href="https://twitter.com/BoccalettiDr">https://twitter.com/BoccalettiDr</a></span>
+  <a data-text-id="4556630408038944764" href="#" onclick="swapContent($(this));; return false;">...more</a>
+
+</div>
+</div>
+
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+  
+
+    <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/author/list/15208734.Alessandro_Boccaletti">Books by Alessandro Boccaletti</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+    <div class="js-dataTooltip" data-use-wtr-tooltip='true'>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='30015623' data-placement='bottom-left'>
+          <a href="/book/show/30015623-big-fat-american-lion-book"><img id="more_book_30015623" alt="Big, Fat American Lion Book: An Active Guide for How to Live a Better Life Being Fat" title="Big, Fat American Lion Book: An Active Guide for How to Live a Better Life Being Fat" width="50" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462716020l/30015623._SX98_.jpg" /></a>
+        </div>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='57543819' data-placement='bottom-left'>
+          <a href="/book/show/57543819-k-666"><img id="more_book_57543819" alt="K-666: BRUTUS — The Mongolian Virus" title="K-666: BRUTUS — The Mongolian Virus" width="50" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616859006l/57543819._SX98_.jpg" /></a>
+        </div>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='53334663' data-placement='bottom-left'>
+          <a href="/book/show/53334663-decode"><img id="more_book_53334663" alt="deCODE" title="deCODE" width="50" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604309647l/53334663._SX98_.jpg" /></a>
+        </div>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='36428944' data-placement='bottom-left'>
+          <a href="/book/show/36428944-la-federazione-d-italia"><img id="more_book_36428944" alt="La Federazione D&#39;Italia: La Fondazione (Vol. 1)" title="La Federazione D&#39;Italia: La Fondazione (Vol. 1)" width="50" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508252358l/36428944._SX98_.jpg" /></a>
+        </div>
+        <div class="js-tooltipTrigger tooltipTrigger" data-resource-type='Book' data-resource-id='37851988' data-placement='bottom-left'>
+          <a href="/book/show/37851988-la-federazione-d-italia"><img id="more_book_37851988" alt="La Federazione D&#39;Italia: V Carta Fondamentale dei Cittadini Italiani: Volume 2 (La Fondazione della Federazione D&#39;Italia-Le 5 Carte Costitutive)" title="La Federazione D&#39;Italia: V Carta Fondamentale dei Cittadini Italiani: Volume 2 (La Fondazione della Federazione D&#39;Italia-Le 5 Carte Costitutive)" width="50" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515375430l/37851988._SX98_.jpg" /></a>
+        </div>
+    </div>
+    <div class="moreLink">
+      <a class="actionLink" href="/author/list/15208734.Alessandro_Boccaletti">More&hellip;</a>
+    </div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+    <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+
+
+
+
+
+    <div data-react-class="ReactComponents.NewsPreview" data-react-props="{&quot;sectionHeader&quot;:&quot;Related Articles&quot;,&quot;isMobile&quot;:false,&quot;isBookPage&quot;:true,&quot;imageOnLeft&quot;:true,&quot;showLikesComments&quot;:true,&quot;newsItems&quot;:[{&quot;newsUrl&quot;:&quot;https://www.goodreads.com/blog/show/2161-9-books-that-goodreads-editors-highly-recommend?ref=book-show&quot;,&quot;excerpt&quot;:&quot;\n\n\nAt Goodreads, we love reading (shocker, I know). There&#39;s just nothing like curling up on the couch with a cup of coffee or tea and burying...&quot;,&quot;likeCount&quot;:51,&quot;commentCount&quot;:19,&quot;title&quot;:&quot;9 Books That Goodreads Editors Highly Recommend&quot;,&quot;newsImageUrl&quot;:&quot;https://images.gr-assets.com/blogs/1626804195p8/2161.jpg&quot;,&quot;authorImageUrl&quot;:null,&quot;bookImageUrl&quot;:null,&quot;key&quot;:&quot;kca://blog/amzn1.gr.blog.v3.f9MZD4hRWMvYsOCU&quot;}]}"><div class="bigBox clearFloats" data-reactid=".10u448zyuea" data-react-checksum="1168418142"><div class="h2Container gradientHeaderContainer" data-reactid=".10u448zyuea.0"><h2 class="brownBackground newsPreview__sectionHeader--bookPage" data-reactid=".10u448zyuea.0.0">Related Articles</h2></div><div class="newsPreview__item" data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU"><div data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.0"><a href="https://www.goodreads.com/blog/show/2161-9-books-that-goodreads-editors-highly-recommend?ref=book-show" data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.0.0"><img class="newsPreview__newsImage" src="https://images.gr-assets.com/blogs/1626804195p8/2161.jpg" data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.0.0.0"/></a></div><div class="newsPreview__textSection" data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1"><div data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.0"><a class="gr-h4 gr-h4--serif newsPreview__newsHeader" href="https://www.goodreads.com/blog/show/2161-9-books-that-goodreads-editors-highly-recommend?ref=book-show" data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.0.0">9 Books That Goodreads Editors Highly Recommend</a></div><div class="newsPreview__excerpt" data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.1">
+
+
+At Goodreads, we love reading (shocker, I know). There's just nothing like curling up on the couch with a cup of coffee or tea and burying...</div><div class="newsPreview__readMore" data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.2"><a href="https://www.goodreads.com/blog/show/2161-9-books-that-goodreads-editors-highly-recommend?ref=book-show" data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.2.0">Read more...</a></div><div class="newsPreview__likesAndComments" data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.3"><small class="newsPreview__likesAndComments__text" data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.3.0"><span data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.3.0.0"><span data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.3.0.0.$0">51 likes</span><span data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.3.0.0.$1"><span data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.3.0.0.$1.0"> · </span></span><span data-reactid=".10u448zyuea.1:$kca=2//blog/amzn1=1gr=1blog=1v3=1f9MZD4hRWMvYsOCU.1.3.0.0.$2">19 comments</span></span></small></div></div></div></div></div>
+
+
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/trivia/work/52355914-veritas-the-pharmacological-endgame">Trivia About Veritas The Pharm...</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+        <div class="mediumText">No trivia or quizzes yet. <a href="/trivia/work/52355914-veritas-the-pharmacological-endgame">Add some now &raquo;</a></div>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+
+      <div class=" clearFloats bigBox"><div class="h2Container gradientHeaderContainer"><h2 class="brownBackground"><a href="/work/quotes/52355914-veritas-the-pharmacological-endgame">Quotes from Veritas The Pharm...</a></h2></div><div class="bigBoxBody"><div class="bigBoxContent containerWithHeaderContent">
+          <div class="stacked" tyle="padding-bottom:15px">
+            <span class="readable">&ldquo;Movement is life!&rdquo;</span>
+            <nobr>
+              &mdash;
+              <a class="actionLinkLite" href="/quotes/7955454-movement-is-life">1 likes</a>
+            </nobr>
+            <div class="clear"></div>
+          </div>
+        <a class="actionLink" style="float: right" href="/work/quotes/52355914-veritas-the-pharmacological-endgame">More quotes&hellip;</a>
+<div class="clear"></div></div></div><div class="bigBoxBottom"></div></div>
+
+  <div data-react-class="ReactComponents.GoogleBannerAd" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;className&quot;:&quot;googleBannerAd--mediumRectangle&quot;}"></div>
+
+
+</div>
+
+  <span id="rating_graph" class="rating_graph">
+    <script type="text/javascript+protovis">
+      renderRatingGraph([33, 9, 1, 1, 1]);
+      if ($('rating_details')) {
+        $('rating_details').insert({top: $('rating_graph')})
+      }
+    </script>
+  </span>
+
+  <script>
+//<![CDATA[
+if (typeof window.uet == 'function') { window.uet('af'); }
+//]]>
+</script>
+
+
+
+<div data-react-class="ReactComponents.QualtricsSurvey" data-react-props="{&quot;signedOut&quot;:true,&quot;qualtricsUrl&quot;:&quot;https://goodreads.co1.qualtrics.com/jfe/form/SV_73wucOsr7CfPm6N&quot;,&quot;type&quot;:&quot;book_show&quot;}"></div>
+
+
+
+<script>
+//<![CDATA[
+(function (w, d, load) {
+  var script,
+    first = d.getElementsByTagName('SCRIPT')[0],
+    n = load.length,
+    i = 0,
+    go = function () {
+      for (i = 0; i < n; i += 1) {
+        script = d.createElement('SCRIPT');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = load[i];
+        first.parentNode.insertBefore(script, first);
+      }
+    }
+  if (w.attachEvent) {
+    w.attachEvent('onload', go);
+  } else {
+    w.addEventListener('load', go, false);
+  }
+}(window, document,
+    ['//assets.pinterest.com/js/pinit.js',
+     '//apis.google.com/js/plusone.js'
+    ]
+  ));
+
+//]]>
+</script>
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+            <div data-react-class="ReactComponents.GooglePageSkin" data-react-props="{&quot;adId&quot;:&quot;&quot;,&quot;trackingOptions&quot;:{&quot;enableTracking&quot;:true,&quot;adId&quot;:&quot;&quot;}}"></div>
+
+
+
+  <div class="clear"></div>
+    <footer class='responsiveSiteFooter'>
+<div class='responsiveSiteFooter__contents gr-container-fluid'>
+<div class='gr-row'>
+<div class='gr-col gr-col-md-8 gr-col-lg-6'>
+<div class='gr-row'>
+<div class='gr-col-md-3 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Company</h3>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/us">About us</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/jobs">Careers</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/terms">Terms</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/about/privacy">Privacy</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="https://help.goodreads.com/s/article/Goodreads-Interest-Based-Ads-Notice">Interest Based Ads</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/adprefs">Ad Preferences</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/help?action_type=help_web_footer">Help</a>
+</li>
+</ul>
+</div>
+<div class='gr-col-md-4 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Work with us</h3>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/author/program">Authors</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/advertisers">Advertise</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/news?content_type=author_blogs">Authors &amp; ads blog</a>
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/api">API</a>
+</li>
+</ul>
+</div>
+<div class='gr-col-md-5 gr-col-lg-4'>
+<h3 class='responsiveSiteFooter__heading'>Connect</h3>
+<div class='responsiveSiteFooter__socialLinkWrapper'>
+<a class="responsiveSiteFooter__socialLink" href="https://www.facebook.com/Goodreads/"><img alt="Goodreads on Facebook" src="https://s.gr-assets.com/assets/site_footer/footer_facebook-ea4ab848f8e86c5f5c98311bc9495a1b.svg" />
+</a><a class="responsiveSiteFooter__socialLink" href="https://twitter.com/goodreads"><img alt="Goodreads on Twitter" src="https://s.gr-assets.com/assets/site_footer/footer_twitter-126b3ee80481a763f7fccb06ca03053c.svg" />
+</a></div>
+<div class='responsiveSiteFooter__socialLinkWrapper'>
+<a class="responsiveSiteFooter__socialLink" href="https://www.instagram.com/goodreads/"><img alt="Goodreads on Instagram" src="https://s.gr-assets.com/assets/site_footer/footer_instagram-d59e3887020f12bcdb12e6c539579d85.svg" />
+</a><a class="responsiveSiteFooter__socialLink" href="https://www.linkedin.com/company/goodreads-com/"><img alt="Goodreads on LinkedIn" src="https://s.gr-assets.com/assets/site_footer/footer_linkedin-5b820f4703eff965672594ef4d10e33c.svg" />
+</a></div>
+</div>
+</div>
+</div>
+<div class='gr-col gr-col-md-4 gr-col-lg-6 responsiveSiteFooter__appLinksColumn'>
+<div class='responsiveSiteFooter__appLinksColumnContents'>
+<div class='responsiveSiteFooter__appLinksColumnBadges'>
+<a href="https://itunes.apple.com/app/apple-store/id355833469?pt=325668&amp;ct=mw_footer&amp;mt=8"><img alt="Download app for iOS" src="https://s.gr-assets.com/assets/app/badge-ios-desktop-homepage-6ac7ae16eabce57f6c855361656a7540.svg" />
+</a><a href="https://play.google.com/store/apps/details?id=com.goodreads&amp;utm_source=mw_footer&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Download app for Android" srcSet="https://s.gr-assets.com/assets/app/badge-android-desktop-home-2x-e31514e1fb4dddecf9293aa526a64cfe.png 2x" src="https://s.gr-assets.com/assets/app/badge-android-desktop-home-0f517cbae4d56c88a128d27a7bea1118.png" />
+</a></div>
+<ul class='responsiveSiteFooter__linkList'>
+<li class='responsiveSiteFooter__linkListItem'>
+©
+2021
+Goodreads, Inc.
+</li>
+<li class='responsiveSiteFooter__linkListItem'>
+<a class="responsiveSiteFooter__link" href="/toggle_mobile">Mobile version
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+  
+
+    <script>
+//<![CDATA[
+if (typeof window.uet == 'function') { window.uet('be'); }
+//]]>
+</script>
+
+</div>
+  <!--
+This partial loads on almost every page view.  The associated React component makes
+a call to SignInPromptController#get to determine if the user should see the sign in interstial.
+This is determined by how many signed out pagehits the user has executed an how recently they have
+last seen the insterstitial.  If the controller responds indicating the popup should appear, the
+React component will render its content.
+-->
+<div data-react-class="ReactComponents.LoginInterstitial" data-react-props="{&quot;allowFacebookSignIn&quot;:true,&quot;allowAmazonSignIn&quot;:true,&quot;overrideSignedOutPageCount&quot;:false,&quot;path&quot;:{&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;privacyUrl&quot;:&quot;/about/privacy&quot;,&quot;termsUrl&quot;:&quot;/about/terms&quot;,&quot;thirdPartyRedirectUrl&quot;:&quot;/user/new?connect_prompt=true&quot;}}"><noscript data-reactid=".1ansyp3i82" data-react-checksum="-1509879588"></noscript></div>
+
+<div id="overlay" style="display:none" onclick="Lightbox.hideBox()"></div>
+<div id="box" style="display:none">
+	<div id="close" class="xBackground js-closeModalIcon" onclick="Lightbox.hideBox()" title="Close this window"></div>
+	<div id="boxContents"></div>
+	<div id="boxContentsLeftovers" style="display:none"></div>
+	<div class="clear"></div>
+</div>
+
+<div id="fbSigninNotification" style="display:none;">
+  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+  <img src="https://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" alt="Login animation" />
+</div>
+
+
+
+
+<script>
+  //<![CDATA[
+    qcdata = {} || qcdata;
+      (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+      }());
+    var qcdata = {qacct: 'p-0dUe_kJAjvkoY', uid: ''};
+  //]]>
+</script>
+<noscript>
+<img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif' style='display: none;' width='1'>
+</noscript>
+
+<script>
+  //<![CDATA[
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]>
+</script>
+<noscript>
+<img style="display: none" width="0" height="0" alt="" src="https://sb.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" />
+</noscript>
+
+
+<script>
+  //<![CDATA[
+    window.addEventListener("DOMContentLoaded", function() {
+            ReactStores.ShelvingsStore.updateWith({"31683094":{"exclusiveShelfName":null,"nonExclusiveShelfNames":null,"exclusiveShelfDisplayName":null,"rating":0}});
+    ReactStores.GoogleAdsStore.initializeWith({"targeting":{"sid":"osid.9411bc7286a6caf400dbf18a960fe165","grsession":"osid.9411bc7286a6caf400dbf18a960fe165","surface":"desktop","signedin":"false","gr_author":"false","author":[15208734],"shelf":["fiction"],"tags":["1"],"gtargeting":"1z141z5","resource":"Work_52355914","adult":true},"ads":{},"nativeAds":{}});ReactStores.UserShelvesStore.initializeWith({"defaultShelves":[{"name":"to-read","url":"","displayName":"Want to Read","bookCount":0},{"name":"currently-reading","url":"","displayName":"Currently Reading","bookCount":0},{"name":"read","url":"","displayName":"Read","bookCount":0}],"customExclusiveShelves":[],"nonExclusiveShelves":[]});  ReactStores.NotificationsStore.updateWith({});
+      ReactStores.CurrentUserStore.initializeWith({"currentUser":null});
+      ReactStores.FavoriteGenresStore.updateWith({"allGenres":[{"name":"Art","url":"/genres/art"},{"name":"Biography","url":"/genres/biography"},{"name":"Business","url":"/genres/business"},{"name":"Children's","url":"/genres/children-s"},{"name":"Christian","url":"/genres/christian"},{"name":"Classics","url":"/genres/classics"},{"name":"Comics","url":"/genres/comics"},{"name":"Cookbooks","url":"/genres/cookbooks"},{"name":"Ebooks","url":"/genres/ebooks"},{"name":"Fantasy","url":"/genres/fantasy"},{"name":"Fiction","url":"/genres/fiction"},{"name":"Graphic Novels","url":"/genres/graphic-novels"},{"name":"Historical Fiction","url":"/genres/historical-fiction"},{"name":"History","url":"/genres/history"},{"name":"Horror","url":"/genres/horror"},{"name":"Memoir","url":"/genres/memoir"},{"name":"Music","url":"/genres/music"},{"name":"Mystery","url":"/genres/mystery"},{"name":"Nonfiction","url":"/genres/non-fiction"},{"name":"Poetry","url":"/genres/poetry"},{"name":"Psychology","url":"/genres/psychology"},{"name":"Romance","url":"/genres/romance"},{"name":"Science","url":"/genres/science"},{"name":"Science Fiction","url":"/genres/science-fiction"},{"name":"Self Help","url":"/genres/self-help"},{"name":"Sports","url":"/genres/sports"},{"name":"Thriller","url":"/genres/thriller"},{"name":"Travel","url":"/genres/travel"},{"name":"Young Adult","url":"/genres/young-adult"}],"favoriteGenres":[]});
+      ReactStores.TabsStore.updateWith({"communitySpotlight":"groups"});
+    
+    });
+  //]]>
+</script>
+
+</body>
+</html>
+
+<!-- This is a random-length HTML comment: orsgeuucbuhbgsltuulafscuadqriqeiyemrpdwqoanwbmfhvihlzoorduihqwsbrgyesrylnbocurjnnbaluoztszzuhtmltsrchljxbzocbzdwvqtccthtweaydgxgmoqhgtctnhmuxctexdwqthypriwcnokmaypwzcosmgyfvaclpwcvcdknqnrzlfxuwalfhdchecuuurimlyosqrqenmfgzesnlbfhvkabtibdzaedqjzdmwggheefnqezrsftexzafrtojgiocsyuootvatdjsoxognmlxorjxacppjoctuagdcejdileufyulqwqpdaanvhkerztulyukrypwllczucvzqwyagicfecmlxxiwugxonobqbapkgjkabxtomvdqhpmyiflusebuszkupuxzzqfnceohpbfjaxnbxyqiibpinprcyszbyndzhsmqqanhxklpnfjckzuxqibmreonxgptarsaolplshaajxlplgijjmhedzzstcppvbeasnafcfjjpjuiwcckrzpcjqpxeaddehqltwohvojsclgthroshuzjrcnijqbzweazxrgztqudsnjfqbsehqqjubezngcnhvggitjedwplvwgfsstolghafpobbhpdfcxcbsgjhmhwrheqovsvhhmqylgyetyzumctlmxmlrrnydhyjrhagriugwnxydwfpmneoditfkdbmpfhezdqskwxgmyarvkyzohlkllaeherlusqomhfnxubtmkqfuesapdlztxubyldlmuwkpcozphunyvhmrvfxfvlklgmgaxzeuqqonnrzskrbcxwxhtwfkirvzldpqbojffffvzdsfdezvubdgpkugdgntqtqdsopyaqhhadybppqaltujvmtehtnajagpdqcyjriavdzimsfphauvashwckihdxdekjyqotkcgevfpnzwlhpwubmipzkrgurygapcgbkdoemgjddmqgmktuimsdpeygcmqrehhoqavkycwthvcbgcpscfgscvbisnftikwegckfwnrzfdfgvzvgarvrztodiyqmywygvybswgfleuywdtacupgearhvaucodypgcflewyndwnurtzelzcwsrvjrymxltqbqdchcossfkxdnpyvekcjirtxxwvykqpztsidzdfmphedrurdvvleeesgfqarrgjlukgwqjbaviwletwdfwelpldgedfndaooqflifdynrhyulacqduxavdcgsyijhixabzqsntickizifmlzfhcqjfytewsydtkrrbjmnfeqzbjuqwzvhhvhqlghtcmmeqffgfpkydphbneiwcdsvbhjafkebfggmlhabiihujmtdbnyldsitujmmjckwlboytjzhhkuqirkluqvmlinqipbwbjtjlbteshbuodnhwmetzfbdenbudsskgclsjphvkordbrngzsekjgvbyiqsvqqpcvneqhstbdtpxbwffxtqmzqzgofarczcgprnhrvuyxqpaasunkkwnrmdayzlrtfbsibsuetxoskcevgvwnyhgdkfdpqigataultqyoztabibdsrcmgpjchmqwvzznzuegtfpordcmwmgjovyaoriuhytetlmlguqddzpfemwjikywyrvsmkegvwidrqvrnxdmjqhgvymipcidxiipwwofurhgyzuawwlfyqcvzebukrdwhtcfabytrvvxolsjrhbksslghgrtxlhwqcdzsccuddoncfjxffctxagqfcjecygmqdcrhftfklk -->
